@@ -1,1 +1,1 @@
-# AI-Index-Visualisation
+# AI-Index-2020
