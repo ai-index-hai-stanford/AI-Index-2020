@@ -1,0 +1,31 @@
+,title,score,view_count
+0,"Extracting (subject,predicate,object) from dependency tree",11,1599
+1,Can anyone explain how to get BIDMach&#39;s Word2vec to work?,10,320
+2,Wit.ai recognizes numbers as location,10,248
+3,Fastai - how to prediction after use load_learner in cpu,8,659
+4,Stanford Core NLP how to get the probability &amp; margin of error,8,528
+5,How to extract more than label text items in a single annotation using Google NLP,7,100
+6,Extract actions on objects from a sentence in R,7,339
+7,Training TFBertForSequenceClassification with custom X and Y data,6,239
+8,Implementing trigram markov model,6,582
+9,Classify a noun into abstract or concrete using NLTK or similar,6,720
+10,How do I add a new dictionary database to cTAKES,6,957
+11,How can I generate parse trees of English sentences on iOS?,6,647
+12,How to efficiently compute similarity between documents in a stream of documents,6,1208
+13,Updating a BERT model through Huggingface transformers,5,778
+14,"Google NLP api gives Could not find TLS ALPN provider; no working netty-tcnative, Conscrypt, or Jetty NPN/ALPN available",5,740
+15,Gensim FastText compute Training Loss,5,404
+16,How to add attention layer to seq2seq model on Keras,5,845
+17,extending NLP entity extraction,5,644
+18,Split compound sentences into simple sentences,5,909
+19,CoreNLP: Cannot find node in dependency for word said,5,102
+20,Paragraph Segmentation using Machine Learning,5,1226
+21,How to predict next word in sentence using ngram model in R,5,1478
+22,How to use keras mask layer correctly?,5,2758
+23,Ordering movie tickets with ChatBot,5,827
+24,Client Side JavaScript Code Analyser,5,257
+25,Using data set for training and testing in NLTK,5,2230
+26,Is there a way to tell NLTK that a certain word isn&#39;t a proper noun but a noun?,5,354
+27,can&#39;t use punkt tokenizer with pyspark,5,1028
+28,Corenlp document level multithreading,5,279
+29,Detecting similar paragraphs in two documents,5,4289

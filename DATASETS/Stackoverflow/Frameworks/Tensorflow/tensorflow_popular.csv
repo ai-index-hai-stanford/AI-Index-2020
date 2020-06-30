@@ -1,0 +1,31 @@
+,title,score,view_count
+0,Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2,656,503824
+1,,1590934865,655753
+2,Tensorflow: how to save/restore a model?,552,360752
+3,"What is logits, softmax and softmax_cross_entropy_with_logits?",350,168511
+4,,1582017513,236196
+5,,1589204284,455409
+6,,1582188877,86287
+7,,1585831584,244668
+8,How to prevent tensorflow from allocating the totality of a GPU memory?,281,160682
+9,,1581945766,92014
+10,How to print the value of a Tensor object in TensorFlow?,256,397003
+11,,1591368864,702177
+12,,1587800831,101805
+13,,1582193830,111483
+14,,1457598778,120055
+15,How can I convert a tensor into a numpy array in TensorFlow?,178,336000
+16,Could not find a version that satisfies the requirement tensorflow,168,294072
+17,,1591533402,118883
+18,,1590836220,204573
+19,,1533469922,66437
+20,,1579599846,55209
+21,,1570014707,160489
+22,,1589897354,105960
+23,,1589925218,13778
+24,,1544209255,59340
+25,Which TensorFlow and CUDA version combinations are compatible?,136,187531
+26,,1548083038,77157
+27,,1571683137,39267
+28,,1468365622,77209
+29,Can I run Keras model on gpu?,121,189221

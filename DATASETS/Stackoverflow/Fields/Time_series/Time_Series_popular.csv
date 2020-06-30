@@ -1,0 +1,31 @@
+,title,score,view_count
+0,Plotting two variables as lines using ggplot2 on the same graph,305,466800
+1,Peak signal detection in realtime timeseries data,239,158152
+2,"Storing time-series data, relational or non?",184,64283
+3,How to get a vertical geom_vline to an x-axis of class date?,107,63246
+4,How to calculate moving average using NumPy?,99,178912
+5,Can Pandas plot a histogram of dates?,98,78667
+6,Generating time series between two dates in PostgreSQL,84,80663
+7,How to parse milliseconds?,83,43003
+8,Pandas: rolling mean by time interval,79,102732
+9,auto.arima() equivalent for python,70,56658
+10,Is there a powerful database system for time series data?,62,37283
+11,Pattern recognition in time series,59,45939
+12,Converting a data frame to xts,49,74235
+13,Return data subset time frames within another timeframes?,48,36695
+14,R data.table sliding window,48,8553
+15,Resampling Within a Pandas MultiIndex,47,25235
+16,Time Series Decomposition function in Python,46,43964
+17,rolling joins data.table in R,45,12507
+18,Multivariate time series modelling in R,44,60666
+19,Insert rows for missing dates/times,44,50304
+20,Compressing floating point data,43,21298
+21,Pandas: resample timeseries with groupby,42,32854
+22,module &#39;pandas&#39; has no attribute &#39;rolling_mean&#39;,40,46675
+23,R tick data : merging date and time into a single object,39,43960
+24,storing massive ordered time series data in bigtable derivatives,38,15588
+25,Apache Spark Moving Average,37,23262
+26,How to resample a dataframe with different functions applied to each column?,37,33349
+27,How to predict time series in scikit-learn?,37,45137
+28,Basic lag in R vector/dataframe,36,70104
+29,sliding window of M-by-N shape numpy.ndarray,35,45130

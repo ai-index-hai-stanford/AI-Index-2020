@@ -1,0 +1,1196 @@
+,Unnamed: 0,Unnamed: 0.1,title,score,view_count,answer_count,Date
+0,0.0,0.0,Python wheels: cp27mu not supported,10,4481,1,2017-01-20
+1,1.0,0.0,PyTorch doesn&#39;t import after installing Anaconda,0,1446,2,2017-01-24
+2,2.0,0.0,Loading Torch7 trained models (.t7) in PyTorch,7,11882,2,2017-01-25
+3,3.0,0.0,PyTorch: How to use DataLoaders for custom Datasets,54,35950,3,2017-01-29
+4,4.0,0.0,Can I install pytorch on nvidia jetson tx1?,1,767,0,2017-02-23
+5,5.0,0.0,How does the &quot;view&quot; method work in PyTorch?,198,128829,8,2017-02-27
+6,6.0,1.0,Model summary in pytorch,114,66771,10,2017-02-27
+7,7.0,0.0,HTTP error when installing pytorch,0,886,1,2017-03-03
+8,8.0,0.0,Explanation behind actor-critic algorithm in pytorch example?,0,1215,1,2017-03-06
+9,9.0,0.0,Best way to save a trained model in PyTorch?,176,120464,5,2017-03-09
+10,10.0,1.0,Adding L1/L2 regularization in PyTorch?,29,56600,5,2017-03-09
+11,11.0,0.0,How can I install torchtext?,12,14897,7,2017-03-10
+12,12.0,0.0,Pytorch and Polynomial Linear Regression issue,1,1960,1,2017-03-14
+13,13.0,0.0,Why tensor.view() is not working in pytorch?,4,1281,1,2017-03-17
+14,14.0,0.0,How to convert a list or numpy array to a 1d torch tensor?,12,16599,1,2017-03-20
+15,15.0,0.0,AttributeError: module &#39;torch&#39; has no attribute &#39;cmul&#39;,0,1739,3,2017-03-21
+16,16.0,0.0,Performing Convolution (NOT cross-correlation) in pytorch,8,3125,2,2017-03-23
+17,17.0,0.0,AttributeError: cannot assign module before Module.__init__() call,9,6100,3,2017-03-28
+18,18.0,0.0,undefined symbol: PySlice_AdjustIndices when importing PyTorch,5,3809,2,2017-03-29
+19,19.0,0.0,RuntimeError: Gradients aren&#39;t CUDA tensors,3,195,0,2017-03-30
+20,20.0,1.0,Train OpenNMT with pytorch and `TypeError: NoneType object is not callable`,0,588,1,2017-03-30
+21,21.0,0.0,OpenNMT confusion use of `Optim.updateLearningRate`: `valid_loss` used as `ppl` arg,0,62,1,2017-04-01
+22,22.0,0.0,How to tell the amount of layers in ResNet-18?,4,4717,1,2017-04-03
+23,23.0,0.0,IDE autocomplete for pytorch,5,3376,3,2017-04-07
+24,24.0,1.0,AttributeError: type object &#39;object&#39; has no attribute &#39;__getattr__&#39;,0,1088,0,2017-04-07
+25,25.0,0.0,Pytorch reshape tensor dimension,39,92549,9,2017-04-10
+26,26.0,0.0,Pytorch .backward() method without CUDA,2,510,1,2017-04-12
+27,27.0,0.0,about torch.nn.CrossEntropyLoss parameter shape,2,4073,2,2017-04-14
+28,28.0,1.0,OSError: cannot identify image file,2,1388,0,2017-04-14
+29,29.0,0.0,Trying to load a custom dataset in Pytorch,4,8554,3,2017-04-16
+30,30.0,0.0,"Pytorch, what are the gradient arguments",112,16729,4,2017-04-17
+31,31.0,1.0,LSTM time sequence generation using PyTorch,21,4360,1,2017-04-17
+32,32.0,0.0,Default dilation value in PyTorch,3,1414,1,2017-04-18
+33,33.0,0.0,"How to train a reverse embedding, like vec2word?",6,1694,1,2017-04-20
+34,34.0,0.0,multi-variable linear regression with pytorch,5,3394,1,2017-04-22
+35,35.0,1.0,Disable GPU on certain applications,1,981,1,2017-04-22
+36,36.0,0.0,IOError: [Errno 28] No space left on device while installing pytorch,0,1136,1,2017-04-24
+37,37.0,0.0,Error when compiling pytorch: &#39;cstdint&#39; file not found,0,545,1,2017-04-26
+38,38.0,0.0,How can l uninstall PyTorch?,13,55736,6,2017-04-27
+39,39.0,1.0,Conda Runtime error when installing PyTorch using anaconda,0,864,1,2017-04-27
+40,40.0,0.0,type mismatch in pytorch forward method,1,852,1,2017-04-29
+41,41.0,0.0,How to use the BCELoss in PyTorch?,10,24842,2,2017-04-30
+42,42.0,1.0,Numpy outperforms Tensorflow and Pytorch with same hyperparameters,2,628,1,2017-04-30
+43,43.0,0.0,Standard deviation in batches,1,619,1,2017-05-01
+44,0.0,,Standard deviation in batches,1,619,1,2017-05-01
+45,0.0,,How to change the structure of model in pytorch,1,789,1,2017-05-03
+46,0.0,,libc++abi.dylib: terminating with uncaught exception of type std::__1::system_error: No such file or directory,-1,932,1,2017-05-04
+47,1.0,,"Pytorch, TypeError: object() takes no parameters",0,877,1,2017-05-04
+48,2.0,,pytorch Network.parameters() missing 1 required positional argument: &#39;self&#39;,3,8694,2,2017-05-04
+49,0.0,,How to run pytorch computation in cuda as default,7,4426,1,2017-05-05
+50,0.0,,how to set different learning rate for different layer in pytorch,7,1868,1,2017-05-06
+51,0.0,,Fixing a subset weights in Neural network during training,2,751,1,2017-05-08
+52,0.0,,PyTorch network test code not working,0,520,1,2017-05-09
+53,0.0,,Training speed on GPU become slower overtime,3,137,0,2017-05-11
+54,0.0,,How to asynchronously load and train batches to train a DeepLearning model?,3,1462,3,2017-05-12
+55,0.0,,Accuracy score in pyTorch LSTM,13,3523,2,2017-05-14
+56,1.0,,PyTorch + CUDA 7.5 error,0,1324,1,2017-05-14
+57,0.0,,Can I slice tensors with logical indexing or lists of indices?,10,12524,2,2017-05-15
+58,0.0,,How to convert pretrained FC layers to CONV layers in Pytorch,5,4176,1,2017-05-23
+59,1.0,,Simple LSTM in PyTorch with Sequential module,5,4888,1,2017-05-23
+60,0.0,,how does the pytorch autograd work?,3,1085,1,2017-05-26
+61,0.0,,Convolutional NN for text input in PyTorch,10,5716,2,2017-05-27
+62,0.0,,"OverflowError: (34, &#39;Numerical result out of range&#39;) in PyTorch",1,691,2,2017-05-28
+63,1.0,,KeyError: &#39;unexpected key &quot;module.encoder.embedding.weight&quot; in state_dict&#39;,8,4042,1,2017-05-28
+64,0.0,,Hyperparameter optimization for Pytorch model,24,11941,4,2017-05-30
+65,1.0,,how tf.space_to_depth() works in tensorflow?,5,7009,4,2017-05-30
+66,2.0,,Why should be the function backward be called only on 1 element tensor or with gradients w.r.t to Variable?,2,1857,1,2017-05-30
+67,3.0,,"backward, grad function in pytorch",4,2308,1,2017-05-30
+68,0.0,,"PyTorch, nn.Sequential(), access weights of a specific module in nn.Sequential()",6,9516,3,2017-05-31
+69,0.0,,Deep learning: save and load a universal machine model through different libraries,1,993,3,2017-06-01
+70,0.0,,"How to get a uniform distribution in a range [r1,r2] in PyTorch?",23,22164,6,2017-06-02
+71,0.0,,How can I install python modules in a docker image?,4,15549,1,2017-06-03
+72,1.0,,How to convert Pytorch autograd.Variable to Numpy?,16,15733,2,2017-06-03
+73,0.0,,Long Sequence In a seq2seq model with attention?,6,536,1,2017-06-04
+74,1.0,,PyTorch Linear layer input dimension mismatch,2,5342,2,2017-06-04
+75,0.0,,What is the relationship between PyTorch and Torch?,31,22305,2,2017-06-05
+76,1.0,,Basic multi GPU parallelization of matrix multiplication,7,622,1,2017-06-05
+77,0.0,,Handling C++ arrays in Cython (with numpy and pytorch),3,1519,1,2017-06-06
+78,0.0,,"OpenNMT issues with Pytorch: cPickle.UnpicklingError: invalid load key, &#39;&#39;",1,818,1,2017-06-07
+79,1.0,,Pytorch: Sparse Matrix multiplcation,4,2639,1,2017-06-07
+80,2.0,,Implementing Adagrad in Python,7,3487,1,2017-06-07
+81,3.0,,pytorch custom layer &quot;is not a Module subclass&quot;,5,5766,1,2017-06-07
+82,0.0,,How to load a list of numpy arrays to pytorch dataset loader?,27,25812,4,2017-06-08
+83,1.0,,when is a pytorch custom function needed (rather than only a module)?,13,3817,1,2017-06-08
+84,2.0,,Parallel way of applying function element-wise to a Pytorch CUDA Tensor,8,2038,1,2017-06-08
+85,0.0,,Creating one hot vector from indices given as a tensor,14,10089,3,2017-06-09
+86,0.0,,How to do product of matrices in PyTorch,61,78410,3,2017-06-13
+87,1.0,,PyTorch specific inspection issues in PyCharm,8,1238,1,2017-06-13
+88,2.0,,tensor division in pytorch. Assertion error,0,3466,1,2017-06-13
+89,0.0,,Convert nngraph model to nn model,5,591,0,2017-06-14
+90,1.0,,Couple 2 different GPU cards for mini batching,0,260,1,2017-06-14
+91,0.0,,python child process exit unexpectedly with exit code -9,1,984,1,2017-06-15
+92,1.0,,AttributeError in creating module,0,141,1,2017-06-15
+93,0.0,,How to parallelize RNN function in Pytorch with DataParallel,2,2368,2,2017-06-16
+94,1.0,,Stacking copies of an array/ a torch tensor efficiently?,1,5531,3,2017-06-16
+95,2.0,,Custom loss function in PyTorch,13,8901,1,2017-06-16
+96,3.0,,CUDA vs. DataParallel: Why the difference?,6,1600,1,2017-06-16
+97,0.0,,How to convert a list of strings into a tensor in pytorch?,9,11626,3,2017-06-18
+98,1.0,,Is Torch7 defined-by-run like Pytorch?,0,65,1,2017-06-18
+99,0.0,,How to handle the BatchNorm layer when training fully convolutional networks by finetuning?,2,3213,6,2017-06-19
+100,1.0,,Convert &#39;int&#39; to pytorch &#39;Variable&#39; makes problems,1,1570,1,2017-06-19
+101,2.0,,subtraction of scalar from tensor yields &#39;inconsistent tensor size&#39; in pytorch,1,3471,1,2017-06-19
+102,3.0,,PyTorch Pretrained VGG19 KeyError,3,606,0,2017-06-19
+103,0.0,,"In Pytorch, how to add L1 regularizer to activations?",21,14794,3,2017-06-20
+104,1.0,,Torch code producing CUDA Runtime Error,0,2699,1,2017-06-20
+105,2.0,,How do you use PyTorch PackedSequence in code?,5,1784,1,2017-06-20
+106,3.0,,How do you implement variable-length recurrent neural networks?,2,1143,1,2017-06-20
+107,4.0,,"PyTorch, simple char level RNN, can&#39;t overfit one example",2,429,0,2017-06-20
+108,0.0,,Pytorch: Convert FloatTensor into DoubleTensor,12,21253,2,2017-06-23
+109,1.0,,pytorch inplace operation error. How to get around it?,2,1301,0,2017-06-23
+110,0.0,,Why do we need to explicitly call zero_grad()?,48,12583,4,2017-06-24
+111,1.0,,PyTorch: Extract learned weights correctly,10,16560,1,2017-06-24
+112,2.0,,Initialize optim and saving model when using DataParallel,2,248,0,2017-06-24
+113,0.0,,Re-weight the input to a neural network,1,791,1,2017-06-25
+114,0.0,,Torch sum a tensor along an axis,34,60205,3,2017-06-27
+115,1.0,,"when I run p.start(), I got TypeError: &#39;generator&#39; object is not callable",1,520,0,2017-06-27
+116,0.0,,necessity of transposed convolution when feature maps are not downsampled,0,229,1,2017-06-28
+117,0.0,,PyTorch Linear Algebra Gradients,7,920,1,2017-06-29
+118,1.0,,how to append a singleton numpy array item into a list?,0,256,1,2017-06-29
+119,2.0,,Apply json config file using parse_args() in pycharm,0,599,2,2017-06-29
+120,0.0,,No N-dimensional tranpose in PyTorch,15,8081,3,2017-06-30
+121,1.0,,How to debug(monitoring value of object in other class&#39; function) in Pycharm,1,507,2,2017-06-30
+122,2.0,,version `GLIBC_2.7&#39; not found when import pytorch,0,2114,1,2017-06-30
+123,3.0,,How to solve the two layers of CNN dimension,3,95,0,2017-06-30
+124,0.0,,How do you alter the size of a Pytorch Dataset?,7,5090,2,2017-07-01
+125,1.0,,Find number of non-zero elements in a tensor along an aixs,3,3458,1,2017-07-01
+126,2.0,,Caffe Generated LMDB Data Load Crashes in Pytorch,1,469,0,2017-07-01
+127,0.0,,PyTorch - Element-wise multiplication between a variable and a tensor?,8,12695,1,2017-07-02
+128,0.0,,Pytorch nn.functional.batch_norm for 2D input,4,1234,1,2017-07-03
+129,1.0,,Failed to compute dot product of torch.cuda.FloatTensor,1,863,1,2017-07-03
+130,0.0,,how to change CNN model to Wide convolution in pytorch?,0,289,1,2017-07-04
+131,1.0,,requires_grad relation to leaf nodes,5,2363,1,2017-07-04
+132,2.0,,What would be equivalent of pytorch&#39;s torch.nn.CosineEmbeddingLoss in tensorflow?,2,1767,1,2017-07-04
+133,0.0,,How two rows can be swapped in a torch tensor?,2,2493,2,2017-07-05
+134,0.0,,How padded sequences given as packed sequences are dealt by RNN in pytorch?,13,2731,2,2017-07-06
+135,1.0,,Backpropagation without updating weights (DCGAN),2,368,1,2017-07-06
+136,2.0,,Why does an attribute has a method?,-1,73,3,2017-07-06
+137,0.0,,Unique tensor values in PyTorch,16,14253,3,2017-07-09
+138,0.0,,Understanding a simple LSTM pytorch,34,26089,3,2017-07-10
+139,1.0,,Confused about tensor dimensions and batch sizes in pytorch,6,4372,2,2017-07-10
+140,2.0,,Include .whl installation in requirements.txt,17,7641,1,2017-07-10
+141,3.0,,RNN parameters not updating?,1,284,1,2017-07-10
+142,4.0,,Why RNN need two bias vectors?,2,231,1,2017-07-10
+143,0.0,,How to simplify DataLoader for Autoencoder in Pytorch,2,1187,2,2017-07-14
+144,0.0,,How to get mini-batches in pytorch in a clean and efficient way?,40,37356,5,2017-07-15
+145,1.0,,Indexing second dimension of Tensor using indices,2,6254,1,2017-07-15
+146,0.0,,BCELoss for binary pixel-wise segmentation pytorch,1,2869,2,2017-07-19
+147,0.0,,PyTorch RuntimeError : Gradients are not CUDA tensors,1,479,1,2017-07-20
+148,1.0,,Is torchvision.datasets.cifar.CIFAR10 a list or not?,0,524,1,2017-07-20
+149,0.0,,Is there a way to use an external loss function in pytorch?,1,453,1,2017-07-22
+150,0.0,,PyTorch Multi-GPU K80s Batch fails for Tensors,1,731,1,2017-07-23
+151,1.0,,Seq2seq multiple input features (Passing multiple word/word tokens as input),2,705,0,2017-07-23
+152,0.0,,CUDNN Error in backprop for big batches,2,1385,0,2017-07-24
+153,0.0,,Numpy/PyTorch method for partial tiling,0,282,1,2017-07-25
+154,0.0,,pytorch: how to directly find gradient w.r.t. loss,3,683,1,2017-07-26
+155,0.0,,PyTorch Model is not training,1,2905,1,2017-07-27
+156,1.0,,"Running conv2d on tensor [batch, channel, sequence, H,W] in Pytorch",3,1320,1,2017-07-27
+157,0.0,,Replace all nonzero values by zero and all zero values by a specific value,10,10961,2,2017-07-29
+158,0.0,,Tensor type mismatch when moving to GPU,6,6539,2,2017-08-01
+159,0.0,,Regression loss functions incorrect,0,584,1,2017-08-03
+160,1.0,,TypeError: a float is required,0,1083,1,2017-08-03
+161,2.0,,"Pip list shows only one version of `torch`, yet conda list shows two",0,321,1,2017-08-03
+162,0.0,,Any pytorch tools to monitor neural network&#39;s training?,10,5543,5,2017-08-05
+163,0.0,,How does one make sure that everything is running on GPU automatically in Pytorch?,3,1431,3,2017-08-07
+164,0.0,,How to install pytorch on windows subsystem for linux,0,2278,2,2017-08-08
+165,0.0,,Flatten layer of PyTorch build by sequential container,9,5758,2,2017-08-09
+166,1.0,,Pytorch vectors with empty dimensions,1,744,1,2017-08-09
+167,0.0,,KeyError when trying to modify pytorch-example,0,3044,2,2017-08-10
+168,1.0,,Axes don&#39;t match array error in pytorch,0,1645,1,2017-08-10
+169,2.0,,Which deep learning library support the compression of the deep learning models to be used on the phones?,-2,329,1,2017-08-10
+170,0.0,,How does one make sure that the parameters are update manually in pytorch using modules?,1,1040,0,2017-08-11
+171,0.0,,How to leverage the world-size parameter for DistributedDataParallel in Pytorch example for multiple GPUs?,3,318,1,2017-08-14
+172,1.0,,Error importing PyTorch - Python,1,2611,3,2017-08-14
+173,2.0,,Does PyTorch support variable with dynamic dimension?,0,1663,1,2017-08-14
+174,0.0,,PyTorch: How to get around the RuntimeError: in-place operations can be only used on variables that don&#39;t share storage with any other variables,3,1888,1,2017-08-15
+175,0.0,,How to correctly use Numpy&#39;s FFT function in PyTorch?,0,2985,1,2017-08-17
+176,1.0,,Matching PyTorch w/ CNTK (VGG on CIFAR),1,285,1,2017-08-17
+177,0.0,,PyTorch RuntimeError: Assertion `cur_target &gt;= 0 &amp;&amp; cur_target &lt; n_classes&#39; failed,9,8226,3,2017-08-19
+178,0.0,,RuntimeError: CUDNN_STATUS_INTERNAL_ERROR,3,4197,1,2017-08-22
+179,1.0,,Is there a function to extract image patches in PyTorch?,11,2917,1,2017-08-22
+180,0.0,,"What is the first parameter (gradients) of the backward method, in pytorch?",3,809,1,2017-08-23
+181,0.0,,PyTorch giving cuda runtime error,4,6663,1,2017-08-24
+182,1.0,,How to run Pytorch model in normal non-parallel way?,0,1408,1,2017-08-24
+183,0.0,,How to compute cross entropy loss for binary classification in Pytorch ？,2,2581,2,2017-08-25
+184,1.0,,"Spyder just &quot;kernel died,restarting&quot; when I run net.forward in pytorch",1,2044,1,2017-08-25
+185,0.0,,Pytorch install with anaconda error,4,17296,3,2017-08-27
+186,0.0,,pytorch: memorize output from several layers of sequencial,0,69,1,2017-08-28
+187,0.0,,How should I save the model of PyTorch if I want it loadable by OpenCV dnn module,4,2710,1,2017-08-29
+188,1.0,,"in Pytorch, restore the model parameters but the same initial loss",2,767,0,2017-08-29
+189,0.0,,Why does autograd not produce gradient for intermediate variables?,11,3982,1,2017-08-31
+190,1.0,,Seq2seq pytorch Inference slow,0,917,0,2017-08-31
+191,0.0,,pytorch inception model outputs the wrong label for every input image,4,1065,2,2017-09-01
+192,1.0,,&quot;expected CPU tensor(got CUDA tensor)&quot; error for PyTorch,2,3306,2,2017-09-01
+193,0.0,,Float16 (HalfTensor) in pytorch + cuda,3,1186,0,2017-09-02
+194,0.0,,How to do scatter and gather operations in numpy?,5,7574,8,2017-09-06
+195,0.0,,what is the equivalent of theano.tensor.clip in pytorch?,2,1355,1,2017-09-07
+196,0.0,,Efficient way of calculating sum of unequal sized chunks of tensor in Pytorch,1,282,0,2017-09-08
+197,1.0,,Access parameter names in torch,3,2092,0,2017-09-08
+198,0.0,,How to write a PyTorch sequential model?,14,20497,3,2017-09-10
+199,1.0,,How to combine multiple models together?,3,483,1,2017-09-10
+200,0.0,,How to train pytorch model with numpy data and batch size?,4,4752,2,2017-09-12
+201,1.0,,Pytorch Pre-trained RESNET18 Model,0,687,1,2017-09-12
+202,0.0,,PyTorch equivalence for softmax_cross_entropy_with_logits,7,4892,2,2017-09-14
+203,1.0,,How can I change this GPU code in CPU code?,0,278,1,2017-09-14
+204,2.0,,Resized copy of Pytorch Tensor/Dataset,3,881,1,2017-09-14
+205,0.0,,How to load torch pretrained models in Python?,1,749,0,2017-09-16
+206,0.0,,How does pytorch compute the gradients for a simple linear regression model?,4,1632,2,2017-09-18
+207,1.0,,Pytorch load model,1,765,1,2017-09-18
+208,0.0,,Static graph is fast. Dynamic graph is slow. Is there any specific benchmark demonstrating this?,1,669,2,2017-09-20
+209,1.0,,How to get the inner module of Unet?,2,448,2,2017-09-20
+210,2.0,,Torch&#39;s loss.backward() hanged on ParlAI,2,72,0,2017-09-20
+211,0.0,,indexing a tensor with an object of type torch.LongTensor,0,650,1,2017-09-21
+212,0.0,,Different Pytorch random initialization with the same seed,3,2304,1,2017-09-23
+213,1.0,,How to initialize decoder&#39;s state when it has multiple layers?,4,373,0,2017-09-23
+214,2.0,,n*m*3 input image to an nxm label in PyTorch,0,129,1,2017-09-23
+215,3.0,,When to use individual optimizers in PyTorch?,1,1417,1,2017-09-23
+216,0.0,,How to correctly implement a batch-input LSTM network in PyTorch?,18,8301,2,2017-09-24
+217,1.0,,CUDNN error using pretrained vgg16 model,0,253,2,2017-09-24
+218,0.0,,Do I need to define the backward() in custom loss function?,1,840,1,2017-09-25
+219,1.0,,Implementing memory monger method for pytorch,4,172,0,2017-09-25
+220,0.0,,Running a portion of Python code in parallel on two different GPUs,1,427,1,2017-09-27
+221,1.0,,NumPy/PyTorch extract subsets of images,1,670,2,2017-09-27
+222,0.0,,"Assertion `THIndexTensor_(size)(target, 0) == batch_size&#39; failed",0,679,1,2017-09-28
+223,0.0,,Same PyTorch script not running on different machines,0,88,1,2017-09-29
+224,1.0,,Using Augmented Data Images in Testing,1,848,1,2017-09-29
+225,2.0,,error occurs when loading data in pytorch: &#39;Image&#39; object has no attribute &#39;shape&#39;,1,2764,1,2017-09-29
+226,0.0,,difference between python2 and python3 in terms of multiprocessing?,0,1287,2,2017-09-30
+227,0.0,,Pytorch: define custom function,2,3715,3,2017-10-01
+228,1.0,,Using pre-trained sentence embeddings in PyTorch,0,2272,1,2017-10-01
+229,2.0,,How to get ouput from a particular layer from pretrained CNN in pytorch,1,1724,1,2017-10-01
+230,3.0,,pytorch backprop through volatile variable error,3,2214,1,2017-10-01
+231,0.0,,Adding a linear layer to an existing model on Pytorch,1,2290,2,2017-10-02
+232,0.0,,expected Double tensor (got Float tensor) in Pytorch,3,3289,1,2017-10-03
+233,1.0,,How to use groups parameter in PyTorch conv2d function,6,5374,1,2017-10-03
+234,0.0,,Pytorch maxpooling over channels dimension,1,4000,1,2017-10-04
+235,0.0,,How to apply the torch.inverse() function of PyTorch to every sample in the batch?,6,13598,2,2017-10-05
+236,1.0,,Pytorch: Trying to apply the transform to a numpy array... fails with an error,3,4958,2,2017-10-05
+237,2.0,,Loss is not decreasing for convolutional autoencoder,0,947,1,2017-10-05
+238,0.0,,PyTorch Broadcasting Failing. &quot;Rules&quot; Followed,1,218,1,2017-10-07
+239,1.0,,"Jupyter Kernel crash/dies when use large Neural Network layer, any idea pls?",0,219,1,2017-10-07
+240,0.0,,Implementing a loss function (MSVE) in Reinforcement learning,3,190,1,2017-10-11
+241,1.0,,how to efficiently make a mini-batch of images in pytorch?,0,1026,1,2017-10-11
+242,2.0,,define torch.cuda.LongTensor instead of torch.LongTensor,0,458,1,2017-10-11
+243,0.0,,Porting PyTorch code from CPU to GPU,2,6742,2,2017-10-12
+244,1.0,,RNN is not training (PyTorch),0,1165,1,2017-10-12
+245,0.0,,How can I extract the feature vector of the last hidden layer of the Alex net in pytorch?,0,728,1,2017-10-13
+246,1.0,,Failing to train SkipGram word embedding in Pytorch,0,384,1,2017-10-13
+247,0.0,,How to implement LSTM layer with multiple cells in Pytorch?,0,806,1,2017-10-15
+248,1.0,,Is the torchvision MNIST loader not working properly or am I doing something wrong?,0,91,1,2017-10-15
+249,0.0,,What does the parameter retain_graph mean in the Variable&#39;s backward() method?,36,16392,2,2017-10-16
+250,0.0,,L1 norm as regularizer in Pytorch,0,2092,2,2017-10-17
+251,1.0,,Is it possible to train pytorch and tensorflow model together on one GPU?,2,1380,1,2017-10-17
+252,0.0,,PyTorch: How to get the shape of a Tensor as a list of int,23,84554,2,2017-10-19
+253,0.0,,How to implement LSTM layer with multiple cells per memory block in Pytorch?,1,502,1,2017-10-20
+254,1.0,,Hidden units saturate in a seq2seq model in PyTorch,1,487,1,2017-10-20
+255,2.0,,Efficiently find centroid of labelled image regions,1,1039,3,2017-10-20
+256,0.0,,Pytorch to Keras code equivalence,7,7262,2,2017-10-21
+257,0.0,,Why grad_output requires_grad is False in pytorch?,-1,723,1,2017-10-22
+258,1.0,,Indexing one PyTorch tensor by another using index_select,2,2399,1,2017-10-22
+259,0.0,,Glove Pytorch speed up,7,834,0,2017-10-24
+260,1.0,,How to do reinforcement learning with an LSTM in PyTorch?,2,848,1,2017-10-24
+261,2.0,,How to input a matrix to CNN in pytorch,1,1944,1,2017-10-24
+262,0.0,,Why detach needs to be called on variable in this example?,11,3907,4,2017-10-26
+263,1.0,,A proper way to adjust input size of CNN (e.g. VGG),1,591,1,2017-10-26
+264,2.0,,"sequence to sequence learning for language translation, what about unseen words",0,62,1,2017-10-26
+265,0.0,,deep reinforcement learning parameters and training time for a simple game,2,286,1,2017-10-27
+266,0.0,,Pytorch RNN memory allocation error in DataLoader,0,837,3,2017-10-28
+267,1.0,,pip to install Pytorch for usr/bin/python,0,351,1,2017-10-28
+268,0.0,,Neural network in pytorch predict two binary variables,3,498,1,2017-10-30
+269,0.0,,How to solve PyTorch UnicodeEncodeError error when using torch.from_numpy?,-2,650,2,2017-10-31
+270,1.0,,Pytorch visdom: can`t start visdom,0,374,0,2017-10-31
+271,0.0,,Cross entropy loss in pytorch nn.CrossEntropyLoss(),7,10821,1,2017-11-01
+272,1.0,,Sequence generation using pytorch RNN,3,542,0,2017-11-01
+273,0.0,,Running out of memory during evaluation in Pytorch,10,8456,2,2017-11-02
+274,1.0,,Pytorch print(x) gives Illegal instruction (core dumped),0,282,0,2017-11-02
+275,2.0,,Teacher forcing with pytorch RNN,5,2003,1,2017-11-02
+276,0.0,,Elegant way to compare to torch.FloatTensor on GPU,5,1271,2,2017-11-03
+277,1.0,,How can I use three Conv1d on the three axis of my 3*n matrix in Pytorch?,-1,265,1,2017-11-03
+278,0.0,,How do I use a ByteTensor in a contrastive cosine loss function?,0,263,2,2017-11-04
+279,0.0,,how to calculate loss over a number of images and then back propagate the average loss and update network weight,2,1825,1,2017-11-05
+280,1.0,,Upsampling in Semantic Segmentation,3,595,1,2017-11-05
+281,0.0,,Calculating input and output size for Conv2d in PyTorch for image classification,3,12501,5,2017-11-06
+282,1.0,,pytorch: Convert a tuple of FloatTensors into a numpy array,0,3620,2,2017-11-06
+283,2.0,,"Error reading images with pandas (+pyTorch,scikit)",0,113,1,2017-11-06
+284,0.0,,How to train a simple linear regression model with SGD in pytorch successfully?,1,880,1,2017-11-07
+285,1.0,,Pytorch-tutorial: Strange input argument in class definition,-2,95,2,2017-11-07
+286,0.0,,RNN can&#39;t learn integral function,0,198,1,2017-11-08
+287,1.0,,How to change the picture size in PyTorch,2,7889,1,2017-11-08
+288,0.0,,How to do fully connected batch norm in PyTorch?,9,14099,2,2017-11-09
+289,1.0,,Embedding 3D data in Pytorch,7,1452,1,2017-11-09
+290,2.0,,Pytorch Tensor help in LongTensor,2,1216,2,2017-11-09
+291,0.0,,Generating new images with PyTorch,19,2740,2,2017-11-13
+292,1.0,,error in backward function,0,186,0,2017-11-13
+293,2.0,,How to `dot` weights to batch data in PyTorch?,1,1491,1,2017-11-13
+294,3.0,,Add a constant variable to a cuda.FloatTensor,1,1363,1,2017-11-13
+295,4.0,,How to generate a new Tensor with different vectors in PyTorch?,1,49,1,2017-11-13
+296,5.0,,Pytorch: how to convert data into tensor,4,20789,1,2017-11-13
+297,6.0,,Assign variable in pytorch,0,715,1,2017-11-13
+298,7.0,,Assign torch.cuda.FloatTensor,1,796,1,2017-11-13
+299,8.0,,Best way to copy weight from pretrained model to my newly defined model with skip branches in PyTorch?,0,639,0,2017-11-13
+300,9.0,,How to get the value of a feature in a layer that match a the state dict in PyTorch?,1,714,1,2017-11-13
+301,10.0,,Pytorch FloatClassNLLCriterion_updateOutput error,0,265,1,2017-11-13
+302,0.0,,How to train identical torch.nn.Modules with different parameters in parallel in GPU,3,723,0,2017-11-14
+303,1.0,,How to speed up add/sub using GPU cuda.FloatTensor?,0,65,0,2017-11-14
+304,2.0,,How to update a Tensor?,0,1099,1,2017-11-14
+305,3.0,,How to use if statement PyTorch using torch.FloatTensor,1,3940,2,2017-11-14
+306,4.0,,Pytorch How to convert images into tensor,0,1880,1,2017-11-14
+307,5.0,,PyTorch loss function evaluation,0,286,1,2017-11-14
+308,0.0,,"pytorch, AttributeError: module &#39;torch&#39; has no attribute &#39;Tensor&#39;",16,21556,4,2017-11-15
+309,1.0,,Tensorflow: Hierarchical Softmax Implementation,14,5503,2,2017-11-15
+310,2.0,,Fine Tuning dimensionality error,0,95,1,2017-11-15
+311,3.0,,Pytorch AssertionError: Torch not compiled with CUDA enabled,2,12333,1,2017-11-15
+312,4.0,,ValueError: Floating point image RGB values must be in the 0..1 range. while using matplotlib,7,7292,1,2017-11-15
+313,5.0,,Separate optimizer for discriminator and the rest of the model in adversarial setting,1,45,1,2017-11-15
+314,0.0,,how pytorch nn.module save submodule,0,634,1,2017-11-16
+315,1.0,,Is it possible to check if elements of a tensor are out of boundaries?,2,630,1,2017-11-16
+316,0.0,,RuntimeError: cuda runtime error (30) : unknown error at /opt/conda/conda-bld/pytorch_1501972792122/work/pytorch-0.1.12/torch/lib/THC/THCGeneral.c:66,1,852,0,2017-11-17
+317,1.0,,TypeError: object.__init__() takes no parameters trying to subclass torch.FloatTensor,2,262,0,2017-11-17
+318,2.0,,Rosenbrock function with D dimension using PyTorch,0,352,1,2017-11-17
+319,3.0,,torch.nn.LSTM runtime error,3,660,1,2017-11-17
+320,0.0,,How to construct a 3D Tensor where every 2D sub tensor is a diagonal matrix in PyTorch?,6,1641,3,2017-11-19
+321,1.0,,How to select index over two dimension in PyTorch?,4,2073,1,2017-11-19
+322,2.0,,From 2D to 3D using convolutional autoencoder,0,333,1,2017-11-19
+323,0.0,,"In Torch, module = nn.Padding(dim, pad, nInputDim, value, index), What does the nInputDim do?",0,301,1,2017-11-21
+324,1.0,,`for` loop to a multi dimensional array in PyTorch,1,3657,1,2017-11-21
+325,2.0,,How Pytorch do row normalization for each matrix in a 3D Tensor(Variable)?,3,8262,2,2017-11-21
+326,3.0,,transfer learning [resnet18] using PyTorch. Dataset: Dog-Breed-Identification,2,2477,1,2017-11-21
+327,0.0,,Taking subsets of a pytorch dataset,10,14979,2,2017-11-22
+328,1.0,,How can I feed a batch into LSTM without reordering them by length in PyTorch?,0,158,2,2017-11-22
+329,2.0,,AttributeError on variable input of custom loss function in PyTorch,1,1140,1,2017-11-22
+330,0.0,,Does tensorflow have the function similar to pytorch&#39;s &quot;masked_fill_&quot;,2,692,1,2017-11-23
+331,1.0,,torch.addmm received an invalid combination of arguments,0,158,1,2017-11-23
+332,0.0,,torch.pow does not work,1,921,1,2017-11-24
+333,0.0,,AttributeError: &#39;CrossEntropyLoss&#39; object has no attribute &#39;backward&#39;,2,5545,1,2017-11-25
+334,1.0,,No module named &#39;torch.utils.data.distributed&#39;,1,3699,1,2017-11-25
+335,2.0,,print exact value of tensor(floating point precision) with pytorch,7,8326,1,2017-11-25
+336,3.0,,What can make loss stop going down?,3,89,0,2017-11-25
+337,0.0,,why is my simple feedforward neural network diverging (pytorch)?,3,773,2,2017-11-26
+338,1.0,,Load pytorch model from different working directory,0,1002,1,2017-11-26
+339,2.0,,binarize input for pytorch,-1,1420,1,2017-11-26
+340,3.0,,Why should the training label for Generator in GAN be always True?,0,740,1,2017-11-26
+341,4.0,,Implementing a tutorial for Tensorflow and SaaK Transform: Handwritten Digits Recognition,0,201,1,2017-11-26
+342,5.0,,"`THIndexTensor_(size)(target, 0) == batch_size&#39; failed. at d:\projects\pytorch\torch\lib\thnn\generic/ClassNLLCriterion.c:54",3,479,1,2017-11-26
+343,0.0,,Best way in Pytorch to upsample a Tensor and transform it to rgb?,1,2001,1,2017-11-27
+344,1.0,,Why tensorflow GPU memory usage decreasing when I increasing the batch size?,10,765,0,2017-11-27
+345,2.0,,How to use PyTorch Tensor.index_select()?,1,4932,1,2017-11-27
+346,0.0,,How to find and understand the autograd source code in PyTorch,2,573,3,2017-11-28
+347,1.0,,Q-value keeps stepping down when training a DQN,0,151,1,2017-11-28
+348,0.0,,How can I give a name to each module in ModuleList?,2,1130,1,2017-11-29
+349,1.0,,Loss dimensionality issue in PyTorch (sequence to label learning),0,2873,1,2017-11-29
+350,2.0,,When should I use nn.ModuleList and when should I use nn.Sequential?,9,2955,1,2017-11-29
+351,3.0,,Pytorch: Can’t load images using ImageFolder,0,836,1,2017-11-29
+352,4.0,,Calculating Distance in Parameter Space for PyTorch Network,0,310,1,2017-11-29
+353,0.0,,"What does the following error mean, when I tried to import torch library on iPython?",-1,328,1,2017-11-30
+354,0.0,,How to cast a 1-d IntTensor to int in Pytorch,10,16277,3,2017-12-01
+355,1.0,,PyTorch ValueError: Target and input must have the same number of elements,3,6174,1,2017-12-01
+356,2.0,,When will the computation graph be freed if I only do forward for some samples?,3,496,1,2017-12-01
+357,0.0,,How to use return value from one class in another?,1,57,1,2017-12-03
+358,0.0,,How does one use Hermite polynomials with Stochastic Gradient Descent (SGD)?,2,512,1,2017-12-04
+359,1.0,,Reshaping 2 numpy dimensions into one with zipping?,1,107,3,2017-12-04
+360,2.0,,torch.nn has no attribute named upsample,0,1644,1,2017-12-04
+361,0.0,,Create a nnModule that&#39;s just the identity,2,3012,2,2017-12-05
+362,1.0,,what is the fastest way of loading images?,5,3540,1,2017-12-05
+363,2.0,,Spiral Loss Function for Music Encoding,1,73,1,2017-12-05
+364,3.0,,Setting up VGG-Face Descriptor in PyTorch,2,1750,1,2017-12-05
+365,4.0,,tf.concat operation in PyTorch,0,1157,1,2017-12-05
+366,5.0,,Automatically set cuda variables in pytorch,2,2167,1,2017-12-05
+367,0.0,,How to apply exponential moving average decay for variables in pytorch?,4,1301,1,2017-12-06
+368,0.0,,How to convert caffe prototxt to pytorch model?,8,2481,0,2017-12-07
+369,0.0,,pytorch data loader multiple iterations,3,10633,4,2017-12-08
+370,1.0,,pix2pixHD shows error after changing datasets,1,406,1,2017-12-08
+371,2.0,,Example CrossEntropyLoss for 3D semantic segmentation in pytorch,2,1711,2,2017-12-08
+372,0.0,,Using bias in PyTorch for basic function approximation,2,671,1,2017-12-09
+373,0.0,,Error when upgrading PyTorch to 0.3.0,2,893,2,2017-12-10
+374,0.0,,How to install pytorch in windows?,8,61989,14,2017-12-11
+375,1.0,,How to train my neural network faster by running CPU and GPU in parallel,0,649,1,2017-12-11
+376,2.0,,Python (Pytorch) Multiprocessing throwing errors: Connection reset by peer and File Not Found,4,2590,2,2017-12-11
+377,0.0,,How to implement an upper bound JSD loss in Pytorch?,3,368,1,2017-12-13
+378,1.0,,&quot;Installing From Source&quot; Within Anaconda Environment,6,1217,1,2017-12-13
+379,0.0,,pix2pixHD error with own dataset,1,634,1,2017-12-14
+380,1.0,,pytorch loss value not change,2,5476,2,2017-12-14
+381,2.0,,Mask specific elements in a final layer in PyTorch,0,756,1,2017-12-14
+382,0.0,,How Pytorch Tensor get the index of specific value,22,32886,4,2017-12-18
+383,1.0,,Speed up the PSO algorithm using Pytorch?,0,332,1,2017-12-18
+384,2.0,,Strange behaviour in PyTorch,1,95,2,2017-12-18
+385,3.0,,How to multiply a matrix by a vector in PyTorch,12,12992,2,2017-12-18
+386,4.0,,Why are Embeddings in PyTorch implemented as Sparse Layers?,4,2767,1,2017-12-18
+387,0.0,,PyTorch 2d Convolution with sparse filters,2,1670,1,2017-12-19
+388,1.0,,Assertion `cur_target &gt;= 0 &amp;&amp; cur_target &lt; n_classes&#39; failed,2,2277,1,2017-12-19
+389,0.0,,Shape mismatch in two equivalent networks?,2,141,0,2017-12-20
+390,1.0,,Pytorch DCGAN example doesn&#39;t work with different image sizes,1,348,0,2017-12-20
+391,2.0,,PyTorch Slow Batch matrix multiplication on GPU,1,1577,1,2017-12-20
+392,3.0,,Keras: Train different parts of a network on different losses simultaneously,0,398,0,2017-12-20
+393,0.0,,PyTorch DataLoader,2,1870,1,2017-12-21
+394,0.0,,pytorch PIP and CONDA error?,2,3206,1,2017-12-22
+395,1.0,,How to use pytorch DataLoader with a 3-D matrix for LSTM input?,0,845,1,2017-12-22
+396,0.0,,How can I use LSTM in pytorch for classification?,3,10599,3,2017-12-23
+397,1.0,,Issues installing pytorch for OS X with conda,2,1480,2,2017-12-23
+398,0.0,,Pytorch installation problems with Anaconda,0,1100,2,2017-12-24
+399,1.0,,Pytorch: CNN don&#39;t learn anything after torch.cat()?,1,273,1,2017-12-24
+400,2.0,,Using PyTorch for scientific computation,1,308,1,2017-12-24
+401,0.0,,The loss of semantic segmentation of binary classes with inbalanced data dose not converge,0,353,1,2017-12-25
+402,1.0,,Low GPU utilization issue in PyTorch,4,3748,0,2017-12-25
+403,0.0,,"Everytime I use cuda() to remove Variable from CPU to GPU in pytorch,it takes about 5 to 10 minitues",2,627,2,2017-12-26
+404,0.0,,Dynamic addition of hidden units in pytorch,1,520,1,2017-12-27
+405,0.0,,Why do we need to call zero_grad() in PyTorch?,84,46300,1,2017-12-28
+406,1.0,,Advanced indexing in 2d tensor in pytorch,0,2287,1,2017-12-28
+407,2.0,,I get this error on pytorch &quot;RuntimeError: invalid argument 2: size &#39;[-1 x 400]&quot;,1,6251,3,2017-12-28
+408,0.0,,pytorch: Does variable.long() guarantee 64-bits?,2,147,1,2017-12-30
+409,0.0,,Computing gradients of intermediate nodes in PyTorch,1,1707,1,2018-01-01
+410,0.0,,How to decode an embedding in PyTorch efficiently?,1,411,1,2018-01-02
+411,1.0,,Installing a CPU-based library version on a GPU enabled machine,0,293,1,2018-01-02
+412,2.0,,Unknown Python syntax in PyTorch: a instance can directly receive a parameter,2,45,1,2018-01-02
+413,0.0,,Is it possible to implement a multilayered LSTM with LSTMCells modules in PyTorch?,3,3071,2,2018-01-03
+414,1.0,,PyTorch Softmax Dimensions error,2,2974,2,2018-01-03
+415,0.0,,Pytorch: randomly subsample a vector,1,261,2,2018-01-05
+416,0.0,,Compute gradients w.r.t. the values of embedding vectors in PyTorch,2,1054,2,2018-01-06
+417,1.0,,Pytorch: Randomly subsample loss tensors using `torch.randperm`,1,704,0,2018-01-06
+418,2.0,,Who changed my weight initialization?,0,510,0,2018-01-06
+419,3.0,,Why the same configuration network in caffe and pytorch behaves so differently?,3,377,0,2018-01-06
+420,0.0,,Pytorch Operation to detect NaNs,26,24871,3,2018-01-08
+421,1.0,,How to check if pytorch is using the GPU?,148,184094,10,2018-01-08
+422,2.0,,Pytorch: Create an boolean tensor (type: torch.ByteTensor)?,5,13757,2,2018-01-08
+423,3.0,,What&#39;s the meaning of function eval() in torch.nn module,20,10946,1,2018-01-08
+424,4.0,,scikit-learn FeatureUnion with Pytorch,3,119,0,2018-01-08
+425,0.0,,U-net: How to change the weight of the background in pytorch,0,363,0,2018-01-11
+426,0.0,,Pytorch: Intermediate testing during training,5,3819,2,2018-01-12
+427,1.0,,What is the function in TensorFlow that is equivalent to expand() in PyTorch?,3,1980,2,2018-01-12
+428,2.0,,Advantages and Disadvantages of MXNet compared to other Deep Learning APIs,3,2938,1,2018-01-12
+429,3.0,,Where can I see the source code for pytorch&#39;s MSELoss?,-3,1175,1,2018-01-12
+430,0.0,,Cropping a minibatch of images in Pytorch -- each image differently,3,2370,2,2018-01-13
+431,1.0,,PyTorch: Relation between Dynamic Computational Graphs - Padding - DataLoader,4,464,1,2018-01-13
+432,0.0,,PyTorch&#39;s dataloader &quot;too many open files&quot; error when no files should be open,13,1716,1,2018-01-14
+433,0.0,,Out of memory error during evaluation but training works fine,4,910,1,2018-01-15
+434,1.0,,Pytorch: How to compute IoU (Jaccard Index) for semantic segmentation,1,8342,2,2018-01-15
+435,2.0,,save predictions from pytorch model,1,4282,2,2018-01-15
+436,0.0,,Problems of Pytorch installation on Ubuntu 17.10 (GPU),1,717,2,2018-01-16
+437,1.0,,"Pytorch - RuntimeError: Trying to backward through the graph a second time, but the buffers have already been freed",26,15656,1,2018-01-16
+438,2.0,,"I have installed pytorch, but I still meet bug below",0,928,0,2018-01-16
+439,0.0,,What&#39;s the difference between &quot;hidden&quot; and &quot;output&quot; in PyTorch LSTM?,56,18683,3,2018-01-17
+440,0.0,,PyTorch: How to change the learning rate of an optimizer at any given moment (no LR schedule),29,18113,1,2018-01-18
+441,1.0,,Pytorch module error in Jupyter Notebook,3,5403,3,2018-01-18
+442,2.0,,Generation of sequences from latent space [pytorch],0,629,0,2018-01-18
+443,0.0,,What&#39;s the reason of the error ValueError: Expected more than 1 value per channel?,4,3710,2,2018-01-19
+444,1.0,,BatchNorm momentum convention PyTorch,10,2747,1,2018-01-19
+445,2.0,,Invalid syntax error when passing a list of modules in Pytorch,-2,624,1,2018-01-19
+446,0.0,,Converting state-parameters of Pytorch LSTM to Keras LSTM,10,1210,1,2018-01-20
+447,1.0,,How to model Convolutional recurrent network ( CRNN ) in Keras,5,4424,1,2018-01-20
+448,0.0,,How to ignore specific columns for calculating softmax attention?,1,301,1,2018-01-21
+449,1.0,,Pytorch: Updating numpy array not updating the corresponding tensor,1,121,1,2018-01-21
+450,2.0,,Input size mismatch error when using pre-trained inceptionV3 model for image classification,1,412,0,2018-01-21
+451,0.0,,"RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)",5,19983,1,2018-01-22
+452,0.0,,pytorch model.cuda() runtime error,1,1558,1,2018-01-23
+453,1.0,,pytorch lstm tutorial initializing Variable,0,1101,1,2018-01-23
+454,2.0,,Given input size: (128x1x1). Calculated output size: (128x0x0). Output size is too small,3,6783,1,2018-01-23
+455,3.0,,Pytorch network parameter calculation,4,1974,2,2018-01-23
+456,0.0,,pytorch: can&#39;t load CNN model and do prediction TypeError: &#39;collections.OrderedDict&#39; object is not callable,2,4575,2,2018-01-24
+457,1.0,,coding patterns for efficient minibatch loop using custom pytorch dataset,0,1041,2,2018-01-24
+458,2.0,,Pytorch transfer learning predictions,1,329,1,2018-01-24
+459,0.0,,How to setup pytorch in google-cloud-ml,1,2648,2,2018-01-25
+460,1.0,,unknown resampling filter error when trying to create my own dataset with pytorch,0,919,1,2018-01-25
+461,2.0,,PyTorch: training with GPU gives worse error than training the same thing with CPU,4,1057,1,2018-01-25
+462,0.0,,Getting CUDA out of memory,2,4103,1,2018-01-27
+463,1.0,,Problems with PyTorch MLP when training the MNIST dataset retrieved from Keras,1,711,1,2018-01-27
+464,0.0,,PyTorch memory model: &quot;torch.from_numpy()&quot; vs &quot;torch.Tensor()&quot;,32,22331,3,2018-01-28
+465,1.0,,"in pytorch, cuda.is_availbale(), but every operation fails with out of memory",1,1874,2,2018-01-28
+466,0.0,,In PyTorch how are layer weights and biases initialized by default?,5,4104,2,2018-01-30
+467,1.0,,"In google-cloud-ml, setup.py error during setting up PYTORCH",0,234,1,2018-01-30
+468,2.0,,How to find the index of a tensor in a list?,0,143,1,2018-01-30
+469,3.0,,Loss is increasing from first epoch itself,0,468,1,2018-01-30
+470,0.0,,pyspark and pytorch: unable to retrieve gradients on the driver,0,667,1,2018-01-31
+471,1.0,,How to calculate cost for softmax regression with pytorch,1,414,1,2018-01-31
+472,2.0,,Pytorch Test Loss increases while accuracy increases,0,1335,1,2018-01-31
+473,0.0,,ImportError when importing pytorch,1,443,1,2018-02-01
+474,1.0,,How to take the average of the weights of two networks?,8,2474,1,2018-02-01
+475,2.0,,PyTorch nn.Linear layer output nan on well formed input and weights,3,2476,1,2018-02-01
+476,0.0,,Is NVIDIA GeForce GT 635M suitable for Deep Learning?,0,1530,1,2018-02-02
+477,1.0,,Compute gradient of bias b in pytorch for Softmax Regression,2,386,0,2018-02-02
+478,2.0,,How can I find the equivalent &#39;batch_size&#39; used in Keras from this Pytorch code?,0,145,1,2018-02-02
+479,3.0,,pytorch variable index lost one dimension,3,972,2,2018-02-02
+480,0.0,,Kaggle Pytorch run length encoding,0,443,1,2018-02-03
+481,0.0,,Where is the len function used in PyTorch Dataset?,0,2482,1,2018-02-04
+482,1.0,,Very weird behaviour when running the same deep learning code in two different GPUs,2,576,1,2018-02-04
+483,0.0,,Unable to Learn XOR Representation using 2 layers of Multi-Layered Perceptron (MLP),3,930,3,2018-02-05
+484,1.0,,Result of slicing in an empty tensor,0,570,1,2018-02-05
+485,2.0,,Is this a correct reimplementation of Pytorch Seq2Seq model?,1,290,0,2018-02-05
+486,0.0,,Seq2seq encoder returns same hidden state for all sentences in pytorch,0,246,1,2018-02-07
+487,1.0,,PyTorch: How to print output blob size of each layer in network?,2,2093,1,2018-02-07
+488,0.0,,reshaping a tensor with padding in pytorch,20,19142,4,2018-02-08
+489,1.0,,Simple Pytorch Example - Loss on training doesnt decrease,1,3080,1,2018-02-08
+490,2.0,,Installing Pytorch on Windows 10,1,3989,3,2018-02-08
+491,3.0,,Slicing a numpy 3-d matrix into 2-d matrix,1,67,2,2018-02-08
+492,0.0,,Pytorch Data Wont Fit in Memory - Example?,0,459,1,2018-02-09
+493,1.0,,Pytorch tutorial LSTM,2,2766,1,2018-02-09
+494,2.0,,Assertion error (assert cur_offset == offset) in loss.backward() pytorch,0,266,1,2018-02-09
+495,3.0,,AttentionDecoderRNN without MAX_LENGTH,4,200,1,2018-02-09
+496,4.0,,Resnet50 to classify human action on videos in PyTorch,2,435,0,2018-02-09
+497,5.0,,Getting diagonal elements over several dimensions,0,41,1,2018-02-09
+498,0.0,,How can I download and skip VGG weights that have no counterpart with my CNN in Keras?,8,3638,2,2018-02-10
+499,0.0,,Error when implementing RBF kernel bandwidth differentiation in Pytorch,0,167,1,2018-02-11
+500,0.0,,vgg16 in pytorch got size error,0,1519,3,2018-02-12
+501,1.0,,setuptools: installing pytorch from download link: 403 Forbidden,1,788,1,2018-02-12
+502,0.0,,Why VGG-16 takes input size 512 * 7 * 7?,1,2857,2,2018-02-13
+503,0.0,,Mini batch training for inputs of variable sizes,4,2090,1,2018-02-14
+504,0.0,,Size mismatch error during VGG finetuning,0,463,1,2018-02-15
+505,1.0,,Speeding up Beam Search with seq2seq,0,703,0,2018-02-15
+506,2.0,,Error in loading model in PyTorch,1,1826,1,2018-02-15
+507,3.0,,Reading multiple images as custom dataset for PyTorch?,1,364,1,2018-02-15
+508,4.0,,"PyTorch: Variable data has to be a tensor, but got int",1,2472,1,2018-02-15
+509,0.0,,"CMake on Linux CentOS 7, how to force the system to use cmake3?",13,28123,5,2018-02-16
+510,1.0,,LSTM in Pytorch,8,4109,1,2018-02-16
+511,2.0,,How to use PyTorch multiprocessing?,4,17311,2,2018-02-16
+512,3.0,,Dynamic Programming w/ PyTorch: Longest Common Subsequence,2,128,0,2018-02-16
+513,4.0,,Runtime crashes on Google Colab,2,4235,0,2018-02-16
+514,5.0,,Google Ngram Viewer - English One Million,1,223,1,2018-02-16
+515,6.0,,PyTorch: How do the means and stds get calculated in the Transfer Learning tutorial?,5,3183,1,2018-02-16
+516,0.0,,ouputs in semantic segmentation task,0,65,1,2018-02-18
+517,0.0,,Why unintialized tensor in Pytorch have initial values?,1,249,1,2018-02-19
+518,1.0,,Package Cuda 8 not found for PyTorch,0,399,1,2018-02-19
+519,2.0,,How to find functions imported from torch._C in source code,3,3419,1,2018-02-19
+520,0.0,,Install Pytorch on Windows,0,2462,1,2018-02-20
+521,1.0,,binary image digit convolution neural network has a very high confidence when nothing is in the image,0,268,1,2018-02-20
+522,0.0,,PyTorch - contiguous(),73,44175,5,2018-02-21
+523,0.0,,Adding matrix rows to columns in numpy,1,355,1,2018-02-23
+524,1.0,,PyTorch Sparse Tensors number of dimensions must be nDimI + nDimV,1,514,1,2018-02-23
+525,0.0,,Custom loss function does not minimize in PyTorch,0,2025,1,2018-02-24
+0,,,Implementing Hierarchical Attention for Classification,1,277,0,2018-03-01
+1,,,How could I feed a custom image into this model?,0,92,1,2018-03-01
+0,,,PyTorch: Testing with torchvision.datasets.ImageFolder and DataLoader,10,17713,2,2018-03-02
+1,,,Only backpropagate up to a given variable,1,54,0,2018-03-02
+2,,,An analog of weighted_cross_entropy_with_logits in PyTorch,0,694,1,2018-03-02
+3,,,Implementing RNN and LSTM into DQN Pytorch code,-1,858,1,2018-03-02
+0,,,LSTM with Attention,2,3177,2,2018-03-03
+1,,,Is a torch.FloatTensor not a Tensor?,1,1765,1,2018-03-03
+2,,,Image Captioning Example input size of Decoder LSTM Pytorch,1,428,1,2018-03-03
+0,,,optim.lr_scheduler.ReduceLROnPlateau gives error value cannot be converted to type float without overflow: inf,0,1042,1,2018-03-04
+0,,,PyTorch naive single label classification with embedding layer fails at random,3,854,1,2018-03-05
+1,,,Cannot manually assign new parameters via layer name,2,615,1,2018-03-05
+2,,,Pytorch no gradient calculated one for variable,1,627,0,2018-03-05
+3,,,Indexing on axis by list in PyTorch,0,731,1,2018-03-05
+4,,,where is the definition of _cudnn_convolution_full_forward in pytorch,0,79,1,2018-03-05
+5,,,Issue training RNN model with pytorch with trivial goal,0,111,1,2018-03-05
+0,,,How to get around in place operation error if index leaf variable for gradient update?,5,2851,3,2018-03-07
+1,,,how to apply gradients manually in pytorch,5,2350,1,2018-03-07
+2,,,Differentiate gradients,4,389,1,2018-03-07
+0,,,Copying a PyTorch Variable to a Numpy array,3,881,1,2018-03-08
+1,,,Can I assign the coordinate that convolutional filter works on?,1,32,1,2018-03-08
+2,,,"File &quot;train.py&quot;, line 35, in clip_gradient modulenorm = p.grad.data.norm()",0,336,1,2018-03-08
+0,,,Check the total number of parameters in a PyTorch model,60,24154,3,2018-03-09
+1,,,How to use pack_padded_sequence with multiple variable-length input with the same label in pytorch,5,5084,2,2018-03-09
+2,,,Pytorch: Error in DataParallel for RNN model,1,1892,1,2018-03-09
+3,,,"PyTorch to CoreML, input issue",0,360,0,2018-03-09
+0,,,pytorch error: multi-target not supported in CrossEntropyLoss(),10,10872,1,2018-03-10
+0,,,Difference between 1 LSTM with num_layers = 2 and 2 LSTMs in pytorch,12,8230,1,2018-03-11
+1,,,Is there an efficient way to create a random bit mask in Pytorch?,4,4190,2,2018-03-11
+2,,,Using a pytorch model for inference,1,5723,1,2018-03-11
+3,,,Pytorch pretrained model (VGG-19) same image gives slightly different class score in the final FC layer,1,715,1,2018-03-11
+0,,,What is the difference between softmax and log-softmax?,3,3282,2,2018-03-12
+1,,,Titan XP vs Quadro P400 GPU in Pytorch,2,280,1,2018-03-12
+2,,,PyTorch UnicodeEncodeError: &#39;latin-1&#39; codec can&#39;t encode character &#39;\u22f1&#39;,0,373,1,2018-03-12
+0,,,Pytorch beginner : tensor.new method,14,7094,4,2018-03-13
+1,,,Assertion error in DataParallel when applying to RNN,1,271,0,2018-03-13
+2,,,How to index a tensor in pytorch?,0,79,1,2018-03-13
+0,,,How does batching work in a seq2seq model in pytorch?,6,2324,2,2018-03-14
+1,,,Implementing WNGrad in Pytorch?,2,339,1,2018-03-14
+2,,,Tensor sizes CrossEntropyLoss,0,179,1,2018-03-14
+3,,,GPU not available in Spyder,0,402,0,2018-03-14
+4,,,Pytorch register_hook to Keras implementation,0,400,1,2018-03-14
+0,,,Tying weights in neural machine translation,2,2447,3,2018-03-15
+1,,,PyTorch RNN gradients for variable length input sequences are very small,1,515,0,2018-03-15
+2,,,Binary One Hot Encoding For Dimension Reduction,0,576,2,2018-03-15
+3,,,PyTorch: Comparing predicted label and target label to compute accuracy,0,2424,1,2018-03-15
+0,,,math operator difference *= or +=,4,345,2,2018-03-16
+1,,,Pytorch model weight type conversion,1,3819,1,2018-03-16
+2,,,Understanding Actor-Advantage Critic,1,224,0,2018-03-16
+3,,,I need some explanations about GAN codes,0,163,1,2018-03-16
+4,,,An invalid combination of arguments in pytorch,0,703,1,2018-03-16
+0,,,Loading huge text files for neural machine translation with Pytorch,2,430,1,2018-03-17
+1,,,"How to take shape [1,1,256] from [1,4,256] cuda.FloatTensor?",1,40,3,2018-03-17
+0,,,Understanding PyTorch CNN Channels,3,504,1,2018-03-19
+1,,,Pytorch: How to save the previous parameters and gradient temporally for use them in the next step/loop ？,0,1528,1,2018-03-19
+2,,,How to deploy pytorch in docker image?,0,747,1,2018-03-19
+3,,,PyTorch: How to implement attention for graph attention layer,0,719,1,2018-03-19
+0,,,Cross Entropy in PyTorch,31,31365,3,2018-03-20
+1,,,Non linear mapping to vector of higher dimension,3,131,1,2018-03-20
+0,,,RuntimeError: Expected object of type torch.DoubleTensor but found type torch.FloatTensor for argument #2 &#39;weight&#39;,25,27698,2,2018-03-21
+1,,,How do I re-use trained fastai models?,8,5774,3,2018-03-21
+2,,,Using pytorch cuda for RNNs on google colaboratory,1,252,0,2018-03-21
+3,,,Uneven usage of GPU memory by DataParallel causes out-of-memory error,1,567,0,2018-03-21
+0,,,How to initialize weights in PyTorch?,90,119532,9,2018-03-22
+1,,,Replace diagonal elements with vector in PyTorch,2,4529,2,2018-03-22
+2,,,RNN hidden value contains almost only 1 and -1,0,25,0,2018-03-22
+0,,,"In pytorch, the meaning of y.backward([0.1, 1.0, 0.0001])",4,480,3,2018-03-23
+1,,,Understanding the code in pyTorch,2,1038,1,2018-03-23
+2,,,How can I update the parameters of a neural network in PyTorch?,1,2892,1,2018-03-23
+3,,,PyTorch forward pass using weights trained by Theano,0,324,1,2018-03-23
+0,,,"How to correctly give inputs to Embedding, LSTM and Linear layers in PyTorch?",27,10589,1,2018-03-24
+1,,,How to calculate eingenvalues for each matrix in a 4D tensor?,2,86,1,2018-03-24
+2,,,Unable to duplicate PyTorch&#39;s Neural Transfer example,0,82,1,2018-03-24
+0,,,How do you use next_functions[0][0] on grad_fn correctly in pytorch?,2,991,1,2018-03-25
+1,,,How to use Dataparallel when there is ‘for’ cycle in the network?,0,210,0,2018-03-25
+2,,,Trying to reproduce results from StackGAN paper on Text-to-Photo synthesis,0,167,1,2018-03-25
+0,,,CTC loss goes down and stops,4,1874,2,2018-03-26
+1,,,Pytorch save embeddings as part of encoder class or not,0,1188,1,2018-03-26
+0,,,Difference between &#39;ctx&#39; and &#39;self&#39; in python?,6,5445,2,2018-03-27
+1,,,masking diagonal to a specific value with Torch tensors,1,740,1,2018-03-27
+2,,,cffi error when compiling faster rcnn pytorch,0,674,1,2018-03-27
+3,,,CuDNNError: 8: b&#39;CUDNN_STATUS_EXECUTION_FAILED&#39;,0,1976,0,2018-03-27
+4,,,Exploding loss in pyTorch,0,1077,1,2018-03-27
+0,,,Force GPU memory limit in PyTorch,8,4873,1,2018-03-28
+1,,,Pytorch errors when given numpy integer types only in python 3 (not in python 2),0,313,1,2018-03-28
+2,,,PyTorch - modifications of autograd variables,0,381,1,2018-03-28
+0,,,pytorch AttributeError: module &#39;torch.optim.lr_scheduler&#39; has no attribute &#39;CosineAnnealingLR&#39;,1,1143,0,2018-03-31
+1,,,PyTorch: Variable data has to be a tensor -- data is already as tenors,0,1156,2,2018-03-31
+2,,,pytorch language table for use in deep learning,0,45,0,2018-03-31
+0,,,How does PyTorch module do the back prop,6,2016,2,2018-04-01
+1,,,Find a GPU with enough memory,3,1710,1,2018-04-01
+2,,,Loss doesn&#39;t decrease in training the pytorch RNN,1,1276,2,2018-04-01
+3,,,Subprocessing Data Loading in pytroch into Google Colab,0,960,1,2018-04-01
+0,,,How to resolve runtime error due to size mismatch in PyTorch?,5,13307,2,2018-04-02
+1,,,PyTorch: purpose of addmm function,3,1910,1,2018-04-02
+2,,,"Pytorch, pipenv and numpy support?",1,2783,1,2018-04-02
+3,,,Torch code not running on GPU,1,383,1,2018-04-02
+0,,,how to serve pytorch or sklearn models using tensorflow serving,8,2324,2,2018-04-03
+1,,,"Pytorch super(class, self).__init__() vs super().__init__()",1,1537,1,2018-04-03
+2,,,Import error when importing torch,0,2030,1,2018-04-03
+0,,,What&#39;s the difference between reshape and view in pytorch?,69,29931,3,2018-04-04
+1,,,Dropout Decreases Test and Train Accuracy in one layer LSTM in Pytorch,1,719,0,2018-04-04
+2,,,Why Tensorflow multi-GPU training so slow?,0,525,0,2018-04-04
+3,,,Downloading pretrained TimeNet RNN?,-3,385,1,2018-04-04
+0,,,"How is the output h_n of an RNN (nn.LSTM, nn.GRU, etc.) in PyTorch structured?",4,1248,1,2018-04-05
+1,,,Resolved package not found,1,8011,2,2018-04-05
+2,,,pytorch - net.cuda() seems don&#39;t work,1,2187,2,2018-04-05
+3,,,running a python file from the ipython notebook using command line in loop,0,276,1,2018-04-05
+0,,,PyTorch / Gensim - How to load pre-trained word embeddings,35,22665,6,2018-04-07
+1,,,How to combine multiple h5 files?,1,732,1,2018-04-07
+2,,,PyTorch - WSD using LSTM,1,199,1,2018-04-07
+3,,,Image segmentation training set labeling,0,859,2,2018-04-07
+0,,,pytorch doesn&#39;t give expected output,0,107,1,2018-04-08
+1,,,Error Utilizing Pytorch Transforms and Custom Dataset,0,722,2,2018-04-08
+2,,,"In pytorch loss is the value nn.MSELoss(yhat, y), you can then call loss.data[0], what does that do?",0,364,1,2018-04-08
+0,,,How are PyTorch&#39;s tensors implemented?,14,900,2,2018-04-09
+1,,,How to form a sequence of consecutive numbers in Pytorch?,1,1214,2,2018-04-09
+2,,,Get all 2D diagonals of a 3D tensor in numpy,1,203,2,2018-04-09
+0,,,What is the benefit of random image crop on Convolutional Network?,1,735,1,2018-04-10
+1,,,"RuntimeError: Assertion `THIndexTensor_(size)(target, 0) == batch_size&#39; failed. at ...ClassNLLCriterion.c:79",0,80,1,2018-04-10
+2,,,pytorch adjust only certain weights with missing data,0,155,1,2018-04-10
+0,,,Pytorch tensor to numpy array,26,61338,3,2018-04-11
+1,,,Pytorch hidden state LSTM,1,2758,1,2018-04-11
+2,,,Pytorch: Accessing batches of images from different classes from the generic dataloader,1,424,0,2018-04-11
+3,,,cuda runtime error (48): no kernel image is available for execution on the device,-2,3733,1,2018-04-11
+0,,,Fail to train large data in pytorch,1,347,1,2018-04-12
+0,,,what is the default weight initializer for conv in pytorch?,11,3759,1,2018-04-13
+1,,,PyTorch Getting Custom Loss Function Running,2,3779,1,2018-04-13
+2,,,Concatenation of unequal dimension tensors in tensorflow,2,185,0,2018-04-13
+3,,,How does one manually compute the error of the whole data set in pytorch?,1,780,2,2018-04-13
+4,,,How to get weights for custom loss function in pytorch?,1,775,1,2018-04-13
+5,,,How is the print and view functions works in pytorch?,0,879,1,2018-04-13
+0,,,Variable size input for LSTM in Pytorch,2,4980,1,2018-04-14
+0,,,What is volatile variable in Pytorch,19,15221,2,2018-04-15
+0,,,Google Colaboratory local runtime using local GPU,8,3169,0,2018-04-16
+1,,,Tensorflow : What is actually tf.nn.dropout output_keep_prob?,2,1767,2,2018-04-16
+2,,,How to convert from a Pytroch Tensor from mathematically a column vector to a column matrix?,1,487,2,2018-04-16
+0,,,KL Divergence for two probability distributions in PyTorch,8,14700,3,2018-04-17
+1,,,Running through a dataloader in Pytorch using Google Colab,4,2183,3,2018-04-17
+2,,,map function in Pytorch,2,3756,1,2018-04-17
+3,,,Pytorch function name demystification: gels for least squares estimation,1,78,1,2018-04-17
+0,,,PyTorch replace torch.nn.Conv2d with torch.nn.functional.conv2d,2,2751,1,2018-04-18
+1,,,Could not import pytorch in windows,1,2306,1,2018-04-18
+2,,,pytorch : Runtime error using Distributed with gloo,1,612,1,2018-04-18
+0,,,How to install pytorch in Anaconda with conda or pip?,14,72890,9,2018-04-19
+1,,,Is there analog of theano.tensor.switch in pytorch?,1,359,2,2018-04-19
+0,,,AttributeError: &#39;collections.OrderedDict&#39; object has no attribute &#39;eval&#39;,9,20609,2,2018-04-20
+1,,,Is there a way to use conda to install libraries in a Docker image?,1,1199,1,2018-04-20
+2,,,pytorch multiply 4*1 matrix and 1 size variable occur error,0,90,1,2018-04-20
+3,,,How to calculate the distance between a mini batch and a set of filters in PyTorch,0,631,1,2018-04-20
+0,,,How does one implement adversarial examples in pytorch?,6,757,3,2018-04-21
+1,,,Installing PyTorch via Conda,6,6410,1,2018-04-21
+2,,,Output range for continuous control policy network,1,192,0,2018-04-21
+3,,,RNN Implementation,0,105,1,2018-04-21
+0,,,Is it possible to use different L1 / L2 regularization parameters for different sets of weights in chainer or pytorch?,0,962,1,2018-04-22
+0,,,How to use Visdom (Tensorboard for PyTorch) with Google Colaboratory?,6,2005,0,2018-04-23
+1,,,Getting diagonal matrix stripe automatically in numpy or pytorch,3,647,2,2018-04-23
+2,,,BiLSTM Pytorch model.cuda() gives error in GPU,2,586,0,2018-04-23
+3,,,PyTorch - RuntimeError: Assertion &#39;cur_target &gt;= 0 &amp;&amp; cur_target &lt; n_classes&#39; failed,1,1779,2,2018-04-23
+4,,,PyTorch 3 reshaping error,1,608,1,2018-04-23
+5,,,Is there an easy way to time pytorch code running in GPU?,1,135,0,2018-04-23
+6,,,How does one create a data set in pytorch and save it into a file to later be used?,1,1582,1,2018-04-23
+7,,,How can I build an RNN without using nn.RNN,0,251,1,2018-04-23
+8,,,Different python versions in the same environment of Anaconda,0,38,0,2018-04-23
+0,,,What are transforms in PyTorch used for?,9,17208,2,2018-04-24
+1,,,Compute trace of matrix product using numpy/pytorch broadcasting,2,758,1,2018-04-24
+2,,,"Expected 4D tensor as input, got 2D tensor instead",1,3327,1,2018-04-24
+3,,,Converting Pytorch model .pth into onnx model,0,4481,2,2018-04-24
+0,,,Does batch_first affect hidden tensors in Pytorch LSTMs?,6,1469,2,2018-04-25
+1,,,PyTorch - How to set Activation Rules of neurons to increase efficiency of Neural Network?,1,326,1,2018-04-25
+0,,,How do you load images into Pytorch DataLoader?,20,34785,2,2018-04-26
+1,,,Quickly find indices that have values larger than a threshold in Numpy/PyTorch,3,3129,2,2018-04-26
+2,,,Unable install Pytorch from source for older GPU card,2,766,0,2018-04-26
+3,,,PyTorch print output to 2dp,1,243,1,2018-04-26
+0,,,Load a single image in a pretrained pytorch net,5,6802,2,2018-04-27
+1,,,Lack of Sparse Solution with L1 Regularization in Pytorch,3,1218,1,2018-04-27
+2,,,How to prune neurons in neural network,3,442,0,2018-04-27
+3,,,Pytorch seq2seq learning - using word2vec,2,424,0,2018-04-27
+4,,,Load a single layer weights from a pretrained model,1,1382,1,2018-04-27
+5,,,Neural network - multiple columns per element (Pytorch),0,73,1,2018-04-27
+0,,,Pytorch vs. Keras: Pytorch model overfits heavily,28,2444,1,2018-04-28
+1,,,pytorch cnn stride error,3,2121,2,2018-04-28
+2,,,Is it possible to view the code of a torch pretrained network,1,109,1,2018-04-28
+0,,,How can I make a FloatTensor with requires_grad=True from a numpy array using PyTorch 0.4.0?,9,8491,1,2018-04-29
+1,,,How to apply a custom function to specific columns in a matrix in PyTorch,7,4110,2,2018-04-29
+2,,,AttributeError: &#39;torch.FloatTensor&#39; object has no attribute &#39;item&#39;,2,3440,1,2018-04-29
+3,,,Pytorch LongTensor of large integer gives float float value,0,107,2,2018-04-29
+0,,,Pytorch AttributeError: module &#39;torch&#39; has no attribute &#39;set_grad_enabled&#39;,0,1759,1,2018-04-30
+0,,,DataLoader not randomly sampling in PyTorch,3,2211,1,2018-05-01
+0,,,"If we combine one trainable parameters with a non-trainable parameter, is the original trainable param trainable?",11,1373,3,2018-05-02
+1,,,LSTM example with multiple GPU error: module &#39;torch&#39; has no attribute &#39;long&#39;,0,291,1,2018-05-02
+0,,,Any example of torch 0.4.0 nn.LayerNorm example for nn.LSTMCell?,6,2197,1,2018-05-03
+1,,,How to add a L2 regularization term in my loss function,2,1318,1,2018-05-03
+2,,,Error executing pytorch code AttributeError: &#39;function&#39; object has no attribute &#39;Variable&#39;,1,722,2,2018-05-03
+3,,,How does GPU utilization work in the context of neural network training?,0,337,1,2018-05-03
+4,,,training a RNN in Pytorch,0,739,1,2018-05-03
+0,,,Does a clean and extendable LSTM implementation exists in PyTorch?,11,4979,2,2018-05-04
+1,,,Implementing word dropout in pytorch,3,2419,1,2018-05-04
+2,,,Policy network for the game 2048,2,63,1,2018-05-04
+3,,,Pytorch custom/modified GAN loss equivalent,2,197,0,2018-05-04
+4,,,Pytorch: Gradient of output w.r.t parameters,2,1175,1,2018-05-04
+5,,,Adapting pytorch softmax function,0,1069,0,2018-05-04
+0,,,AttributeError: &#39;module&#39; object has no attribute &#39;float32&#39;,1,1575,2,2018-05-05
+1,,,Problems installing and importing pytorch,1,1291,2,2018-05-05
+0,,,No module named &#39;torch&#39; or &#39;torch.C&#39;,10,10925,2,2018-05-06
+1,,,Anaconda / Pytorch - Getting error when trying to get Pytorch working,1,658,2,2018-05-06
+2,,,What is the state of the art way of doing regression with probability in pytorch,0,573,1,2018-05-06
+3,,,torch.nn.embedding has run time error,0,196,1,2018-05-06
+0,,,PyTorch: Add validation error in training,6,8229,1,2018-05-07
+1,,,What&#39;s the difference between using th and lua commands to run a lua script?,0,522,0,2018-05-07
+0,,,How can I downgrade the version pytorch from 0.4 to 0.31 with anaconda?,6,7354,2,2018-05-08
+1,,,Pytorch Forward Pass Changes Each Time?,2,1229,1,2018-05-08
+2,,,Loading FITS images with PyTorch,0,611,3,2018-05-08
+0,,,"pytorch：RuntimeError: dimension out of range (expected to be in range of [-1, 0], but got 1)",3,595,0,2018-05-09
+1,,,"In pytorch, how to use the weight parameter in F.cross_entropy()?",0,2858,1,2018-05-09
+2,,,How to train a Pytorch net,0,815,1,2018-05-09
+0,,,Pytorch on Windows gives ImportError,2,1748,4,2018-05-10
+1,,,RNN with many-to-one setup - which output to use,2,685,1,2018-05-10
+0,,,Pytorch modified DQN algorithm error &quot;the derivative for &#39; &#39; is not implemented&quot;,1,1239,2,2018-05-11
+1,,,Understanding pip installation behavior,0,95,0,2018-05-11
+0,,,Convert Pandas dataframe to PyTorch tensor?,27,30350,5,2018-05-12
+1,,,Pytorch: Softmax on each row of a 2d Tensor,1,767,1,2018-05-12
+0,,,PyTorch : error message &quot;torch has no [...] member&quot;,9,11605,1,2018-05-13
+0,,,Higher order gradients in pytorch,6,4492,1,2018-05-14
+1,,,PyTorch LSTM - using word embeddings instead of nn.Embedding(),2,4824,1,2018-05-14
+2,,,Change values inside a Pytorch 3D tensor,1,350,1,2018-05-14
+3,,,Why my Pytorch Doesn&#39;t raise overflow/underflow warning during the running,1,401,0,2018-05-14
+4,,,CUDNN_STATUS_INTERNAL_ERROR when using both Pytorch and TensorFlow,0,353,1,2018-05-14
+0,,,How to use PyTorch to print out the prediction accuracy of every class?,1,2201,1,2018-05-15
+1,,,How to perform finetuning on a Pytorch net,0,129,1,2018-05-15
+0,,,Pytorch What&#39;s the difference between define layer in __init__() and directly use in forward()?,6,734,1,2018-05-16
+1,,,Pytorch second derivative stuck between two errors: Buffers have been freed and variable is volatile,2,513,0,2018-05-16
+2,,,parallelize for loop in tensorflow for training multiple models in parallel,2,440,0,2018-05-16
+3,,,DLL files error in using pytorch,1,399,1,2018-05-16
+4,,,Pytorch autograd fails with &quot;RuntimeError: differentiated input is unreachable&quot; after collecting inputs,1,614,1,2018-05-16
+5,,,Why does my SRGAN (using PyTorch) result look similar to SRResNet results?,1,452,0,2018-05-16
+0,,,Pytorch - Stack dimension must be exactly the same?,5,4421,1,2018-05-17
+1,,,"PyTorch: DecoderRNN: RuntimeError: input must have 3 dimensions, got 2",5,5646,1,2018-05-17
+2,,,Reshaping Pytorch tensor,1,1122,1,2018-05-17
+0,,,How to compute the cosine_similarity in pytorch for all rows in a matrix with respect to all rows in another matrix,9,6870,2,2018-05-18
+1,,,How to build an autograd-compatible Pytorch module that resizes tensors like images?,6,852,1,2018-05-18
+2,,,How do I load up an image and convert it to a proper tensor for PyTorch?,4,7602,2,2018-05-18
+3,,,Reproducable Pytorch Results &amp; Random Seeds,2,2935,1,2018-05-18
+4,,,Use torch.eq() only for some value in Pytorch,0,2561,1,2018-05-18
+5,,,How to load a sprase numerical custom dataset into PyTorch?,0,91,0,2018-05-18
+6,,,How to perform roll-out of an RNN In pytorch,0,401,1,2018-05-18
+0,,,Concatenating two tensors with different dimensions in Pytorch,9,7468,1,2018-05-19
+1,,,can&#39;t import torch mac,3,3418,2,2018-05-19
+2,,,Pytorch: How to map a model zoo pre-trained model to a new GPU,0,256,1,2018-05-19
+0,,,Byte Embedding in mLSTM Conceptual Struggle,2,220,1,2018-05-20
+1,,,Importing PyTorch in PyCharm using Anaconda,1,4967,5,2018-05-20
+2,,,How to Train Word Embedding With Pytorch,0,1116,1,2018-05-20
+3,,,Pytorch: How to format data before execution of machine learning,0,527,1,2018-05-20
+0,,,‘DataParallel’ object has no attribute ‘init_hidden’,7,2104,2,2018-05-21
+1,,,Full Page Text Recognition Dataset Creation,2,349,1,2018-05-21
+2,,,Keras to Pytorch model translation and input size,1,362,0,2018-05-21
+3,,,"Pytorch, can&#39;t run backward() on even the most simple network without getting an error",0,3334,2,2018-05-21
+4,,,RuntimeError: inconsistent tensor sizes at /pytorch/torch/lib/TH/generic/THTensorMath.c:2864,0,213,1,2018-05-21
+5,,,How to feed input into a pytorch lstm layer,0,826,0,2018-05-21
+0,,,PyTorch : How to properly create a list of nn.Linear(),8,2965,1,2018-05-22
+1,,,"RuntimeError: addmm(): argument &#39;mat1&#39; (position 1) must be Variable, not torch.FloatTensor",1,1914,2,2018-05-22
+2,,,Pytorch: Custom Loss only works for batch_size == 1,1,518,0,2018-05-22
+3,,,Input 3 and 1 channel input to the network in pytorch?,0,642,2,2018-05-22
+0,,,"If I&#39;m not specifying to use CPU/GPU, which one is my script using?",7,5460,4,2018-05-23
+1,,,PyTorch - Torchvision - BrokenPipeError: [Errno 32] Broken pipe,2,3576,3,2018-05-23
+2,,,Can&#39;t install torch on linux box using pip,1,2366,2,2018-05-23
+0,,,"Tips or patterns for reshaping 4D/5D arrays, (videos to frames)",1,181,1,2018-05-24
+1,,,Pytorch simple text generator not working and loss keeps diverging,0,318,1,2018-05-24
+0,,,How to do softmax for pixelwise classification,1,1155,1,2018-05-25
+1,,,"Issue while reshaping a torch tensor from [10,200,1] to [2000,1,1]",1,393,1,2018-05-25
+0,,,How do I split a custom dataset into training and test datasets?,42,57058,5,2018-05-26
+1,,,Is there a function in google.colab module to close the runtime,2,1058,2,2018-05-26
+2,,,Compile error when building doom_py on Ubuntu 18.04 LTS,2,344,0,2018-05-26
+3,,,Do I need to make multiple instances of a neural network in PyTorch to test multiple loss functions?,1,302,1,2018-05-26
+4,,,Getting multiprocessing lock error when running vizdoom and pytorch program on Windows Subsystem for Linux,0,153,1,2018-05-26
+5,,,How to do CIFAR-10 with PyTorch on CUDA?,-1,1109,1,2018-05-26
+0,,,Pytorch - Incorrect dimensions when using LSTM network,2,1223,2,2018-05-27
+0,,,Implementing Luong Attention in PyTorch,4,4566,1,2018-05-28
+1,,,"Fast way to multiple 3D tensors of shape (1, 1, 256) and (10, 1, 256) in PyTorch and Numpy",3,703,2,2018-05-28
+2,,,segmentation fault when return loss error during pytorch training,3,318,0,2018-05-28
+0,,,exporting pytorch weights to keras,4,2453,0,2018-05-29
+1,,,Why pytorch isn&#39;t minimizing x*x for me?,2,737,1,2018-05-29
+2,,,Detach intermediate module in Pytorch with regard to part of the loss,2,214,1,2018-05-29
+3,,,"Getting FileNotFoundError exception on Pytorch 0.4, python 2.7 - after applying fix",1,113,0,2018-05-29
+0,,,from torch._C import * ImportError: DLL load failed: The specified module could not be found,4,5473,5,2018-05-30
+1,,,Variational Autoencoder gives same output image for every input mnist image when using KL divergence,3,1294,3,2018-05-30
+2,,,PyTorch equivalent of index_add_ that takes the maximum instead,2,422,1,2018-05-30
+3,,,How do I calculate the confusion matrix in PyTorch efficiently?,1,2786,1,2018-05-30
+4,,,How can I assign pytorch tensor a matrix from numpy?,0,175,2,2018-05-30
+0,,,Overflow when unpacking long - Pytorch,8,2616,1,2018-05-31
+1,,,How can I enable pytorch GPU support in Google Colab?,2,6490,3,2018-05-31
+2,,,LBFGS never converges in large dimensions in pytorch,1,1624,1,2018-05-31
+0,,,Custom convolution kernel and toroidal convolution in PyTorch,3,2232,1,2018-06-01
+0,,,Convert image to proper dimension PyTorch,1,2230,1,2018-06-02
+1,,,Target and input must have the same number of elements,1,872,1,2018-06-02
+2,,,Pytorch: Combining Automatic and Manual Methods,1,83,0,2018-06-02
+3,,,PyTorch - &quot;Attribute Error: module &#39;torch&#39; has no attribute &#39;float&#39;,1,7779,3,2018-06-02
+4,,,Finding euclidean distance given an index array and a pytorch tensor,0,555,1,2018-06-02
+0,,,Column/row slicing a torch sparse tensor,10,3179,1,2018-06-03
+1,,,Converting a scipy coo_matrix to pytorch sparse tensor,6,3742,2,2018-06-03
+2,,,RNN not training when batch size &gt; 1 with variable length data,1,383,1,2018-06-03
+3,,,Training on minibatches of varying size,0,430,2,2018-06-03
+4,,,Anchor boxes and offsets in SSD object detection,0,920,1,2018-06-03
+0,,,Google Colab: &quot;Unable to connect to the runtime&quot; after uploading Pytorch model from local,3,7513,2,2018-06-04
+1,,,"Beta Distribution in PyTorch for a, b&gt;1?",2,266,1,2018-06-04
+2,,,Missing Weight Vectors when converting from PyTorch to CoreML via ONNX,1,310,1,2018-06-04
+0,,,CIFAR-10 Meaningless Normalization Values,4,1891,1,2018-06-05
+1,,,PyTorch Tutorial Error Training a Classifier,0,1124,2,2018-06-05
+2,,,"How reshape 3D tensor of shape (3, 1, 2) to (1, 2, 3)",0,254,2,2018-06-05
+3,,,Time series prediction (GRU) with several meta information,0,175,0,2018-06-05
+0,,,Resize PyTorch Tensor,6,16216,3,2018-06-06
+0,,,Embedding in pytorch,31,40113,3,2018-06-07
+1,,,How to share a list of tensors in PyTorch multiprocessing?,3,2315,1,2018-06-07
+2,,,Gradient error when calculating - pytorch,1,153,1,2018-06-07
+3,,,PyTorch how to implement disconnection (connections and corresponding gradients are masked)?,1,448,1,2018-06-07
+4,,,Memory leak in python code,1,61,0,2018-06-07
+5,,,"PyTorch: When using backward(), how can I retain only part of the graph?",0,1736,1,2018-06-07
+6,,,Why torch.nn package not supporting inputs that are a single sample,0,607,0,2018-06-07
+0,,,What does data.norm() &lt; 1000 do in PyTorch?,23,7115,3,2018-06-08
+1,,,Adding modules in Pytorch Custom Module,4,1492,1,2018-06-08
+2,,,Debugging GAN covergence error,1,306,1,2018-06-08
+3,,,Pytorch : How .grad() function returning result?,1,1379,1,2018-06-08
+4,,,Error in DeepMask&#39;s Pytorch Code,0,80,0,2018-06-08
+5,,,Gcloud flask app error while installing requirements.txt during deploying,0,271,1,2018-06-08
+6,,,Pytorch using Multi GPU / accuracy is too low(10%),0,772,0,2018-06-08
+0,,,Pytorch - Pick best probability after softmax layer,3,3880,1,2018-06-09
+1,,,"dimension out of range (expected to be in range of [-2, 1], but got 2)",3,1866,2,2018-06-09
+2,,,Pytorch - meaning of a command in a basic &quot;forward&quot; pass,1,146,1,2018-06-09
+3,,,Understanding the Input Parameters in RNN,1,192,2,2018-06-09
+4,,,Pytorch - handling picutres and .jpeg files (beginner&#39;s questions),1,1229,1,2018-06-09
+5,,,How to calculate Pixel wise accuracy in pytorch?,0,1268,1,2018-06-09
+6,,,Pytorch not using cuda device,0,705,1,2018-06-09
+0,,,"Invalid device Ordinal , CUDA / TORCH",6,4873,3,2018-06-10
+1,,,AttributeError: module &#39;torch&#39; has no attribute &quot;device&quot;,2,6205,2,2018-06-10
+2,,,"Region of interest or mask as input to CNN, for faster feedforward computation",1,40,0,2018-06-10
+0,,,What does -1 mean in pytorch view?,7,11389,3,2018-06-11
+1,,,Pytorch: how to make the trainloader use a specific amount of images?,2,1032,1,2018-06-11
+2,,,Pytorch in-place concatenation and conversion to tensor from numpy,1,838,1,2018-06-11
+3,,,Python loop faster than Pandas,0,93,2,2018-06-11
+4,,,Dot Product of Tensors with Different Shapes in PyTorch,-1,1260,1,2018-06-11
+0,,,Error in pip install torchvision on Windows 10,6,7388,3,2018-06-12
+1,,,Why do we do batch matrix-matrix product?,2,2337,2,2018-06-12
+2,,,Pytorch - Subclasses of torchvision.dataset.ImageFolder - Import Error,2,500,1,2018-06-12
+3,,,Minimization and maximization at the same time in PyTorch,2,85,0,2018-06-12
+4,,,"How do I add LSTM, GRU or other recurrent layers to a Sequential in PyTorch",1,619,2,2018-06-12
+5,,,pytorch 0.4.0 broadcasting doesn&#39;t work in optimizer,0,151,1,2018-06-12
+0,,,How to perform sum pooling in PyTorch,1,1665,2,2018-06-13
+1,,,pytorch seq2seq encoder forward method,0,344,1,2018-06-13
+2,,,Python: BrokenPipeError when calling iter on a torch.utils.data.DataLoader object,0,442,0,2018-06-13
+3,,,I am stuck on how to COnvert Pytorch code in to Keras of Attention Model,0,238,0,2018-06-13
+4,,,PyTorch 0.40 optimization issue,0,58,0,2018-06-13
+0,,,Taking the last state from BiLSTM (BiGRU) in PyTorch,4,6082,2,2018-06-14
+1,,,PyTorch: copy_if failed to synchronize: device-side assert triggered,4,4711,1,2018-06-14
+2,,,Caffe 2 Install fails on Windows 10,1,441,1,2018-06-14
+3,,,Is it possible to use a machine learning library with streaming inputs and outputs?,-2,38,1,2018-06-14
+0,,,PyTorch custom dataset dataloader returns strings (of keys) not tensors,1,3813,1,2018-06-15
+1,,,Converting Pytorch .ckpt(GAN) model into onnx,1,388,1,2018-06-15
+2,,,I want to customise the last layer of VGG 19 architecture for a classification. which will be more useful keras or pytorch?,-2,67,1,2018-06-15
+0,,,F.conv2d stuck on my CentOS,0,37,1,2018-06-16
+0,,,Channel wise CrossEntropyLoss for image segmentation in pytorch,3,5088,3,2018-06-17
+1,,,PyTorch 0.4 LSTM: Why does each epoch get slower?,1,741,1,2018-06-17
+2,,,Updating Pytorch variables,1,1119,1,2018-06-17
+0,,,How to import the tensorflow lite interpreter in Python?,8,9944,2,2018-06-18
+1,,,Need help understand this implementation of ConvLSTM code in pytorch,4,1543,2,2018-06-18
+2,,,System hangs after first epoch training in pytorch,3,701,0,2018-06-18
+3,,,torch.nn.DataParallel not working in pytorch,1,1346,2,2018-06-18
+0,,,Understanding torch.nn.Parameter,38,36426,2,2018-06-19
+1,,,Can&#39;t open jupyter notebook in docker,2,2237,1,2018-06-19
+2,,,How to convert numpy array into LongTensor type Variable in PyTorch?,1,2569,1,2018-06-19
+3,,,Training Error in PyTorch - RuntimeError: Expected object of type FloatTensor vs ByteTensor,0,741,1,2018-06-19
+0,,,Using CUDA with pytorch?,7,29379,1,2018-06-20
+1,,,AttributeError: &#39;builtin_function_or_method&#39; object has no attribute &#39;requires_grad&#39;,3,2977,1,2018-06-20
+2,,,java.lang.IllegalArgumentException: No OpKernel was registered to support Op &#39;GatherV2&#39; with these attrs.,1,245,2,2018-06-20
+3,,,How would one use Pytorch&#39;s Autograd to backprop multiple layers (matracies)?,0,215,0,2018-06-20
+0,,,Cannot load torchvision despite it being installed,5,8351,1,2018-06-21
+1,,,Pytorch - Purpose of images preprocessing in the transfer learning tutorial,4,457,1,2018-06-21
+2,,,PyToch Skorch passing 3 dimensional input,2,496,1,2018-06-21
+3,,,PyTorch : GPU execution time,1,1019,1,2018-06-21
+4,,,how is the batch size determined?,0,278,2,2018-06-21
+0,,,How to set PyTorch shared memory size?,3,735,0,2018-06-22
+1,,,Is there any pytorch function can combine the specific continuous dimensions of tensor into one?,2,2857,1,2018-06-22
+2,,,"Multi-label, multi-class image classifier (ConvNet) with PyTorch",2,2487,1,2018-06-22
+3,,,loading librispeech in pytorch for ASR,1,580,2,2018-06-22
+4,,,How to sample through a small dataset for more iterations than data size?,1,184,1,2018-06-22
+5,,,Pytorch broadcasting product of two tensors,1,1166,1,2018-06-22
+6,,,Broken Pipe in pytorch DataLoader,1,419,1,2018-06-22
+7,,,Optimizer got an empty parameter list in pytorch,1,4504,2,2018-06-22
+8,,,Warp-ctc can not run on gpu,1,371,0,2018-06-22
+9,,,How to optimize lower Cholesky Parameter in Pytorch?,0,229,1,2018-06-22
+0,,,What does the gather function do in pytorch in layman terms?,51,26074,3,2018-06-23
+1,,,How to vectorise a list of matrix vector multiplications using pytorch/numpy,0,246,1,2018-06-23
+0,,,"Pytorch, Unable to get repr for &lt;class &#39;torch.Tensor&#39;&gt;",3,1865,2,2018-06-24
+1,,,What is a good way to build/execute for-loop Tensorflow graph in parallel?,2,315,0,2018-06-24
+2,,,Pytorch: Missing key(s) in state_dict,1,1259,0,2018-06-24
+0,,,why do we &quot;pack&quot; the sequences in pytorch?,76,23173,5,2018-06-25
+1,,,Pytorch loss inf nan,2,8012,2,2018-06-25
+2,,,Getting different output in the Pytorch NLP example Part-of-Speech Tagging,0,69,1,2018-06-25
+0,,,PyTorch : predict single example,6,19233,1,2018-06-26
+1,,,How to import Pytorch model into MATLAB,3,2806,1,2018-06-26
+2,,,Pytorch inceptionV3 transfer learning gives error - max() received an invalid combination of arguments,2,1247,4,2018-06-26
+3,,,Parallel aplication of the function on pytorch cuda tensor strings,1,200,0,2018-06-26
+4,,,Pytorch Spell Check Character RNN not outputting end tokens,0,326,0,2018-06-26
+0,,,PyTorch Autograd automatic differentiation feature,5,780,1,2018-06-27
+0,,,RuntimeError: Expected object of type torch.FloatTensor but found type torch.cuda.DoubleTensor for argument #2 &#39;weight&#39;,3,2266,2,2018-06-28
+1,,,"Different behavior with torch.mean(data, 0) and torch.mean(data) for vector",1,2028,1,2018-06-28
+2,,,Issue with pytorch LSTM source code,1,277,0,2018-06-28
+3,,,How to compute Pairwise L1 Distance matrix on very large images in neighborhood only?,0,178,1,2018-06-28
+4,,,pytorch: zero_grad vs zero_grad() - role of parenthesis?,-1,154,1,2018-06-28
+0,,,Add / substract between matrix and vector in pytorch,4,6760,3,2018-06-29
+1,,,"Net does not change weights during training, pytorch",3,869,1,2018-06-29
+2,,,Pytorch gradients exist but weights not updating,2,4826,2,2018-06-29
+3,,,LSTM Sequence length,1,1219,1,2018-06-29
+4,,,Multiprocessing code works using numpy but deadlocked using pytorch,0,493,1,2018-06-29
+5,,,How to train Actor-Critic (A2C) reinforcement learning,-1,1352,1,2018-06-29
+0,,,How to find IoU from segmentation masks?,2,2012,1,2018-06-30
+1,,,Applying convolution operation to image - PyTorch,0,3049,1,2018-06-30
+0,,,Custom weight initialization in PyTorch,5,4507,2,2018-07-01
+1,,,Calling pytorch 0.4 from Matlab,1,341,0,2018-07-01
+2,,,LSTM layer returns nan when fed by its own output in PyTorch,0,1024,1,2018-07-01
+3,,,Pytorch LSTM each epoch starts from 0 accuracy,0,225,1,2018-07-01
+4,,,Why a larger neural network back-propagate faster than a smaller one,0,57,1,2018-07-01
+5,,,Jupyterhub with custom singleuser image raises &#39;no such file or directory&#39; for &#39;/home/jovyan/work&#39;,0,420,1,2018-07-01
+0,,,How to create a normal distribution in pytorch,13,25413,5,2018-07-02
+1,,,Difference between tensor.permute and tensor.view in PyTorch?,11,9985,2,2018-07-02
+2,,,what&#39;s the difference between torch.Tensor() vs torch.empty() in pytorch?,8,10587,2,2018-07-02
+3,,,what is uninitialized data in pytorch.empty function,5,1241,1,2018-07-02
+4,,,Why pytorch has two kinds of Non-linear activations?,1,507,1,2018-07-02
+5,,,How to format TSV files to use with torchtext?,0,499,1,2018-07-02
+0,,,My Image segmentation result map contains black lattice in in the white patch,4,246,0,2018-07-03
+1,,,Unable to create a tensor using torch.Tensor,2,1066,1,2018-07-03
+2,,,Building recurrent neural network with feed forward network in pytorch,1,633,1,2018-07-03
+3,,,DMN neural network with poor validation results -- only 50%,0,110,0,2018-07-03
+4,,,OpenNMT issue with PyTorch: .copy_ function not clear behavior,0,221,1,2018-07-03
+0,,,How to get the input and output channels in a CNN?,3,3482,1,2018-07-04
+1,,,GPU performing slower than CPU for Pytorch on Google Colaboratory,2,3509,1,2018-07-04
+2,,,"Is there a bug with PyTorch training for large batch sizes, or with this script?",1,2885,1,2018-07-04
+3,,,How do I install and run pytorch in MSVS2017 (to avoid &quot;module not found&quot; error on &quot;import torch&quot; statement)?,1,88,1,2018-07-04
+0,,,PyTorch Linear Regression Issue,1,324,1,2018-07-05
+1,,,"(Single Layer) Perceptron in PyTorch, bad convergence",1,227,2,2018-07-05
+2,,,Import System Modules in a Conda Environment,1,104,1,2018-07-05
+3,,,Is it possible to see the read data of a pytorchtext.data.Tabulardataset?,0,75,1,2018-07-05
+0,,,image segmentation can&#39;t generate result,1,127,0,2018-07-06
+0,,,Pytorch: Dropout Layers and Packed Sequences,1,1358,1,2018-07-07
+0,,,Iterating over Torchtext.data.BucketIterator object throws AttributeError &#39;Field&#39; object has no attribute &#39;vocab&#39;,3,2256,1,2018-07-08
+1,,,Neural networks pytorch,2,245,1,2018-07-08
+0,,,torchtext BucketIterator minimum padding,0,1325,2,2018-07-09
+1,,,Encounter Error after installing Pytorch using pip in python3.5,0,1059,2,2018-07-09
+0,,,Product of PyTorch tensors along arbitrary axes &#224; la NumPy&#39;s `tensordot`,2,2457,1,2018-07-10
+1,,,Parallel Cholesky decomposition in PyTorch GPU,0,1373,1,2018-07-10
+2,,,Loss to minimize the overlap of two collections/sets,0,167,2,2018-07-10
+3,,,pytorch/cpp_extension.py path error,0,207,1,2018-07-10
+0,,,GPU program failed to execute : cublas runtime error,2,1480,1,2018-07-11
+1,,,How to get probabilities from Resnet using pytorch?,0,2552,1,2018-07-11
+0,,,PyTorch error loading saved nn.Module: object has no attribute &#39;to&#39;,1,2139,1,2018-07-12
+1,,,2d array as index in Pytorch,1,1230,1,2018-07-12
+2,,,Equivalent of Keras&#39;s binary_crossentropy in PyTorch?,0,969,1,2018-07-12
+3,,,Opening tensorboard saved scalars on windows,0,306,0,2018-07-12
+4,,,what happens when we &quot;install&quot; pytorch,0,76,0,2018-07-12
+0,,,How can I generate and display a grid of images in PyTorch with plt.imshow and torchvision.utils.make_grid?,9,12469,2,2018-07-13
+1,,,Where are the PyTorch python bindings to C++?,1,277,1,2018-07-13
+2,,,Pytorch tensor multiplication and addition too long on GPU,1,233,0,2018-07-13
+3,,,Pytorch Where Does resNet add values?,0,327,1,2018-07-13
+4,,,How to utilize all GPUs when dealing with pytorch code?,0,527,1,2018-07-13
+0,,,Why can GPU do matrix multiplication faster than CPU?,5,4540,2,2018-07-14
+1,,,Pytorch DataLoader - Choose Class STL10 Dataset,2,1635,1,2018-07-14
+2,,,Neural Chess: Sample neural network gets stuck at value,0,224,0,2018-07-14
+0,,,"Pytorch, `backward` RuntimeError: Trying to backward through the graph a second time, but the buffers have already been freed",2,2357,2,2018-07-15
+1,,,Which function in Tensorflow is similar to expand_as in Pytorch,2,452,1,2018-07-15
+2,,,what does colon wrapped class mean in python comment?,1,187,1,2018-07-15
+3,,,Dimension out of range when applying l2 normalization in Pytorch,0,456,1,2018-07-15
+0,,,How does pytorch broadcasting work?,4,6427,1,2018-07-16
+1,,,Is column selection in pytorch differentiable?,3,1806,1,2018-07-16
+2,,,"I am trying to classify flowers with a pretrained network, but for some reason it does not train",3,452,1,2018-07-16
+3,,,Pixel RNN Pytorch Implementation,1,1226,1,2018-07-16
+4,,,Efficiently way of assembling PyTorch `Tensor`s that require gradients,1,94,0,2018-07-16
+5,,,convnet better classification than regression performance,0,80,1,2018-07-16
+6,,,CNN weights getting stuck,0,62,1,2018-07-16
+0,,,The purpose of introducing nn.Parameter in pytorch,4,3165,1,2018-07-17
+1,,,Implementing Adam in Pytorch,1,1090,0,2018-07-17
+2,,,"How to read a ckpt file with python3, while it is saved using python2？",0,1363,2,2018-07-17
+3,,,What exactly is label for image segmentation task in computer vision,-1,793,2,2018-07-17
+0,,,Using torch.nn.DataParallel with a custom CUDA extension,20,624,0,2018-07-18
+1,,,Understanding PyTorch Bernoulli distribution from the documention,2,2371,1,2018-07-18
+2,,,Is Seq2Seq the right model for my data?,1,163,1,2018-07-18
+0,,,Calculate covariance matrix for complex data in two channels (no complex data type),3,3957,1,2018-07-19
+1,,,Using Precision and Recall in training of skewed dataset,1,1035,2,2018-07-19
+2,,,The same calculation in CUDA output differently in pytorch?,1,30,0,2018-07-19
+3,,,How do i add ctc beam search decoder in crnn model (pytorch),-2,2230,2,2018-07-19
+0,,,What does model.train() do in pytorch?,60,37136,3,2018-07-20
+1,,,How to iterate over two dataloaders simultaneously using pytorch?,7,8455,5,2018-07-20
+2,,,How can I create a PyCUDA GPUArray from a gpu memory address?,3,890,1,2018-07-20
+3,,,In Pytorch F.nll_loss() Expected object of type torch.LongTensor but found type torch.FloatTensor for argument #2 &#39;target&#39;,2,3344,2,2018-07-20
+4,,,Rearranging a 3-D array using indices from sorting?,2,914,1,2018-07-20
+5,,,Basic DNN with highly imbalanced dataset -- network predicts same labels,1,64,1,2018-07-20
+0,,,Pytorch nn.embedding error,1,1819,1,2018-07-21
+1,,,Variation between custom convolution vs pytorch conv2d results?,1,748,0,2018-07-21
+2,,,PyTorch RoI pooling implementation deviation,1,727,0,2018-07-21
+3,,,can&#39;t import &#39;torchtext&#39; module in jupyter notebook while using pytorch,1,613,1,2018-07-21
+4,,,How do I get words from an embedded vector?,0,84,1,2018-07-21
+0,,,Installing PyTorch,6,7514,4,2018-07-22
+1,,,PyTorch Tensors of Inputs and Labels in LSTM,1,1400,1,2018-07-22
+0,,,Highlighting important words in a sentence using Deep Learning,2,969,1,2018-07-23
+1,,,Dimension of hidden layer LSTM Pytorch,0,3390,1,2018-07-23
+2,,,Initialising weights and bias with PyTorch - how to correct dimensions?,0,697,1,2018-07-23
+0,,,Calculate the accuracy every epoch in PyTorch,3,17804,3,2018-07-24
+1,,,How to use PyTorch to calculate partial derivatives?,2,1052,1,2018-07-24
+2,,,Pytorch Torch.save FileNotFoundError,2,1289,1,2018-07-24
+3,,,How to extract fc7 features from AlexNet in pytorch as numpy array?,1,1844,1,2018-07-24
+4,,,Python Kernel Died when using triple for loop containing requires_grad=True parameters (Pytorch),1,356,0,2018-07-24
+5,,,How to feed a Neural Network with a Complex-Valued Inputs,1,193,0,2018-07-24
+6,,,Is it normal in PyTorch for accuracy to increase and decrease repeatedly?,1,1006,2,2018-07-24
+7,,,"Modify layers in Tensorflow, Keras or PyTorch",0,342,1,2018-07-24
+8,,,Using an autoencoder to reduce dimensionality,0,215,0,2018-07-24
+0,,,How to create sub network reference in pytorch?,3,491,1,2018-07-25
+1,,,How can one get state of the art results on Cifar10 with the All Convolution Net?,3,355,1,2018-07-25
+2,,,Accessing reduced dimensionality of trained autoencoder,2,229,1,2018-07-25
+3,,,Custom Loss in Pytorch where object does not have attribute backward(),1,774,1,2018-07-25
+4,,,&#39;package not found error&#39; while installing pytorch on Windows Anaconda python,0,1297,3,2018-07-25
+5,,,How to train neural network over days?,-1,84,2,2018-07-25
+0,,,Why is PyTorch called PyTorch?,14,842,4,2018-07-26
+1,,,Is &quot;input&quot; a keyword that causes errors when used as a parameter name (in PyTorch)?,7,156,1,2018-07-26
+2,,,Which part of Pytorch tensor represents channels?,6,5640,1,2018-07-26
+3,,,tensorflow stop_gradient equivalent in pytorch,4,3305,2,2018-07-26
+4,,,Implementing a custom dataset with PyTorch,1,1483,1,2018-07-26
+5,,,Debug Pytorch Optimizer,1,511,1,2018-07-26
+6,,,RuntimeError: Expected object of type Variable[torch.FloatTensor] but found type Variable[torch.cuda.FloatTensor] for argument #1 &#39;mat2&#39;,1,166,0,2018-07-26
+7,,,pyTorch DataLoader killed,0,1058,0,2018-07-26
+0,,,"Can we deploy Pytorch models to Google Cloud ML Engine? If so, how?",1,1146,1,2018-07-27
+1,,,How to progressively grow a neural network in pytorch?,0,445,1,2018-07-27
+2,,,How to make a class in pytorch use GPU,0,1405,2,2018-07-27
+3,,,Issues with using cuda and float tensor,0,680,1,2018-07-27
+4,,,Can&#39;t interpolate frames with pytorch,0,214,0,2018-07-27
+0,,,How to Invert AvgPool2d?,0,254,1,2018-07-28
+0,,,How do I load custom image based datasets into Pytorch for use with a CNN?,6,9264,1,2018-07-29
+1,,,Pytorch how to get the gradient of loss function twice,4,1660,2,2018-07-29
+2,,,Data loading with variable batch size?,0,2542,2,2018-07-29
+0,,,Pytorch- why is “accumulating” the default mode of .gradient?,2,171,1,2018-07-30
+1,,,Linear regression with pytorch,1,856,1,2018-07-30
+2,,,Conda Pytorch on Windows results in HTTP Connection Error,1,990,0,2018-07-30
+0,,,Why doesn&#39;t my simple pytorch network work on GPU device?,5,3087,2,2018-07-31
+1,,,Understanding PyTorch prediction,1,579,1,2018-07-31
+2,,,How to get backward gradients from sparse matrices in PyTorch networks?,1,1217,1,2018-07-31
+3,,,"Error: cannot assign module before Module.__init__() call, Even after using super(DecoderRNN, self).__init__()",1,245,0,2018-07-31
+4,,,"Errors converting PyTorch Unet (&quot;tiramisu&quot;) into coreml, via onnx",1,582,0,2018-07-31
+5,,,Implement forward pass of Pixel RNN&#39;s RowLSTM pytorch,0,179,0,2018-07-31
+0,,,PyTorch: passing numpy array for weight initialization,7,3872,2,2018-08-01
+1,,,Output of DecoderRNN contains extra dimensions (Pytorch),2,255,1,2018-08-01
+2,,,How do you change require_grad to false for each parameters in your model in pytorch?,1,349,1,2018-08-01
+3,,,Model taking long time to train,1,122,1,2018-08-01
+4,,,Can a Neural Network learn a simple interpolation?,1,958,2,2018-08-01
+5,,,Setup Egg Error when trying to install Torchvision | Python and Anaconda,1,549,1,2018-08-01
+6,,,Cloud Storage Buckets for PyTorch,0,369,1,2018-08-01
+7,,,Disparate result after setting requires_grad=True,0,132,1,2018-08-01
+8,,,plt.show() gives some response in IPython but not in Visual Studio Code,0,391,1,2018-08-01
+9,,,"Pytorch: NN function approximator, 2 in 1 out",0,192,1,2018-08-01
+0,,,Use pretrained pytorch model in C?,1,488,2,2018-08-02
+0,,,Data Augmentation in PyTorch,38,25759,2,2018-08-03
+1,,,pytorch how to remove cuda() from tensor,7,4138,3,2018-08-03
+2,,,How to use PyTorch to calculate the gradients of outputs w.r.t. the inputs in a neural network?,6,1362,1,2018-08-03
+3,,,Pytorch embedding RuntimeError: Expected object of type torch.LongTensor but found type torch.cuda.LongTensor for argument #3 &#39;index&#39;,5,4052,2,2018-08-03
+4,,,Pytorch CPU and GPU run in parallel,1,926,1,2018-08-03
+0,,,AttributeError: &#39;Image&#39; object has no attribute &#39;new&#39; occurs when trying to use Pytorchs AlexNet Lighting preprocessing,0,1392,1,2018-08-04
+0,,,CUDA runtime error (59) : device-side assert triggered,19,20724,2,2018-08-05
+1,,,import torch error in google Colaboratory,1,1153,1,2018-08-05
+2,,,Best way to bound outputs from neural networks on reinforcement learning,1,283,1,2018-08-05
+0,,,How to construct a network with two inputs in PyTorch,9,4828,1,2018-08-06
+1,,,Pytorch tensor - How to get the indexes by a specific tensor,2,1449,2,2018-08-06
+2,,,Issue with running a single prediction with PyTorch,2,575,1,2018-08-06
+3,,,Bidirectional RNN cells - shared or not?,1,745,3,2018-08-06
+4,,,Make personnal Dataloader with PYTORCH,1,593,1,2018-08-06
+5,,,How to release temporarily consumed GPU memory after each forward?,0,473,1,2018-08-06
+6,,,pytorch subtracting variables with different dimension,0,372,0,2018-08-06
+7,,,Load .txt file with pickle on non GPU machine,0,301,1,2018-08-06
+0,,,Where do I get a CPU-only version of PyTorch?,9,9046,4,2018-08-07
+1,,,How to include batch size in pytorch basic example?,7,9420,1,2018-08-07
+2,,,Skorch training object from scratch,1,307,1,2018-08-07
+3,,,Pytorch installation issue under Anaconda,0,1040,1,2018-08-07
+4,,,Why is it in Pytorch when I make a COPY of a network&#39;s weight it would be automatically updated after back-propagation?,0,3176,1,2018-08-07
+5,,,Sample code for model-parallel and pipelined training in TensorFlow,0,462,1,2018-08-07
+6,,,Errno 22 when loading image,0,183,0,2018-08-07
+0,,,Is .data still useful in pytorch?,23,4105,1,2018-08-08
+1,,,pytorch how to set .requires_grad False,22,30013,5,2018-08-08
+2,,,In pytorch how do you use add_param_group () with a optimizer?,6,3913,1,2018-08-08
+3,,,How do I turn a Pytorch Dataloader into a numpy array to display image data with matplotlib?,4,3716,1,2018-08-08
+4,,,PyTorch - Effect of normal() initialization on gradients,3,413,1,2018-08-08
+5,,,Watson generated Pytorch results in: &quot;ValueError: optimizer got an empty parameter list&quot;,1,204,0,2018-08-08
+6,,,How to re-use old weights in a slightly modified model?,0,32,1,2018-08-08
+7,,,pytorch Rnn.py RuntimeError: CUDNN_STATUS_INTERNAL_ERROR,0,2433,2,2018-08-08
+8,,,"RuntimeError: unable to open shared memory object, OSError: [Errno 24] Too many open files",0,1029,0,2018-08-08
+0,,,pytorch skip connection in a sequential model,11,6187,1,2018-08-09
+1,,,Change dimensions of image when creating custom dataloader in pytorch,2,522,1,2018-08-09
+2,,,Is it possible to create a FIFO queue with pyTorch?,2,591,1,2018-08-09
+3,,,Why does pytorch F.mse_loss behave differently w.r.t. Tensor and Parameter?,2,664,1,2018-08-09
+4,,,How to convert FloatTensor to ByteTensor with Pytorch?,1,2733,1,2018-08-09
+5,,,Pytorch Convolutional Layer returning Nan,0,710,1,2018-08-09
+0,,,Understanding Bilinear Layers,10,3040,1,2018-08-10
+1,,,"Loading pytorch models, test accuracy drops",3,532,0,2018-08-10
+2,,,How to use different data augmentation for Subsets in PyTorch,2,1471,3,2018-08-10
+3,,,Pytorch trying to make a NN received an invalid combination of arguments,2,2871,1,2018-08-10
+4,,,Torchtext TabularDataset: data.Field doesn&#39;t contain actual imported data?,0,704,1,2018-08-10
+0,,,How to apply layer-wise learning rate in Pytorch?,17,6556,1,2018-08-11
+1,,,How do I use a saved model in Pytorch to predict the label of a never before seen image?,3,9044,1,2018-08-11
+0,,,What exactly is the definition of a &#39;Module&#39; in PyTorch?,20,5754,4,2018-08-12
+1,,,TypeError: tensor is not a torch image,13,13015,3,2018-08-12
+2,,,load a pretrained model pytorch - dict object has no attribute eval,2,6720,1,2018-08-12
+3,,,PyTorch ImageFolder: how to sample images belonging to particular classes,0,730,1,2018-08-12
+0,,,In-place operations with PyTorch,14,2752,2,2018-08-13
+1,,,"Is GEMM or BLAS used in Tensorflow, Theano, Pytorch",7,1909,1,2018-08-13
+2,,,Pytorch RuntimeError: &quot;host_softmax&quot; not implemented for &#39;torch.cuda.LongTensor&#39;,5,5846,1,2018-08-13
+3,,,How to print a tensor without showing gradients,1,192,1,2018-08-13
+4,,,Why the loss function can be apply on different size tensors,1,480,1,2018-08-13
+0,,,Re-encoding a context vector after every step of decoding?,1,29,0,2018-08-14
+1,,,PyTorch dataloader performance slump on HDD,1,392,0,2018-08-14
+2,,,pytorch - modify embedding backpropagation,1,295,1,2018-08-14
+3,,,PyTorch data loading from multiple different-sized datasets,1,2511,1,2018-08-14
+4,,,PyTorch LSTM States,0,67,1,2018-08-14
+0,,,Parsing CSV into Pytorch tensors,5,10327,2,2018-08-15
+1,,,pip - Installing specific package version does not work,5,5671,1,2018-08-15
+2,,,How can I load and use a PyTorch (.pth.tar) model,2,8744,1,2018-08-15
+3,,,CSV Class reader not getting actual image,1,17,0,2018-08-15
+4,,,Pytorch Double DQN not working properly,1,317,1,2018-08-15
+5,,,pytorch .stack final shape after .squeeze,1,348,1,2018-08-15
+6,,,Pytorch Runtime error: bool value of Variable objects containing non-empty torch.ByteTensor is ambiguous,0,1152,0,2018-08-15
+0,,,Change Image format from NHWC to NCHW for Pytorch,5,2952,1,2018-08-16
+1,,,Expected parameters of Conv2d,4,718,1,2018-08-16
+2,,,How to specify os-specific wheel files in the Pipfile,3,171,1,2018-08-16
+3,,,Pytorch expand not trainable?,1,108,0,2018-08-16
+4,,,pytorch (numpy) calculation about the closest pixels to points,0,510,1,2018-08-16
+0,,,Tensorboard Graph Visualization with PyTorch,4,2135,0,2018-08-17
+1,,,"RuntimeError: size mismatch, m1: [672 x 224], m2: [672 x 224]",2,3482,0,2018-08-17
+2,,,Get values of tensors in loss function,0,104,2,2018-08-17
+3,,,Installing Anaconda package behind firewall,0,1101,1,2018-08-17
+4,,,Pytorch LSTM - Training for Q&amp;A classification,0,604,1,2018-08-17
+5,,,Custom NN architecture using Pytorch,0,153,1,2018-08-17
+0,,,What is the difference between torch.tensor and torch.Tensor?,19,2461,2,2018-08-18
+1,,,Pytorch: Image label,9,7534,1,2018-08-18
+2,,,PyTorch: Image dimension issue,1,1560,2,2018-08-18
+3,,,Is there a mistake in pytorch tutorial?,0,525,1,2018-08-18
+4,,,Pytorch installation results in python setup.py egg_info,0,303,0,2018-08-18
+5,,,How to use Cross Entropy loss in pytorch for binary prediction,0,1074,1,2018-08-18
+0,,,Multiple matrix multiplication loses weight updates,0,69,1,2018-08-19
+0,,,Correct way to create Pytorch dataset that returns sequence of data for RNN?,2,1819,1,2018-08-20
+0,,,How can I get data for a quiver plot in torch?,1,133,1,2018-08-21
+1,,,cifar100 dataset consists of repeated image?,0,94,1,2018-08-21
+2,,,What is this attribute syntax in Python?,-1,123,2,2018-08-21
+0,,,Making a prediction from a trained convolution network,1,86,1,2018-08-22
+0,,,Calculating Euclidian Norm in Pytorch.. Trouble understanding an implementation,5,4552,1,2018-08-23
+1,,,PyTorch element-wise filter layer,3,1525,1,2018-08-23
+2,,,TypeError: Cannot handle the data type in PIL Image,1,4322,1,2018-08-23
+3,,,Implementing Curriculum Dropout in Pytorch,0,428,1,2018-08-23
+0,,,Pytorch DataLoader memory is not released,1,1505,1,2018-08-25
+1,,,Find global minimun with GD in PyTorch,1,121,1,2018-08-25
+0,,,Can nvidia-docker be run without a GPU?,10,2799,1,2018-08-26
+1,,,Access old pytorch release from conda cloud,0,40,1,2018-08-26
+0,,,Convert torch t7 model to pytorch,3,1880,1,2018-08-27
+1,,,Model modification in Pytorch,0,137,1,2018-08-27
+2,,,Show multiple images in interactive mode python,-2,100,1,2018-08-27
+3,,,How to calculate kernel dimensions from original image dimensions?,-3,602,1,2018-08-27
+0,,,How to use backpropagation with a self-defined loss in pytorch?,0,1009,2,2018-08-28
+1,,,Cuda error out of memory while running a python code,0,477,0,2018-08-28
+0,,,Cannot convert list to array: ValueError: only one element tensors can be converted to Python scalars,10,25242,2,2018-08-29
+1,,,How can I only update some specific tensors in network with pytorch?,3,689,2,2018-08-29
+2,,,pytorch - use device inside &#39;with statement&#39;,0,1308,1,2018-08-29
+3,,,Reducing batch size in pytorch,0,875,1,2018-08-29
+4,,,&#39;None&#39; gradients in pytorch,0,1550,1,2018-08-29
+0,,,Indexing a multi-dimensional tensor with a tensor in PyTorch,9,8987,2,2018-08-30
+1,,,What dtype should I use for PyTorch parameters in a neural network that inputs and outputs arrays of integers?,1,374,1,2018-08-30
+2,,,PyTorch n-to-1 LSTM does not learn anything,1,495,1,2018-08-30
+3,,,Torchtext BucketIterator wrapper from tutorial produces SyntaxError,0,245,1,2018-08-30

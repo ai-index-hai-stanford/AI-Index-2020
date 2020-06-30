@@ -1,0 +1,31 @@
+,title,score,view_count
+0,How to unpack pkl file?,69,161596
+1,import input_data MNIST tensorflow not working,32,88211
+2,Extract images from .idx3-ubyte file or GZIP via Python,24,60800
+3,TypeError: only integer scalar arrays can be converted to a scalar index,20,92806
+4,Tensorflow crashes with CUBLAS_STATUS_ALLOC_FAILED,20,19850
+5,TensorFlow - Show image from MNIST DataSet,18,26845
+6,"Tensorflow Deep MNIST: Resource exhausted: OOM when allocating tensor with shape[10000,32,28,28]",17,32370
+7,Tensorflow model for OCR,16,29851
+8,TensorFlow create dataset from numpy array,16,15824
+9,python pickle UnicodeDecodeError,14,10667
+10,Tensorflow weight initialization,13,19029
+11,Visualize MNIST dataset using OpenCV or Matplotlib/Pyplot,12,31021
+12,How to import pre-downloaded MNIST dataset from a specific directory or folder?,12,26586
+13,How to improve digit recognition of a model trained on MNIST?,12,481
+14,Mnist recognition using keras,12,1220
+15,Debugging a Neural Network,12,1188
+16,Keras - Save image embedding of the mnist data set,10,5204
+17,How to put my dataset in a .pkl file in the exact format and data structure used in &quot;mnist.pkl.gz&quot;?,10,26213
+18,Tensorflow - Testing a mnist neural net with my own images,10,3969
+19,Display MNIST image using matplotlib,8,32353
+20,R - Image Plot MNIST dataset,8,4172
+21,Should I use softmax as output when using cross entropy loss in pytorch?,8,3120
+22,How do I merge two trained neural network weight matrices into one?,8,1844
+23,How to prepare my own data for tensorflow?,8,3311
+24,Theano CUDA exception,8,1600
+25,Pre-processing before digit recognition for NN &amp; CNN trained with MNIST dataset,8,9442
+26,Parsing Yann LeCun&#39;s MNIST IDX file format,7,6035
+27,"Output and Broadcast shape mismatch in MNIST, torchvision",6,4875
+28,Error: from tensorflow.examples.tutorials.mnist import input_data,6,7318
+29,"cPickle.UnpicklingError: invalid load key, &#39; &#39;.?",6,14755

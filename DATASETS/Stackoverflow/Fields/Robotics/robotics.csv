@@ -1,0 +1,894 @@
+Question,Votes,Views,Date
+Creating World Map on Webots,-1,7,2020-06-12
+How to get the relative scaling of the translation vector in Monocular Visual Odometry,0,8,2020-06-06
+Positioning system for 1:8 scale RC cars with millimeter accuracy,0,16,2020-06-03
+Can I run ROS on my computer? I am just starting ROS and wanted to know if I can run it on my laptop,-1,23,2020-06-02
+Find 3D coordinate with respect to the camera using 2D image coordinates,0,34,2020-05-27
+Robotics: What are the advantages of cartesian paths in MoveIt?,0,22,2020-05-27
+Running an application with WebRTC within a local network that doesn't have internet access,0,32,2020-05-27
+Coordinate axis transformation for robot manipulation,1,34,2020-05-16
+Object detection in Matlab when object is placed under angle,0,19,2020-05-13
+Solving kidnapped robot problem using particle or kalman filter,0,22,2020-05-10
+C programming for Robotics,0,53,2020-05-10
+Using hector_slam for localization,0,25,2020-05-10
+ros controller topics not being published,0,26,2020-05-09
+Matlab using Aria robot,0,17,2020-04-24
+How to make contour mapping of orientation angles plot,0,26,2020-04-24
+"Query regarding Process Automation, Robotic Process Automation",0,14,2020-04-24
+Incorporate cubic splines to create a path controller for the robot in python,0,25,2020-04-23
+depracted map_server warning in launching of move_base node,0,16,2020-04-23
+initial pose of robot in ROS navigation stack,0,36,2020-04-23
+inverse kinematics algorithm in robotic system toolbox of MATLAB ik and ikGeneral has an output matrix that cannot be used outside the toolbox,0,11,2020-04-22
+Running g2o viewer from Pycharm,0,23,2020-04-20
+How to know if I have DDS installed?,0,41,2020-04-10
+Programming RPi Car to to follow a path and avoid obstacles,0,28,2020-04-08
+Connecting a set of points with horizontally aligned polylines without them crossing,1,37,2020-04-05
+I am getting an error with the manifest says package cannot be resolved,0,12,2020-04-05
+Mindstorm EV3 line follower robot using Deliberative and Reactive approach,0,19,2020-04-03
+Import line points from DWG file with C/C++,0,28,2020-04-02
+Tensorflow use a trained model into a model,0,13,2020-04-01
+Trouble with imports in IntelliJ IDEA CE for and FTC Robotics Simulator,-1,65,2020-03-28
+position trajectory to virtual force value robot path planning,0,9,2020-03-27
+problem in understanding this part of D star planning algorithm,0,33,2020-03-21
+Obtaining Rotation and Translation from 3D Hand Keypoints,1,12,2020-03-12
+Minibrick8 doesnt connect to computer via RS-232 serial cable when there is a Snap-action-switch (microswitch) attatched,0,12,2020-03-11
+Google Cloud Robotics communication,1,76,2020-03-10
+AprilTag Localization Expected Acuracy,0,43,2020-03-09
+Issues in spying a windows application utilizing BluePrism,-1,57,2020-03-08
+Jacobian of a planar manipulator with 4 links,0,24,2020-03-05
+TRPO - RL: I need to get a 8DOF robot arm to move to a specified point. I need to implement the TRPO RL code using OpenAI gym with Gazebo environment?,0,30,2020-03-05
+User Input for hexadecimal number,0,25,2020-03-01
+FRC problem with getting to run a motor for a certain amount of time,0,21,2020-02-29
+Sending ROS messages through a cv2 python script,0,33,2020-02-28
+What is the good choice for NodeJS Robotics Raspberry pi or Arduino? [closed],0,34,2020-02-26
+How to generate a path within a boundary in Python?,0,20,2020-02-26
+Getting Robot to Point to Correct Direction,0,39,2020-02-21
+Read TMD37821 (a.k.a color sensor V2 from RevRobotics). How does it works?,0,23,2020-02-18
+Using pyopengltk and add another common tkinter function,0,67,2020-02-17
+Blue Prism - Not able to spy elements - Browser Firefox,1,434,2020-02-12
+What is the best ROS distribution for a wheeled robot in 2020?,1,38,2020-02-10
+Dynamixel with Dynamixel Shield on Arduino not responding,0,19,2020-02-07
+Finding fastest path for robotic drive base,1,44,2020-02-06
+Fusing asynchronous measurements from multiple sensors,0,43,2020-01-31
+3d Mapping for robot path planning,0,12,2020-01-30
+how to train deep learning model for ABB robot?,0,23,2020-01-29
+Gaussian Progress Regression usecase,0,59,2020-01-22
+"Find the next 3D point given a starting point, a orientation quaternion, and a distance travelled",0,36,2020-01-22
+Correct approach to machine learning model for robotics,1,28,2020-01-22
+How should i start learning about programming robots?,0,25,2020-01-19
+can't locate [cartographer_occupancy_grid_node] in package [cartographer_ros],0,41,2020-01-19
+How to control the joint rotation in pybullet,0,84,2020-01-18
+SCARA robots with ROS/Python,0,24,2020-01-16
+Repeating Initialization Process for Pulse Width Modulation on Raspberry Pi,0,18,2020-01-09
+simulating a 6 DOF robot in matlab robotic toolbox,0,39,2020-01-08
+The four-legged spider experiment,0,30,2019-12-25
+Webots - Avoid (part of) robot sinking into RectangleArena; and how to affix it to the ground,1,45,2019-12-25
+Webots - BoundingObject of Robot becomes null after world reload (how to prevent that?),1,39,2019-12-25
+Motion correction step for kalman filter,0,28,2019-12-24
+Webots - Open multiple windows side by side,2,31,2019-12-22
+How to project 2d laser scanner data in world co-ordinate system,1,89,2019-12-21
+Webots - Avoid “joint” objects getting inside one another (i.e. how to enable collision for objects in hinge joint?),3,70,2019-12-20
+Currently MultibodyPlant does not handle joint limits for continuous models,1,25,2019-12-17
+Problem with simulating passive dynamic walker with knees,0,34,2019-12-10
+Incrementing through multiple variables in a “binary” type way,0,34,2019-12-09
+Custom Python Transpiler,0,43,2019-12-07
+Invalid update value in json object,0,45,2019-12-05
+Getting the pygame window but no output,1,47,2019-12-04
+How to pass a function as an argument to other function? My code is given below,0,22,2019-11-29
+'Element not visible' error when opening Chrome with G1ANT,1,28,2019-11-26
+run background loop or callbacks concurrently with qt C++ application?,0,174,2019-11-22
+Turning Issue With Vex Robot C++,0,57,2019-11-21
+How to program a code that allows my robot to complete a color parcour,0,20,2019-11-19
+g1ant: jsonpath with method length() not implemented,0,39,2019-11-19
+fast light and accurate person-detection algorithm to run on raspberry pi,-1,87,2019-11-19
+"FTC Robotics code is slow to start, becasue of “problem with ”imu“”",1,103,2019-11-17
+how to add orientation constraint on FABRIK inverse kinematic method,0,133,2019-11-17
+Inverse kinematic method suggestion for humanoid robot foot to be able to step [duplicate],0,11,2019-11-16
+Is there a way to build and run an Android Studio app on a phone remotely?,2,126,2019-11-15
+How to identify a specific row that has matching text and select it in robotic framework( blended with selenium)?,0,14,2019-11-15
+How to make the trigger in G1ANT run every 3 minutes but if its in the middle of a process then let it complete it?,1,34,2019-11-14
+how to calibrate bno055 gyro sensor?,1,38,2019-11-13
+How to automate reading files in the folder?,1,71,2019-11-13
+Robot won't connect to a new connection on our SQL server to AWS,1,36,2019-11-13
+Create graph from GVD (edges and vertices),1,41,2019-11-13
+how would the accuracy of a robot's EKF interact with the settings of a potential filed controller for the same robot?,0,7,2019-11-13
+Printing serial data from IRobot Create 2,0,35,2019-11-11
+How to expand a grid around a specific point in an matrix?,-2,33,2019-11-11
+Custom addon not displayed in the addons menu in G1ANT studio,2,63,2019-11-07
+roblem with ROS control and Gazebo,0,152,2019-11-06
+How to save to different drive using feature called 'environment' in G1ANT?,1,86,2019-11-06
+First time using scp -r before and I keep getting an error “Host Key verification error” [closed],0,49,2019-11-04
+Translate and rotate a 3d point to origin with pcl transformcloud,0,319,2019-11-04
+How to control my iot device over a long. distance?,0,8,2019-11-03
+Ultra96 or Pynq-Z2 kit?,0,50,2019-11-03
+Stop robot car when it detects object with ultrasound sensor (C++),1,84,2019-11-02
+Generate probability density after single sensor measurement,0,25,2019-10-30
+Initialization trouble with termios,0,64,2019-10-29
+How can I use the MRPT particle filter with 3D data instead of 2D?,1,38,2019-10-29
+Is it possible to control raspberry robot with GUI of Matlab's App Builder?,0,19,2019-10-29
+Java: Instance of Class B in Class A where Class B uses variables declared in Class A,0,39,2019-10-27
+Does developing using RoboMaker tie me tightly to AWS?,1,21,2019-10-21
+"In visual servoing, how should I derive a basis of null space of image Jacobian / interaction matrix?",0,23,2019-10-17
+Pybullet Inverse Kinematics,0,63,2019-10-16
+Graph software for robotics research,0,14,2019-10-16
+How to design realtime deeplearnig application for robotics using python?,0,54,2019-10-16
+path planning algorithms with parameters,0,29,2019-10-15
+To send commands to robot that is connected to the server under Linux system,-1,34,2019-10-03
+PWM frequency and duty cycle on raspberry pi for ESC using PCA9685,0,233,2019-10-02
+How is it possible for the RPA bot to look constantly in a folder if there is a new File?,-1,175,2019-09-25
+How to create an occupancy grid map in python similar to Matlab occupancy grid,1,549,2019-09-23
+How does robot do pose estimation in SLAM?,0,59,2019-09-21
+"Error during compilation of Thermal Camera (Adafruit AMG8833) Code, something pertaining that the module to be imported is not found",0,100,2019-09-15
+jQuery support in G1ant RPA Tool,0,59,2019-08-29
+Data structure to store a grid (that will have negative indices),2,180,2019-08-27
+How to check which pins on Raspberry Pi are used,0,31,2019-08-25
+How to fix “Java exception occurred: java.lang.IllegalArgumentException: bad transform angle” error in matlab while using rvctoolbox,0,33,2019-08-03
+PEPPER (SoftBank Robotics): ALSpeechRecognition Engine issue - How to restart it when it doesnìt work?,0,73,2019-08-01
+Calculating the workspace for a 7 DOF robot,0,40,2019-07-22
+Non-planar robot Dynamics error using Roy Featherstone's Spatial toolbox,0,17,2019-07-22
+How to run a robot's controller in multi processes or multi threads in webots?,1,72,2019-07-21
+Spatial toolbox robot model,0,28,2019-07-20
+What is the data contained in ROS topic velodyne_msgs/VelodynePacket Message?,0,185,2019-07-16
+How to include custom constraints/rankings on a RANSAC plane estimator?,2,170,2019-07-16
+how can I use gpiozero robot library to change speeds of motors via L298N,1,117,2019-07-15
+3-DOF Robot Dynamics error in Robotics Toolbox,0,33,2019-07-15
+"I want to actuate a motor based on a wav file, but it has too many samples per second",0,37,2019-07-13
+How to transform 6 DOF motion,0,18,2019-07-12
+Finding the Translation between two pointclouds using ICP algorithm,0,149,2019-07-11
+solving for unknown 2d rotation and translation,0,43,2019-07-08
+Is there a possibilty to run parallel scripts in G1ANT.Studio,1,72,2019-07-04
+Torque Simulink model to script file,0,37,2019-07-04
+Simulink model 'to workspace' output,0,248,2019-07-04
+Is it possible to use G1ANT Studio to automate outlook?,1,124,2019-07-03
+Forward and Inverse Kinematics for robot MATLAB,0,408,2019-06-28
+Cannot click on specified element on UI-Windows Tree using G1ANT Robot,0,80,2019-06-17
+Remembering angular position in a stepper motor,0,381,2019-06-17
+In general is it ok to loop if statements with goto under else?,2,74,2019-06-14
+Using blueprism to Spy Smart Card reader,0,72,2019-06-12
+Looking for solution how to exit the loop at the right place,0,57,2019-06-07
+What does it actually mean by Task Planning?,0,25,2019-05-29
+What Language For Image Recognition In Conjunction With Robotics,0,56,2019-05-25
+Fast algorithm that can find an unknown grid destination on a 2d map build on the go,0,67,2019-05-21
+"Doing things (driving servos, turning on led) using joystick input",0,83,2019-05-09
+OpenCV recoverPose camera coordinate system,1,793,2019-05-08
+Distance between two Aruco Markers in Python?,1,358,2019-05-06
+Algorithms for a line follower robot (with camera) capable following very sharp turns and junction,0,410,2019-05-05
+From camera calibration to picking up colored cubes with robot arm,0,317,2019-05-03
+Gazebo shows more robots than robot launched number,0,22,2019-04-27
+Setup hebi robot on python,0,72,2019-04-24
+Can someone explain how to add the slider object so it controls its own individual servo motor?,0,90,2019-04-21
+How to store local Sub Program names in an array and call them in a loop iterating over said Array in KUKA Robotic Language,1,87,2019-04-20
+How to read QR code from the pepper robot?,1,226,2019-04-19
+How to fix Mujoco CmakeLists build error “/usr/bin/ld: cannot find -lglfw”?,1,"4,215",2019-04-10
+HCSR04 sensor continually producing time out error. Want loop to run with no timeout,0,91,2019-04-03
+How to control a 4 DOF robotic arm using Ardunio?,0,756,2019-03-30
+"Obtaining dimensions for Stewart Platform for arm, base and top plate",0,38,2019-03-26
+How to import Motor on Micropython into a DFRobot Quad Motor Shield,0,88,2019-03-24
+ROS Remap topic doesn't work - Multiple Robots,0,"1,262",2019-03-23
+How rotate source vector to target (to nearest vector) by using only 2 Euler angles,0,183,2019-03-23
+Doesn't get robots /scan events [ROS],0,87,2019-03-20
+Accelerometer too noisy,0,33,2019-03-20
+Having multiple measurements of position (from different sensors) for a localisation Kalman Filter,1,120,2019-03-17
+My team's robot keeps spinning for a random amount of time and we don't know why,1,44,2019-03-13
+How can I solve “bash: src/examples/voice/assistant_grpc_demo.py: No such file or directory” while installing Google Assistant SDK on Raspberry pi,0,137,2019-03-13
+How do you compute the cartesian position of the end effector from the DH parameters?,0,97,2019-03-11
+How to include a folder of libraries in C?,0,51,2019-03-09
+Jacobian Matrix of Hand-eye Calibration AX=XB,0,75,2019-03-09
+Arduino Compare Weights of an Array,0,22,2019-03-07
+How to use the uArm Pro Python library,-1,316,2019-03-07
+How to create a Line With Gaps Follower? [Robotc] [LegoMindstorm][EV3],3,113,2019-03-01
+Robot reverses at high speed before following path given by ros nav stack,0,112,2019-02-28
+Pepper's tablet default [closed],-2,440,2019-02-25
+Control Webots from external Python IDE,4,223,2019-02-20
+Which is a good way to send robot states between different ROS nodes?,3,148,2019-02-19
+How do I get the distance from an object to another object with a camera?,1,39,2019-02-19
+What happens when RRT is used for a configuration space with no solution?,0,22,2019-02-18
+How to correctly use ode45 function in MATLAB for differential drive robot?,0,170,2019-02-10
+Simple rotation of a rectangle along a curve in matlab,0,35,2019-02-09
+Open-loop or Closed-loop (reactive) Path planning?,0,46,2019-01-27
+"VSCode Java Project: Class file has wrong version 55.0, should be 52.0, Gradle Build Failing",0,477,2019-01-25
+How to build a udp connection with python server and universal robot simulation software as a client?,0,181,2019-01-25
+Driving the Robot Straight Using Encoders and a Joystick,0,75,2019-01-11
+Applying PID Controller for trajectory planning algorithm,0,86,2019-01-11
+FTC Robotics Block Program (VuForia loop runs once then if statements stop working?),0,176,2019-01-10
+gradient descent algorithm dealing with a cost function not known at start time?,0,40,2019-01-08
+SE2 from Peter Corke's Robotics Toolbox for MATLAB failing,0,246,2018-12-31
+How to send commands from Python turtle graphics to an EV3 Lego brick?,9,417,2018-12-15
+ROS Kinetic Installation Error on OSX Mojave,2,659,2018-12-08
+How to embed machine learning python codes in hardware platform like raspberry pi?,0,45,2018-12-03
+Loop arcsin possible answers,0,26,2018-11-27
+What kind of data is stored in local and global costmap in ros navigation stack?,0,452,2018-11-23
+scanning the area with rotating turtlebot 2,0,58,2018-11-21
+ROS TurtleBot 2 laser scanner seem to scan the side,0,450,2018-11-21
+How would one program an Aurora Biomed versa 2000 pcb spotter?,0,18,2018-11-17
+solve a coupled ODE of euler angels Rotation vector of a body,1,52,2018-11-15
+Is best first search optimal and complete?,3,"2,214",2018-11-15
+Difference between Evolutionary Strategies and Reinforcement Learning?,0,607,2018-11-14
+Error using rotz - Not accepting symbolic argument,0,224,2018-11-06
+Auto refresh value in ListViewItem,0,42,2018-11-03
+Create a moving marker. Robot Operating System (ROS),0,222,2018-10-30
+Multiple View Stereo software recommendation,-1,69,2018-10-24
+ROS/ Moveit/ Reflexxes -Generating a sequence of Trajectory goals for a 6DOF robot,1,372,2018-10-17
+Detect a 2 x 3 Matrix of white dots in an image,1,54,2018-10-12
+could not move my Obstacle Avoidance Robot,1,42,2018-10-09
+Reconstructing a non-planar polygon in 3D given a 2d projection and known polygon dimensions,1,81,2018-10-06
+Modifying a program for something then changing it back,0,48,2018-09-27
+TypeError: object array may be self-referencing Python3,3,49,2018-09-21
+What should i use to detect a specific person in a crowd?,1,60,2018-09-18
+ROS: Gmapping & Lidar (YDLIDAR) - seeing through walls and obstacles? [closed],-1,631,2018-09-14
+"Compute target roll, pitch and yaw angles given initial and target positions and intial roll, pitch and yaw angles",-1,326,2018-09-07
+choregraphe with pepper version 2.4 and 2.5,0,100,2018-09-06
+Issue in saving project to default in pepper robot,0,70,2018-08-30
+Improving controls of Raspberry Pi RC robot,0,78,2018-08-29
+Using Flexible Collision Library (FCL),0,579,2018-08-23
+Best way to write the multithread,0,43,2018-08-21
+AlphBot2 with Raspberry Pi Zero is not working,0,66,2018-08-21
+How to choose the reward function for the cart-pole inverted pendulum task,0,876,2018-07-23
+Should samples from np.random.normal sum to zero?,1,204,2018-07-20
+ROS Human-Robot mapping (Baxter),1,145,2018-07-17
+How do I call an async function from a callback that is called by a different thread?,1,158,2018-07-16
+"How to convert 2D(x,y) coordinates to 3D(x,y,z) coordinates using MATLAB?",0,854,2018-07-15
+OpenCV Remove Perspective from Robot Camera,2,813,2018-07-12
+How to resolve exit status 1 error in arduino UNO?,0,"1,555",2018-07-11
+Finding the translation between 2d and 3d coordinate,0,394,2018-07-06
+What's the difference between ROS2 and DDS?,10,"2,833",2018-07-05
+Create interrupt (ISR) to create smooth robotic arm motion,1,91,2018-07-03
+Bluetooth controlled bot code not understood,0,43,2018-06-30
+Program Safety Planes for Universal Robotics (UR-10) in UR script language,1,177,2018-06-29
+Using serializing an object in python for use with an XBee,0,82,2018-06-28
+"In Pepper, How to take a backup and Erase the existing packages?",-2,99,2018-06-27
+Python fast calculating and slow Serial writing : Multithread or Multiprocess,1,538,2018-06-27
+Importing an joining Parts of a Robot manipulator arm (6-Axis) and making each joint rotate by user input(C++ code),1,113,2018-06-22
+Translate degrees into 3-motor movement,2,192,2018-06-14
+Allen Bradley L16ER communication via Python [closed],-1,"1,041",2018-06-13
+Using ROS vs other method (see post for more details on this “other method”),0,148,2018-06-11
+rosbag record -a - not collecting bag file,2,"2,090",2018-06-08
+Jackal simulation in ROS kinetic - getting the error: bash: cd: jackal_ws: No such file or directory,0,260,2018-06-07
+Android Studio movement emulation not working as expected,0,21,2018-06-07
+How to stop Pepper robot from preempting its tablet?,2,250,2018-06-05
+ROS :: Orientation between Gripper and Object?,2,407,2018-05-23
+The reason(s)/benefit(s) to use realtime operating system instead of while-loop on MCU,0,172,2018-05-22
+How do I 'fuse' together two different kinds of data to get a final result?,0,34,2018-05-20
+Make a Mobile Robot Run from a Web Site,0,44,2018-05-08
+How to get started with robotics having no idea what it is [closed],-2,91,2018-05-03
+Printing weekdays in automation anywhere,-2,915,2018-04-28
+How to combine Python 32bit and 64bit modules,2,592,2018-04-28
+"how to use “robotlocomotion drake” codes in my project, for example “qp_inverse_dynamics”",1,216,2018-04-27
+MATLAB: Peter Corke Robotic Code plot command failling,-3,317,2018-04-26
+Is there a way to get power consumption info from KUKA robot?,1,497,2018-04-24
+Room coverage in Answer Set Programming,1,78,2018-04-17
+Select Table Result in Blue Prism,0,486,2018-04-17
+Multiple systems sharing resources on multiple SoC's,0,51,2018-04-15
+Trouble with the data read from UR5 robot's TCP/IP port,0,474,2018-04-14
+SPRK+ sphero not pairing to bluetooth (Ubuntu 14.04 and RasPi),0,571,2018-04-13
+Robot Pepper Not able to run Android application on Real Pepper,3,"1,015",2018-04-09
+Understanding Inverse Kinematics pybullet,1,"1,504",2018-04-05
+Align Point Clouds with PCL on only one rotation axis,0,650,2018-04-05
+Parallel Processing in Python with Robot,-1,32,2018-04-04
+How to move a delta ASDA-B2 motor to position x and y?,1,78,2018-04-02
+No visualization in Rviz when publishing on (collision_object) topic?,0,336,2018-03-22
+Kalman Filtering need,0,135,2018-03-19
+Local minima in a Moore neighborhood,0,92,2018-03-18
+How to find upper left most corner of my Contour Bounding Box in Python OpenCV,1,"3,272",2018-03-16
+Hexapod Servo Controller Issue - Adafruit PCA9685 16Channel,1,159,2018-03-15
+Where to see the output data send by publisher?,0,613,2018-03-13
+generating occupancy grid maps from open source maps,0,236,2018-03-10
+How to run two turtle bots simultaneously in ROS Kinetic?,0,250,2018-03-10
+How to make what function I use in c be controlled by a variable,0,100,2018-03-08
+is it possible to work with the ROS environment on a esp32?,1,"1,069",2018-02-27
+How to convert an image to RGB data values in c++,-1,"1,174",2018-02-27
+GUI implementation in Java without using simulator,-2,135,2018-02-22
+Gazebo model does not stand,1,299,2018-02-15
+Explaining environments in Roboschool Half-Cheetah,4,714,2018-02-03
+How to code EEPROM with potentiometer in Arduino,-1,417,2018-01-26
+What is the probability that mouse with reach state A before state B,-3,82,2018-01-22
+My inverse compositional homograhy image align cannot converge?,1,97,2018-01-17
+How to do sensor fusion?,0,158,2018-01-15
+Using for / list comprehension for creating a tuple from any amount of other tuples,1,101,2018-01-12
+Asymmetric PID Control Loop,1,572,2018-01-10
+ROS Python Script is not executable when catkin build is done,0,529,2018-01-10
+how to get wheel encoder count from turtlebot's /odom topic,1,206,2018-01-05
+ros gazebo skipped loading plugin with error,0,660,2018-01-05
+What is the future of filtering methods vs incremental-SFM in visual-SLAM,1,467,2017-12-25
+How to prevent a lazy Convolutional Neural Network?,5,235,2017-12-16
+Injecting JavaScript for selecting the option button using UiPath Inject JS Activity,0,"1,370",2017-12-12
+Overhead camera's pose estimation with OpenCV SolvePnP results in a few centimeter off height,1,374,2017-12-12
+How to add two sensors in ros + gazebo,2,361,2017-12-11
+How to connect keyboard arrows with robotino sim and view?,0,79,2017-12-09
+pepper robots related,-1,93,2017-11-20
+FTC Android Studio problems,0,284,2017-11-17
+power distribution on a 6 wheel drive train,-2,43,2017-11-16
+How gazebo communicates with ardupilot SITL?,2,138,2017-11-14
+choosing camera for robot vision system,0,"1,114",2017-11-12
+Robot's 360 deg rotation platform,-1,60,2017-11-08
+Running python script in the background - Raspbian,0,369,2017-11-07
+Is Parse in JavaScript possible?,0,46,2017-11-05
+JavaScript Liquid Handling Robot,-1,46,2017-11-05
+distance between current position and black line opencv,0,461,2017-11-05
+Forward Kinematics for Baxter,7,"1,080",2017-11-03
+Is the C language supported as a V-REP script,0,26,2017-10-24
+ICP in the PCL package,3,947,2017-10-20
+how to convert the pixel coordinates to world coordinates?,0,"1,104",2017-10-18
+How to make a line following algortihm for an A.R Drone 2.0?,0,293,2017-10-18
+RDF semantic network for social robotics,0,107,2017-10-15
+What is the best and simplest file type to use to read and run a pick and place program c#?,0,60,2017-10-14
+Process and measurement covariance in EKF,0,88,2017-10-03
+How to find change of direction in 3d space,0,122,2017-10-02
+Simultaneous Localization and Mapping(SLAM) simulation,0,331,2017-09-25
+Is it possible to change the OMPL source code for the V-Rep plug-in?,0,89,2017-09-20
+V4L2 Framerate Drops,0,638,2017-09-14
+Bounding box orientation,0,440,2017-09-11
+Getting a point in the local frame of a simulated robot,0,48,2017-09-09
+How can I know a movement is finished in UR robot?,1,46,2017-09-05
+Control a robot with REST API with JS and Mongodb,0,70,2017-09-01
+What type of real time external board or controller should i choose?,1,37,2017-09-01
+How would one connect an SQL db securely to an external client?,-1,275,2017-08-29
+Integration of signal in embedded matlab function with variable timestep size,0,109,2017-08-23
+how to make python perform a command after open cv detected a face?,0,389,2017-08-17
+Is there a way to adjust shutter speed or exposure time of a webcam using Python and OpenCV,9,"9,184",2017-08-16
+How to specify a column name and data item in Blueprism?,2,813,2017-08-16
+Calculate Heading with two GPS Devices,1,396,2017-08-14
+Issue with finding Euler angles,1,116,2017-08-12
+PID line following using arduino,0,229,2017-08-05
+two arduino boards controlling a single servo,0,142,2017-08-02
+"BeagleBone Blue, rcpy module cannot be found (robotics cape library for python)",1,475,2017-08-01
+Input Point Cloud has no data,1,"2,543",2017-07-30
+path planning -> ways from goal to initial state?,1,159,2017-07-20
+"roll, pitch and yaw from Vicon angle",0,252,2017-07-18
+How can I create a 3D bounding box around different objects in a point cloud using PCL or Matlab?,1,"1,105",2017-07-18
+Controller for robotic arm in computer vision system [closed],0,161,2017-07-14
+How to read XML in blue prism?,0,"3,057",2017-07-13
+Connecting a stepper motor to Arduino using BNC cable,-1,189,2017-07-05
+Control motor/position over slow bus,0,43,2017-07-03
+Calculation of corner points for the localization of robot in 3D data,2,416,2017-07-02
+How to convert a rotation matrix to axis angle form?,1,"1,427",2017-07-02
+Publishing between gazebo and controller using trajectory_msgs,1,"1,274",2017-06-19
+How can I detect a row of crops (agricultural plants) with lots of foliage?,-2,676,2017-06-16
+Pepper movement not working with choregraphe behaviour,0,729,2017-06-09
+Custom controller dies when launched in global launch file,4,218,2017-06-05
+kuka_grasp_block_playback.py from bulletphysics/bullet3 (pybullet library) not running on my system.,1,705,2017-06-05
+"How to implement/execute new code using Simbad 3d Robot Simulator, Error: Could not find or load main class Example1",1,139,2017-05-23
+How can I calculate pitch value with gyroscope in MPU9250 of Navio2 (python2),0,834,2017-05-22
+How to get closest point on cubic spline for Robotics project?,1,454,2017-05-21
+Robotics Cape Library not working on Beaglebone Blue,1,"1,280",2017-05-08
+UiPath Error : Desktop has been disconnected while performing UI actions,0,"3,648",2017-05-05
+Controlling Arduino Braccio arm using data from processing,0,329,2017-04-29
+how to convert Collection<? extends ObjectFrame> to map,0,56,2017-04-24
+What's the technical difference between Robotic Process Automation (RPA) and Test Automation Tools?,1,"4,086",2017-04-18
+I need to connect visual studio to serial connected microscope camera for feature tracking with opencv? Edit,1,31,2017-04-16
+Arduino IDE error: cannot declare variable <object> to be of abstract type <class>,0,490,2017-04-15
+How to increase the speed of transfer of data from android to arduino in bluetooth?,0,756,2017-04-14
+Why is my nested while loop not working?,0,112,2017-04-14
+What does this line of code do in Kilobot example?,0,63,2017-04-06
+Kalman Filter Prediction Implementation,0,769,2017-04-05
+Python - Mysterious Double Object Instantiation [duplicate],-1,220,2017-04-03
+linking issue with opencv and ros indigo while trying to install vision_opencv,0,496,2017-03-28
+matlab smooth vertical and horizontal rectangle,0,53,2017-03-27
+OpenAI Gym and Gazebo to test RL algorithm for robotics?,3,"1,069",2017-03-27
+OpenRAVE issue: E: Unable to find a source package for openrave,0,183,2017-03-25
+Socket.io and nodeJS javascript robotics,0,113,2017-03-22
+Numpy/Python Array Value error,5,"29,795",2017-03-19
+I need to run parallel functions that keep track of variables that are in a buffer.,0,26,2017-03-08
+How to exclude poses of a wheel based robot which place behind of the porevious pose,0,39,2017-03-08
+"How to synchronize Basler camera, robot controller (ABB) and Visual Studio?",0,280,2017-03-07
+Activity bot - parallax - moving the robots with sensors - C Programming,0,202,2017-03-02
+Android Studio (2.2.3) error: Default Activity not found with FTC,1,69,2017-03-02
+Generate trajectories for 3 agents/robots with same tangent in specific point - MATLAB,0,95,2017-02-28
+I'm trying to detect a square using Point cloud library. I have pcl data from a 3D lidar in which I need to find squares,0,238,2017-02-23
+Calculation of center point for the localization of robot in 3D data,1,398,2017-02-22
+Swift used for research,1,59,2017-02-22
+How do I make two servo's move in opposite directions?,2,844,2017-02-22
+How to make a stable feedback controller which can only generate intermittent impulses?,1,57,2017-02-21
+Get centroid of point cloud data based on color using kinect v2 in ROS,1,254,2017-02-20
+I want to build a voice controlled robot please tell how should I proceed,-1,60,2017-02-15
+Analytic calculation of Jacobian derivative(second order kinematic differentials),0,85,2017-02-15
+Using external pose estimates to improve stationary marker contour tracking,0,50,2017-02-14
+How to find segments in (circular) point map?,1,26,2017-02-14
+Avoiding cycles in an directed graph efficiently,1,536,2017-02-07
+Inverse Kinematics programming C++ [closed],-1,"1,904",2017-02-03
+Any problems in installing ROS on Windows 10 using Virtual box,0,865,2017-02-03
+Recognize randomly placed object with the same shape,-1,54,2017-01-25
+Velocity isn't working through computational integration,-1,57,2017-01-24
+How to turn any camera into a Depth Camera?,2,"2,261",2017-01-24
+Gazebo / Ros: How to create a camera plugin with pixel-level segmentation?,0,"1,412",2017-01-15
+Robotics Mecanum Drive Programming,1,545,2017-01-14
+What is wpilibj 2017 replacement method for initDigitalPort?,0,38,2017-01-12
+Translation from Camera Coordinates System to Robotic-Arm Coordinates System,0,886,2017-01-11
+How to publish a `geometry_msgs/PoseArray` from the command line?,1,"2,660",2017-01-09
+publishing trajectory_msgs/jointtrajectory msgs,0,"1,928",2016-12-31
+How to map out a maze as a robot?,2,"1,018",2016-12-04
+updating a belief distribution given a measurment,1,54,2016-12-03
+Player stage error,0,164,2016-12-02
+3D object pose from single image using object CAD,1,457,2016-11-30
+Agent based NetLogo Code simulation,0,39,2016-11-26
+Jinput Poll Data Never Changes,0,291,2016-11-22
+"I'm trying to program a “latched button” for a robot, however when I run through the code the robot does not respond",0,34,2016-11-20
+Multithreading Issue - JAVA thread.wait() on method that has to be used,1,149,2016-11-19
+Why calculate jacobians in ekf-slam,1,234,2016-11-14
+What is difference of occupancy grid map and elevation map,0,184,2016-11-04
+(Eucledian Shortest Path) Detecting corners of obstacles in plane,3,378,2016-10-28
+Spawning new robot in running ROS Gazebo simulation,2,708,2016-10-28
+How to create an efficient 3D matrix using the Eigen library in C++?,1,729,2016-10-23
+Suggestion for Neural Network for Table Tennis Robot,2,171,2016-10-20
+how to detect a bin / box in pcl?,0,678,2016-10-12
+Robotics library in Forth?,1,260,2016-10-03
+ROS custom message and numpy arrays,0,986,2016-09-27
+Public Key is not available,3,"3,632",2016-09-27
+Integrating Gyro and Accelerometer Readings to move Robot Straight,0,541,2016-09-12
+How to share MATLAB variable data to a C++ program running on a different computer?,0,38,2016-09-06
+How to order one dimensional matrices base on values,1,55,2016-08-29
+Integration of Tapster robot with Appium is not working for iOS app,5,108,2016-08-18
+Arduino radio frequency receiver does not work with motor shield,2,245,2016-08-02
+How can I use gyro or encoders for robot moving in straight line?,0,743,2016-07-29
+ORB_SLAM installation on Ubuntu Xenial 16.04,2,"2,356",2016-07-28
+ROS Gazebo working example?,0,279,2016-07-06
+Lego Mindstorm EV3 + Raspberry Pi or BrickPi or GoPiGo,1,336,2016-06-29
+Disjoint Movement of Joints of Aldebaran Nao,-1,106,2016-06-29
+Neural Network and RC Boat,1,79,2016-06-26
+Reading external 2D Laser Scan Data in mrpt,0,200,2016-06-21
+An animated shape run over known path,0,53,2016-06-15
+why Backpropagation algorithm in neural nets stuck in local minima? [closed],-1,383,2016-06-14
+Bluetooth to Android to Arduino communication: Is It possible?,0,106,2016-06-10
+BAM(Bidirectional Associative Memory),0,559,2016-06-10
+Python pip install qibuild exception then I installed pip yet.,0,276,2016-06-06
+What are the uses of a tachometer in ground mobile robots?,0,125,2016-05-23
+Changing Mavlink Message Rate ArduPilotMega,1,792,2016-05-23
+Robotics Maze Representation in C [closed],2,110,2016-05-18
+How to make multiple python programs communicate in this situation?,4,"2,197",2016-05-16
+"How to map a house layout, room by room to be used for simple room to room navigation by a robot?",0,426,2016-05-12
+"PID controller affect on a differential driving robot when the parameters (Kp, Ki, and Kd) are increased individually. [full Q written below]",0,465,2016-05-06
+Do ground mobile robots need to know its location information if they're programmed to avoid obstacles using sonar sensors?,0,72,2016-05-04
+Inverse-Kinematics: How to calculate angles for servos of a robotic arm to reach all possible points in a canvas?,0,640,2016-05-03
+What is wrong with my Implementation of 4th Order runge kutta in python for nonholonomic constraints?,0,101,2016-05-01
+How does this piece of code verify a checksum?,1,460,2016-04-30
+Contour Detection in Opencv Python 2.7,2,"1,140",2016-04-27
+Displaying battery percentage with arduino,0,"1,814",2016-04-26
+Representing a maze,0,379,2016-04-26
+How to receive data from Microsoft Kinect device?,-1,720,2016-04-24
+Compare two lists of distances (floats) in python,0,579,2016-04-24
+Using seperate threads to execute a sequence of timed events using Queue.Queue,0,205,2016-04-21
+Robotics Square Grid Intersection Point,1,162,2016-04-21
+What is the nPrecision parameter of RobotC displayLCDNumber?,0,45,2016-04-20
+"How to manage a stream of 3,000 telemetry sensor data points per second?",0,81,2016-04-20
+Looking for an algorithm for robot navigation [closed],2,532,2016-04-12
+"Revolute joints jump out of frame - vrep, bullet engine",2,218,2016-04-11
+Building robotlocomotion drake-distro,0,59,2016-03-31
+How is the bug algorithm implemented on an obstacle avoidance robot using the Arduino platform?,-2,837,2016-03-31
+Powershell with UiPath,3,"5,382",2016-03-17
+Angle to a circle tangent line,2,241,2016-03-13
+Single Core processor: Undesirable behaviour with Pthreads and OpenCV,0,101,2016-03-01
+Kinect robotic arm detection,0,318,2016-03-01
+How to use previous parameter from array in for loop,0,75,2016-02-26
+SVG - Export of Points / Coordinates in Python,1,954,2016-02-17
+Quadricopter + arduino+mpu6050(gyro+oscillo) +PID,-1,"1,413",2016-02-13
+Error with too many initializers,-1,"2,454",2016-02-12
+How to program ESC to increase/decrease PWM in increments,0,600,2016-02-11
+Using OpenCV on raspberry pi for vision tracking FRC,1,"2,695",2016-02-04
+Building an autonomous drone/quadcopter,-3,531,2016-01-25
+CMUcam5 Pixy on Raspberry 2,0,481,2016-01-23
+Robotics: distance in configuration space,1,364,2016-01-11
+Tracking objects from camera; PID controlling; Parrot AR Drone 2,1,"3,673",2016-01-11
+How to output time sensitive data from Node.js with too much going on in the thread?,0,57,2016-01-04
+Arduino circuit not responding,0,59,2016-01-02
+Use machine learning for simple robot control,3,"1,547",2016-01-02
+How can I control a Python script continuously with key inputs?,0,658,2016-01-01
+How can I control a Python script with key inputs?,0,244,2016-01-01
+GUI Button hold down - tkinter,1,"12,223",2015-12-30
+Wifi communication between Raspberry Pi 2 and BeagleBone Black,0,230,2015-12-29
+Task Space Vs. Configuration Space [closed],2,594,2015-12-20
+Tracking position and velocity using a kalman filter,6,"2,215",2015-12-15
+Using an arraylist for a state machine,4,78,2015-12-14
+How to train the neural network with small dataset or how to make huge dataset without human intervention?,0,616,2015-12-06
+Getting started with machine vision and position feedback,0,151,2015-12-02
+Raspberry Pi and a Arduino compatible Mini Luminance Light Sensor,0,79,2015-11-28
+Map representation for localization,0,134,2015-11-12
+Find pixel coordinates from real world using a Kinect,0,383,2015-10-31
+Ratio of wheel diameter and wheel to wheel distance has any effect on alignment and desired heading of vehicle?,0,455,2015-10-29
+What will be the best possible way to simulate the touch on the display screen?(without robot),1,155,2015-10-28
+how to create a graph from captured image of maze,2,465,2015-10-22
+How to make a robot to play a video game by Python in Mac OSX?,-3,308,2015-10-22
+Advanced Line Follower Robot,0,844,2015-10-17
+Qt creator - RS232 writing over serial to fast,0,737,2015-10-09
+how does SLAM extract landmarks?,1,"1,536",2015-10-07
+Foward/Inverse Kinematics Calculations 2-DOF python,1,964,2015-10-06
+horizontal acceleration measurement in self-balancing 2-wheel vehicles?,0,78,2015-10-05
+v-rep Bubble Rob tutorial issues,0,576,2015-09-29
+How would I implement a particle filter for vision tracking?,3,284,2015-09-21
+Trigger a relay with Java [closed],0,818,2015-09-20
+Issue while connecting ESP8266 with Arduino Mega. It always says “Module have no response.”,0,"3,261",2015-09-18
+Python script in Abaqus raises “TypeError: keyword error on mergeWire”,0,"1,929",2015-09-08
+General Advice to Creating a C++ Robot Template,0,145,2015-09-06
+Follow wall algorithm (with constant distance),0,505,2015-09-03
+"what sensors, cameras, image algorithms should be used for tracking a path laid out in white tape",1,59,2015-08-31
+interface with the computer in a motor vehicle using the .NET framework,0,44,2015-08-30
+Finch robot programming,0,"2,460",2015-08-21
+Autonomous robot location detection indoors,5,"1,032",2015-08-19
+How to connect usb webcam to ev3?,1,"2,324",2015-08-17
+How to multithread/multiprocess just one instance of a particular function in Python?,4,601,2015-08-15
+How to send data to cloud from arduino uno?,0,"3,409",2015-08-14
+Void function with two arguments but not both need to be used,1,65,2015-08-08
+Navigating through a Maze using path-planning (Dijkstra),0,584,2015-07-25
+Software to model mechanical linkages,0,551,2015-07-24
+How do I create an Android app that allows me to control a robot fitted with raspberry pi?,1,573,2015-07-24
+ROS - ROAR compile error on Ubuntu,0,273,2015-07-21
+Run multiple functions simultaneously with pic16f877a using C,0,210,2015-07-19
+Controlling two dc motors (on arduino) through c++ source code,0,503,2015-07-17
+How to use usb_cam node on ROS?,1,"9,456",2015-07-11
+How to activate gravity compensation at KUKA LBR iiwa,1,560,2015-07-09
+Functional approaches to designing the discrete side of hybrid systems,7,96,2015-07-09
+Software adjustement of LCD monitor brightness in Raspberry Pi,0,"1,014",2015-07-07
+Image analysis technique to determine approximate change in view over a short period of time?,2,90,2015-07-04
+Finding an optimized path using set of data,0,698,2015-06-27
+Robotics: Homogenous Transformation Matrix for DH parameters,2,427,2015-06-23
+Communicating between a PC and UR5 Universal Robotics Robot Arm using TCP/IP LabVIEW,2,"2,456",2015-06-18
+Camera Calibration with OpenCV: Using the distortion and rotation-translation matrix,1,681,2015-06-17
+Array connectivity map,0,104,2015-06-11
+What computer language does Fisher Price use in their toy robots?,-1,167,2015-06-11
+"Graph-SLAM when it uses only odometry information, will it still run? and what is the outcome?",0,131,2015-06-09
+Arduino Making Spiral,0,430,2015-06-02
+Render arbitrary CSG solid given boolean function?,1,747,2015-05-28
+serial interfacing of 89s52 with Hyperterminal… getting garbage values,1,316,2015-05-21
+Error libraries Raspbian with GoPiGo,3,656,2015-04-29
+Building an Android app for ROS,0,312,2015-04-13
+What main factors/features explain the high price of most industrial computer vision hardware? [closed],0,250,2015-04-13
+How to tell if N circle intersect each other and in which point?,0,194,2015-04-09
+Arduino Uno with Micro Maestro 24-ch Servo Controller Tutorial,-2,"1,314",2015-04-06
+ROS Service and Message,0,"3,800",2015-04-05
+Path planning algorithm for connected multi-robot system,1,102,2015-04-01
+Send data to Arduino on keypress Raspberry Pi,0,903,2015-03-28
+Adding an External Library to a cmake project,1,183,2015-03-27
+Differential drive robots: converting wheel speeds to lin/ang velocities,0,"1,098",2015-03-24
+Extended Kalman Filter - error in update step,0,451,2015-03-20
+Need some tips which localization method to use for my NAO robot (robotic) [closed],-2,216,2015-03-19
+Can somebody help explain RobotC Syntax?,-1,311,2015-03-11
+Using stationary camera to track a moving object,0,320,2015-03-09
+Raspberry Pi quadcopter thrashes at high speeds,0,392,2015-03-04
+Suggestion on Robotic Localization,0,107,2015-02-27
+How to find a path from source to target with obstacle avoidance,1,692,2015-02-25
+Python bus between processes,1,140,2015-02-19
+RobotC - Simple error from motors not being recognized,1,172,2015-02-13
+Concave hulls/contours with opencv?,0,"1,556",2015-02-12
+Is ROS (Robotic Operating System) compatible with all robots?,1,635,2015-02-03
+FRC Java Mecanum Drive,1,"1,049",2015-02-02
+Robotics Project based on slam algorithm [closed],1,"1,701",2015-01-20
+On simulation of fixed-end robotic arms,2,831,2015-01-15
+How to set PWN_ON high?,0,38,2015-01-13
+Is it possible to measure depth of an image(JPEG/PNG),0,746,2014-12-25
+Python Inverse Kinematics package,0,"9,407",2014-12-22
+How to make a robot navigate a maze?,2,961,2014-12-11
+How to move a robot a certain distance and still manage sensors?,0,"1,167",2014-12-10
+3D Matrix in Simulink which can be 2D is not supported,0,256,2014-11-27
+Robotics - Recursive function for fractal.,0,220,2014-11-14
+iRobot Create - Playing two songs,0,"1,423",2014-11-13
+"Newbie python script, odometry",-1,971,2014-11-10
+Navigation of maze with a group (cluster) of robots,-1,71,2014-11-08
+Haskell for Robotics [closed],4,824,2014-11-08
+Scan Matching Algorithm giving wrong values for translation but right value for rotation,1,407,2014-10-21
+Myro programming - Making robot stop when it sees and obstacle,0,"2,660",2014-10-12
+“timeRemaining is not defined” error,0,284,2014-10-12
+Matlab vpasolve numerical solver variable range,0,"1,214",2014-09-25
+Calculate new point offset based on angle of rotation?,7,"5,379",2014-09-24
+Line follower overshoot,-1,158,2014-09-21
+Arduino+EasyVr works only when powered with USB,0,227,2014-09-18
+Arduino IDE Unable to detect ZumoMotor.H ( PIXY PET ),0,836,2014-09-17
+AR Drone over the internet,0,437,2014-09-16
+Shortest Path algorithm in line follower robot (Maze solving),-3,"4,795",2014-09-15
+Exit from Artoo,2,59,2014-09-15
+Virtual Testing Environment for Drones [closed],6,870,2014-08-16
+What is a better approach to have realtime loop and non realtime function at the same time,4,"1,218",2014-08-07
+Using objects (that require a parameter) and their methods within another class,0,441,2014-08-07
+Path planning and collision avoidance for multiple autonomous robots in static environment.,1,546,2014-07-28
+Data structure for circular sector in robot vision,0,70,2014-07-13
+"communicate with my raspberry PI, through my webserver",1,"1,084",2014-06-14
+Factors to find weight painting formula for Auto-Rigging [closed],3,263,2014-06-11
+Working of CCD algorithm for Inverse Kinematics,1,"1,690",2014-06-07
+Using multi thread in Nao robot,0,532,2014-05-29
+Robot Controller double click event not assigning value,0,105,2014-05-19
+How to write a .sdf file in Gazebo 3D simulator for a robot arm with 3 revolute joints?,0,643,2014-05-19
+How to determinate object position with openCV in the world coordinate,0,"2,330",2014-05-12
+Angle estimation with mpu5060:,1,287,2014-05-08
+How to upload c# code with Visual Studio to Arduino Mega,0,"1,999",2014-05-06
+Finch obstacle sensors is not working in java,-1,766,2014-04-25
+Offline algorithm for simplifying 2d maps,0,120,2014-04-24
+Dynamically switch between programs Arduino,0,"1,961",2014-04-22
+Basic continuous 2D map exploration ( with obstacles ) algorithms,1,"1,213",2014-04-21
+Local path planning and obstacle avoidance using local vision,0,328,2014-04-15
+"Roll, pitch, yaw calculation",4,"35,363",2014-04-11
+"compute pitch, roll and yaw movement of an object in Matlab",0,683,2014-04-06
+Are interrupts the right thing to use for my robot?,0,817,2014-03-31
+Robotics: Want MicroC Pro PIC Sample Code? [closed],-1,180,2014-03-27
+NXT bluetooth pairing always failed,-1,"1,181",2014-02-25
+"distance measuring from ultrasonic sensor, variable overflow",0,247,2014-02-24
+Robotic Arm Controlled via Python [closed],-3,960,2014-02-24
+quadrotor accelerometer unstable,0,216,2014-02-19
+BeagleBone Black as external processing unit for Robotics,0,162,2014-02-17
+VAL language and velocity control of industrial robot,2,"1,569",2014-02-16
+database for robot in labyrinth,0,135,2014-02-16
+Get distance from kinect depth image using ubuntu 12.04 LTS and opencv,0,"1,368",2014-02-13
+Is there any Arduino Virtual Simulator for Desktop PC?,0,"4,586",2014-02-13
+How to measure distance at angle in image python,2,"1,091",2014-02-13
+Simplecv and openkinect blob detection issues,1,"1,608",2014-02-05
+Monte-Carlo localization for mobile-robot,0,700,2014-01-21
+Find all polygons formed by intersections of lines,0,177,2014-01-17
+Quadcopter PID controller,4,"3,861",2014-01-13
+Entegrating existing .mfile to the .mdl simulink,-1,297,2014-01-11
+UAV simulation in MATLAB for target tracking,0,907,2014-01-11
+How to entegrate existing .m file into the simulink .mdl file,2,"1,123",2014-01-10
+real time object detection based on color in opencv and python,2,"6,052",2014-01-08
+Javascript realtime user code execution in WebWorker,1,572,2014-01-04
+KRL: Length of an array,3,"2,256",2014-01-03
+Unable to receive data from serial port,0,"1,431",2013-12-31
+How to bind a keypress to a button in Tkinter,1,"14,937",2013-12-30
+C++ 2D Vector setting a position within the vector,1,984,2013-12-22
+Update Oxyplot C# WPF on demand,0,"3,827",2013-12-13
+call of overloaded write(int) is ambiguous,1,"18,497",2013-12-10
+Teachable Robotic Arm coding error,1,344,2013-12-06
+Which robotic simulation tool fits my need [closed],0,97,2013-11-23
+RobotC - Programming an Elevator,4,"10,198",2013-11-09
+RQ-HUNO startup,0,227,2013-11-07
+mobile robotic (e-puck) programming (c language),2,757,2013-11-04
+Path planning and Obstacle avoidance algorithms,0,"2,134",2013-10-16
+"Find new coordinate (x', y') given (x, y) , theta, and velocity?",0,927,2013-10-13
+Reading output data from a mouse driver,1,"1,305",2013-10-04
+Artificial Intelligence programming in Python for a robot [closed],-2,"1,088",2013-09-28
+Zero Robotics movement code isn't working,-2,913,2013-09-27
+obstacle avoidance implementation in matlab,1,"2,586",2013-09-26
+python sockets: make sure that TCP packets are send before closing connection,4,620,2013-09-18
+"How to detect only single color such as Red, Blue or Green from an image using Java or Processing?",1,"1,324",2013-09-01
+How to represent N E S W orientation in OOP?,2,102,2013-08-13
+Unable to run new .cfg on PlayerStage,1,126,2013-08-13
+break does not seem to return to previous loop,-1,126,2013-08-13
+How to correctly compute direct kinematics for a delta robot?,6,"14,096",2013-08-10
+How to determine the parameter alpha of a Complementary Filter?,2,"1,910",2013-08-07
+How do I control power output with a program,0,"1,061",2013-07-31
+Threading in C# and library that does not work,0,41,2013-07-30
+Getting My Hands on Something New [closed],-1,125,2013-07-29
+Testing DSS service from C# application,1,137,2013-07-25
+Hardware to Software incorporation/interaction [closed],0,181,2013-07-18
+tracking the robot from the overhead cam,2,999,2013-07-18
+iRobot Create not responding to commands,1,689,2013-07-16
+Controlling a robot through a webpage,0,390,2013-07-12
+How do I run the OpenGrasp Robot Editor with Blender on Mac OS X?,0,217,2013-06-20
+Any alternatives to libhand?,1,427,2013-06-14
+AI: Partial Unification in Open-World Reference Resolution,2,123,2013-06-13
+Should I use TCP or UDP packets to control a UAV?,1,"1,206",2013-06-06
+Java Android DC Audio Out,0,609,2013-06-05
+Movement of a surgical robot's arm OpenGL,0,948,2013-05-12
+Player stage commands,-3,247,2013-05-08
+Swig Python/C Pointer in struct to another struct,0,706,2013-05-07
+Initializing Objects and assign it to no pointer variables,0,258,2013-05-06
+Python Flask running background functions returning values,1,401,2013-05-06
+Irobot Create encoders in ROS,1,336,2013-05-03
+NXT - Tortoise and Hare - follow moving object - Theoretical,0,489,2013-04-27
+"Object distance to camera, using opencv",3,"6,876",2013-04-27
+Random Config Generation for RRT,1,353,2013-04-09
+Trying to filter (tons of) noise from accelerometers and gyroscopes,5,"3,444",2013-04-02
+How to normalize fitness scores? [closed],2,"1,424",2013-03-31
+Ruby robotic control,4,647,2013-03-28
+Retrieve 3 Euler angles from 2 Vector3D,1,"1,304",2013-03-25
+Embedded Systems Bit Count,1,272,2013-03-21
+"Algorithm, tool or technique to represent 3D probability density functions on space",3,482,2013-03-19
+Real time programming in C++,-4,"2,354",2013-03-10
+Determining Joint Rotations in Gazebo using KDL,1,581,2013-02-25
+Using an Arduino Motor Shield in conjunction a Bluetooth Shield,1,"1,808",2013-02-25
+Pathfinding with teleporters,5,"1,516",2013-02-24
+Which language is ideal for robotics [closed],10,"16,865",2013-02-22
+Good Pre-Built Stereo Camera and Robot Vehicle Suggestion [closed],0,"1,170",2013-02-18
+Looking for a robot arm simulator [closed],4,"4,280",2013-02-17
+Pioneer 3d sonar sensor model parameter,1,460,2013-02-16
+How to put and use two different values in buffer in C?,1,254,2013-02-13
+How to properly set projection and modelview matrices in OpenGL using camera parameters,3,"1,280",2013-02-11
+What are some popular Robotics APIs/Frameworks,2,124,2013-02-06
+How to change this while loop to a for loop in C?,-4,542,2013-02-01
+"Making a half-elliptical path in MATLAB from three input points through 3D space, to be fed into Visual Studio and ultimately a robotic arm",4,356,2013-01-24
+"Describing nonlinear transformation between two images, using homography",7,"1,779",2013-01-18
+Can I use a Kinect to track a robot on a 8'x6' wall? [closed],0,144,2013-01-16
+Find Distance between barcode and camera?,2,536,2013-01-10
+frisbee trajectory [closed],1,547,2013-01-08
+how to find shapes that are slightly elongated oval / rectangle with curved corners / sometimes sector of a circle?,0,"1,522",2012-12-27
+how to recognise a zebra crossing from top view using opencv?,3,"1,907",2012-12-26
+Guiding a Quadrotor Towards a Waypoint,0,124,2012-12-24
+how to reprogram an old computer rom and use it as rom memory for another task?,2,"1,159",2012-12-22
+"Robot Middleware (OpenRTM, OROCOS, RSCA, ASEBA etc.) support port to an RTOS(Micrium, QNX, Keil, FreeRTOS?",0,678,2012-12-10
+Using MPU6050 accelerometer/gyroscope module,1,"17,467",2012-12-08
+"overview of algorithms for AI, navigation, mapping, pathfinding",1,413,2012-11-26
+What is the purpose of calibrating in OpenCV?,2,297,2012-11-20
+Robot Operating System ROS book [closed],0,"3,412",2012-11-16
+How to attach a 3-pin switch to Arduino Uno? [closed],-1,"5,341",2012-11-05
+Using encoders and robotc to map a line circuit,1,464,2012-11-01
+question about camshiftdemo.c,1,459,2012-10-22
+Controlling the speed of motors using Arduino Uno without using analogWrite?,0,"1,107",2012-10-03
+Encrypted protocol for controlling robot via internet?,0,67,2012-09-25
+AI Snake BFS Issue,2,765,2012-09-24
+"Is it worth to learn Ada instead of another languages [c++, c#]?",19,"21,078",2012-09-17
+Which programming paradigm to use?,9,"5,034",2012-09-16
+LabVIEW robotics with Pioneer P3DX,0,261,2012-08-29
+Hardware to use for 3D Depth Perception,5,"1,398",2012-08-28
+Why this program does not work? [closed],-1,298,2012-08-28
+Using C Libraries for C++ Programs,42,"63,166",2012-08-22
+Problems making Carmen Robotics toolkit in Fedora,0,181,2012-08-20
+Android incoming http request port redirection,0,261,2012-08-15
+Speech Precognition and Do some action with hardware,0,206,2012-08-04
+Distance and Angle robot control,1,"1,958",2012-08-03
+iPhone - Any examples of communicating with an Arduino board using Bluetooth?,1,"5,341",2012-08-02
+iPhone MapKit is it possible to map coordinates from a series of touches?,1,759,2012-08-02
+Opencv library using a STM32F407VGT6 ARM M4 PLATFORM,0,"2,023",2012-07-30
+Computing a matrix which transforms a quadrangle to another quadrangle in 2D,5,"4,937",2012-07-30
+Computer Vision/Image Processing frameworks,-1,"3,518",2012-07-25
+Voice and face recognition libraries for .Net Gadgeteer,2,466,2012-07-20
+detecting lump region in a 2D array,3,347,2012-07-11
+Setting Ros package path,0,"4,248",2012-07-04
+"Robotic simulator with haptic, proprioceptive, force/torque, joint sensors",0,289,2012-07-02
+C++ Inverse Kinematic Algorithm / library which includes method for IK when position of several nodes in chain known,5,"1,547",2012-06-15
+iPhone Robotics Visual-SLAM algorithm implementation,3,"1,051",2012-06-14
+Controling Robotics locomotives using android and GPS,1,"1,114",2012-05-27
+How to calc a cyclic arc through 3 points and parameterize it 0..1 in 3d,4,"2,735",2012-05-11
+"python and ctypes cdll, not getting expected return from function",3,"2,367",2012-05-11
+How to check collisions on x-y axis,4,760,2012-05-05
+What is * in AT command?,1,127,2012-05-05
+Open source machine vision code to locate a human in a room [closed],1,438,2012-05-05
+Manipulator/camera calibration issue (linear algebra oriented),0,287,2012-05-02
+iPad Camera Connection Kit to Talk to Non-Storage USB Devices?,3,"1,733",2012-04-26
+Player does not properly get odometry data for Create in multithreaded application,0,213,2012-04-17
+vehicle's obstacle avoidance sensor,2,813,2012-04-09
+Robot Motion in Python,5,956,2012-04-07
+Robot programming using Microc in pic 16f877a,0,629,2012-04-01
+What AI is best for learning an area,0,192,2012-03-29
+having trouble with winavr gcc in eclipse c/c++,0,435,2012-03-27
+Compute the maximum-coverage path in an Occupancy Grid,2,310,2012-03-27
+Is there a special type of multivariate  regression for multiple-parameter predictions?,4,"1,079",2012-03-14
+Issue regarding practical approach on machine learning/computer vision fields,4,453,2012-03-08
+Referencing objects through a tcp/ip connection - for robotics,0,213,2012-03-02
+parallel programming for robot control,0,469,2012-02-28
+How to get a picture from a kinect with labview,0,845,2012-02-18
+Associate file format with my program (Java),2,"1,721",2012-02-17
+How to write multi threaded testcases in robotium,2,239,2012-02-16
+What machine learning algorithm is appropriate for shooting basketballs?,1,320,2012-02-13
+Efficiently rendering an Occupancy Grid in Java Swing,1,"1,866",2012-02-12
+Microsoft Robotics studio,1,337,2012-01-30
+computing the shortest distance of a maze with the boe-bot in Pbasic,0,"1,096",2012-01-27
+I am designing a Java Robot? [closed],2,212,2012-01-17
+Robotics Club Programming Portion,2,352,2012-01-10
+Panda3d Robotics,3,686,2011-12-15
+Which bar code type is the most robust when used with mobile machine vision and a tool like OpenCV?,4,"1,302",2011-12-10
+Mindstorm NXT Programming Loop Exit Conditions,3,"9,451",2011-12-01
+Monte Carlo Localization example,2,"1,568",2011-11-24
+Convert position to Encoder Ticks for a differential drive robot,0,695,2011-11-17
+Unit-testing code with unpredictable external dependencies,6,342,2011-11-02
+iterative lengthening pseudo code for traversal of all the nodes,1,"2,752",2011-10-22
+Programming Artificial Intelligence in Robots/Autonomous Robots,1,"1,730",2011-10-19
+What is the right RTOS for a humanoid robot? [closed],8,"7,336",2011-10-18
+Roomba not responding to roombacomm,0,308,2011-10-13
+Wavefront algorithm for area coverage,2,"2,464",2011-10-09
+Obstacle avoidance using 2 fixed cameras on a robot,5,"1,648",2011-09-24
+Localization using ultrasonic sensors,4,"4,706",2011-09-23
+Quadrotor Target-Tracking Flight Pattern,0,564,2011-09-08
+Neural Networks for Mobile Robot Navigation [closed],0,299,2011-08-31
+Urbi “switch” statement error,1,82,2011-08-25
+Steering behaviours accounting for the mass of the agent,1,138,2011-08-16
+Problematic Parallel Distributive Processing using Python Libraries or any language,2,189,2011-08-12
+Would Arduino be the most viable language to support the construction of a human-like robot? [closed],0,200,2011-08-10
+Book with vslam [closed],3,389,2011-07-21
+principle point in camera matrix ( programming issue),4,"6,495",2011-07-12
+ROS on Android Phone,1,742,2011-07-11
+Obstacle avoidance with stereo vision,8,"5,425",2011-07-10
+Determining the duration of a frequency and the magnitude,2,107,2011-07-08
+A Question on Omnidirectional Control,1,86,2011-07-08
+opencv floor detection by segmentation,3,"6,281",2011-07-07
+Looking for ways for a robot to locate itself in the house,47,"17,104",2011-06-29
+How to understand where robot is in the space by 2 images,0,166,2011-06-26
+OpenCV based Labyrinth Maze solver,2,"1,807",2011-06-24
+Webots: ImportError: DLL load failed: The specific module could not be found,1,"1,041",2011-06-21
+Pros. and Cons. of each SLAM Algorithm and Which is the best? [closed],2,339,2011-06-19
+"Microcontroller with WiFi, camera, Bluetooth [closed]",1,"3,990",2011-06-13
+LRF (laser rangefinder) sensor data help,1,288,2011-05-30
+Real time live streaming with an iPhone for robotics,1,628,2011-05-26
+iphone/ipad: create a remote control freature,1,638,2011-05-18
+What do you think about Mobile Robotics Programming Toolkit?,2,350,2011-05-15
+Finding path obstacles in a 2D image,3,"2,289",2011-05-15
+Microcontroller choice and programming for Robot [closed],2,634,2011-05-01
+General Advice - Robotics / AI,0,349,2011-04-23
+API for controlling the OWI-535 robot arm,3,"1,870",2011-04-17
+Is it a good idea to use a single-board-computer in a UAV robot?,0,417,2011-04-10
+Compass: from 359 to 0 degrees,6,843,2011-04-05
+Tegra based robotics platform,0,212,2011-04-04
+Get Java on Roomba ( Robotics ),1,"1,412",2011-04-02
+Best 3D library to model robotic motion [closed],3,"2,784",2011-03-31
+C# Robotics platform (i.e. “human sized robot”),7,"2,161",2011-03-27
+Qt debugging error: “while parsing target library list: not well-formed (invalid token)”,0,"2,363",2011-03-25
+The I in Proportional Integral Derivative [closed],2,365,2011-03-20
+Robot exploration algorithm,21,"7,628",2011-03-19
+"Modelling a robotic arm motion in 3D, ideas?",2,"2,549",2011-03-13
+Full memory barrier and ExclusiveReceiverGroup,0,174,2011-02-27
+Binary Image Corner Detection,1,"1,691",2011-02-23
+Double pid loop,3,"2,019",2011-02-12
+C or C++ for a Robot?,18,"4,291",2011-02-11
+Why do I receive a SIGSEGV signal while using the Aria robotics API?,2,"1,152",2011-02-03
+Robotic Applications In Erlang,12,"2,243",2011-01-25
+Can I get Erlang OTP behaviors in C Nodes?,3,305,2011-01-20
+robot programming with lisp?,16,"5,454",2011-01-16
+how can i perform discrete integration of gyroscope data?,1,"4,634",2011-01-11
+Best practices in Python for handling external exceptions (do I use raise?),2,798,2010-12-29
+"Light weight, behavior driven multi-agent robot simulator?",2,320,2010-12-18
+"Does a wireless robot, or even robot sensors exist that I can control or read via command line or curl?",0,167,2010-12-03
+Money Counting Machine [closed],0,578,2010-11-22
+iRobot Create not returning sensor data,0,510,2010-11-21
+c++ or java for robotics [closed],2,"4,773",2010-11-19
+Are there any UAV simulation environments? [closed],3,"1,605",2010-11-13
+Can I implement potential field/depth first method for obstacle avoidance using boost graph?,4,"1,152",2010-11-13
+CeeBot : getting robot tilt,2,212,2010-11-05
+Can I use matlab to program a remote control car? [closed],2,"2,470",2010-11-02
+What to study to get into robotics? [closed],30,"80,805",2010-10-31
+Are there any good tutorials on performing optical flow transforms for a sequence of still images? [closed],1,245,2010-10-28
+Opinion for a suitable programming language for Neural Network brain of a Robot? [closed],11,"4,830",2010-10-20
+Drive Sequence for Sanyo B00224 Stepper Motor,0,819,2010-10-13
+Help me choose a topic for my graduation thesis with NAO,6,"1,646",2010-10-01
+How to control a kiwi drive robot?,8,"4,715",2010-09-20
+"Writing Hardware Drivers, APIs, and Services",0,123,2010-09-14
+How to control multiple robots through PC using Serial communication?,1,"1,229",2010-09-10
+How to demo examples of embeded systems?,2,540,2010-09-09
+Deciding on the covariance for a Kalman Filter matrixes,5,439,2010-09-03
+Accounting for misalignment of wheels in diff drive odometry,3,389,2010-09-01
+How to show effectiveness of Erlang for programming Robots?,4,722,2010-08-21
+Where can I find C/C++ Linux API's for robotics? [closed],0,600,2010-08-07
+Where to begin with programming for robotics? [closed],32,"33,220",2010-07-30
+Player/Stage- robot is not moving in simulaion?,0,"1,328",2010-07-25
+Distance travelled by a robot using Optical Flow,0,497,2010-07-06
+"Robot, stereo vision, driving around and AForge",4,695,2010-06-30
+AI Behavior Decision making,4,508,2010-06-19
+Finding distance travelled by robot using Optical Flow,1,"3,001",2010-06-18
+What techniques exist for the software-driven locomotion of a bipedal robot?,8,650,2010-06-18
+"How to use CCR, DSS, VPL (aka Microsoft Robotics Development Studio) outside robotics? [closed]",5,"1,140",2010-06-12
+How to run Erlang based robot? Is it possible to convert it into .hex and run over microcontroller?,6,"1,206",2010-06-11
+How to make my robot move in a rectangular path along the black tape?,4,"4,932",2010-06-11
+Guiding a Robot Through a Path,11,"2,809",2010-05-25
+Find location using only distance and bearing?,11,"1,662",2010-05-12
+Why is this class re-initialized every time?,2,220,2010-05-07
+Representing robot's elbow angle in 3-D,0,417,2010-05-07
+Potential field method : Real Robots,5,"2,994",2010-05-04
+Rotation Matrix calculates by column not by row,2,"1,400",2010-05-03
+C# Robotics / Hardware,9,"3,004",2010-04-29
+Best programming aids for a quadriplegic programmer,125,"4,427",2010-04-26
+Remote control wireless devices by phones/pc and others,1,219,2010-04-20
+Ever used Pyro? (Python Robotics),4,891,2010-04-16
+2D Inverse Kinematics Implementation,9,"6,411",2010-04-12
+I am trying to have a wall follow robot but there are errors on the names not being declared in my scope I need help,0,415,2010-03-30
+"Microsoft Robotics Studio, simple simulation",2,"1,482",2010-03-22
+Robot Simulation in Java,6,"3,227",2010-02-24
+XML Dialect for scripting robot tasks,0,210,2010-02-17
+How to avoid that the robot gets trapped in local minimum?,5,"1,373",2010-02-04
+streaming video to and from multiple sources,5,"2,056",2010-01-14
+iPhone as a robot controller,3,"3,896",2010-01-08
+What's a good Robotics Simulator? [closed],7,"2,870",2009-12-25
+Using CARMEN Robot Navigation Toolkit with Hoyuko Laser,0,671,2009-12-23
+failsafe for networked robot,0,109,2009-12-13
+Infinite timeouts or “fail fast” in custom network protocol?,2,242,2009-11-28
+coachable players for RoboCup Soccer Simulator 2d v14,2,396,2009-11-21
+Microsoft Robotics Development Studio simulation project deployment,0,359,2009-11-20
+Obstacle warning systems,0,159,2009-11-08
+Line Tracking Robot [closed],2,"1,188",2009-10-19
+Robotics and Computer Vision,7,785,2009-10-07
+Where can I find the source code of C++'s generic.h?,2,729,2009-09-26
+Carmen Robotics,4,691,2009-08-26
+Associating s/w programming with h/w programming,5,182,2009-08-24
+Hardware Programming - Hands-On Learning,4,"1,123",2009-08-09
+An algorithm for a drawing and painting robot - any tips?,9,"1,627",2009-07-06
+Is it possible to use anonymous functions in C++ .NET?,1,926,2009-06-26
+Where can I find a good Robocode tutorial? [closed],11,"7,302",2009-06-22
+Is there any Ruby or Python interpreter for Lego Mindstorm?,22,"4,842",2009-06-19
+How can you add a camera to a robot in the Breve Simulator?,1,336,2009-06-18
+What platform/language does Roomba use?,7,"6,000",2009-06-09
+Fastest .Net and SQL data types,2,960,2009-06-08
+Sources to learn more hardware centered programming [closed],7,478,2009-05-08
+Multi threading using NXT,4,"2,874",2009-04-24
+Is Lego MindStorms a good choice for basic robotics development? [closed],27,"15,439",2009-04-18
+Lego Mindstorms Programming - which language/IDE do you use/recommend? [closed],32,"12,017",2009-03-20
+How to create real-life robots?,22,"2,854",2009-02-12
+Custom robotics for building an auto CD-loading arm,4,"2,039",2008-12-06
+"What is the best .NET Micro Framework dev board, for under US$300? [closed]",16,"9,949",2008-10-30
+Would you architect the control API of the next-gen Mars rover to be RESTful instead of an RPC?,6,656,2008-10-09
+Robot simulation environments,14,"4,273",2008-10-03
+Does Microsoft Robotics Developer Studio work on CE 6?,1,309,2008-09-21
+Integrating gyro and accelerometer readings [duplicate],14,"17,405",2008-09-21
+How to create a new type of entity in Microsoft Robotics Studio 2.0?,6,454,2008-09-20
+Textual versus Graphical Programming Languages,34,"8,652",2008-08-17

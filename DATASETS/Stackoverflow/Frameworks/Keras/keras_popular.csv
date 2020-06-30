@@ -1,0 +1,26 @@
+,title,score,view_count
+0,Understanding Keras LSTMs,307,47475
+1,Where do I call the BatchNormalization function in Keras?,161,156031
+2,,146,159859
+3,Why is TensorFlow 2 much slower than TensorFlow 1?,144,13653
+4,How do I use the Tensorboard callback of Keras?,141,109400
+5,How to fix &#39;Object arrays cannot be loaded when allow_pickle=False&#39; for imdb.load_data() function?,107,113928
+6,What is the role of &quot;Flatten&quot; in Keras?,106,82569
+7,Many to one and many to many LSTM examples in Keras,106,40574
+8,Can Keras with Tensorflow backend be forced to use CPU or GPU at will?,96,114325
+9,Which parameters should be used for early stopping?,96,63426
+10,,1560188381,30762
+11,Loading a trained Keras model and continue training,91,68433
+12,,1539304608,141513
+13,Keras: Difference between Kernel and Activity regularizers,83,33780
+14,How to load a model from an HDF5 file in Keras?,81,170557
+15,,77,46301
+16,What is the use of verbose in Keras while validating the model?,73,82341
+17,Tensorflow 2.0 - AttributeError: module &#39;tensorflow&#39; has no attribute &#39;Session&#39;,72,108367
+18,Using Keras &amp; Tensorflow with AMD GPU,72,99432
+19,,1582828268,21864
+20,Deep-Learning Nan loss reasons,68,87388
+21,,66,135131
+22,What is the role of TimeDistributed layer in Keras?,66,29818
+23,,1588591638,83458
+24,Does model.compile() initialize all the weights and biases in Keras (tensorflow backend)?,63,25646

@@ -1,0 +1,31 @@
+,title,score,view_count
+0,The performance of operation fusion using TensorFlow XLA-JIT on CPU backend,4,490
+1,First training epoch is very slow,3,874
+2,How to reduce weight&#39;s bit or change to lower bit&#39;s type in tensorflow by using MNIST?,3,1191
+3,How do I test my own hand written digits or one of data from MNIST dataset using CLI,3,739
+4,Recommended values for OpenCV RTrees parameters,3,1000
+5,Low accurracy on handwritten images when using MNIST as a training set,3,662
+6,FID Score for Mnist Digits Crash in 25Gb RAM Google Colab,2,12
+7,Classes Issue in EMNIST Dataset,2,27
+8,Errno 13 - Permission denied from Jupyter Notebook on Windows 10,2,871
+9,How to calculate FLOPS(floating point operation per seconds) of a standard neural network,2,299
+10,Logistic regression not converging in R,2,811
+11,Connection error while loading mnist dataset from keras Python,2,602
+12,Differing results for MNIST autoencoder due to different placement of activation function,2,139
+13,Tensorflow - how to import MNIST database,2,353
+14,Pillow: How to show MNIST data?,2,656
+15,MNIST Matplotlib: showing color,2,626
+16,Tensorflow returns too many predictions,2,105
+17,How to train a CNN properly to predict well on unseen data?,2,195
+18,How to solve: &quot;ValueError: Validation size should be between 0 and 0. Received: 5000.&quot;?,2,379
+19,How MNIST really work?,2,349
+20,Python MNIST Digit Data Testing Failure,2,118
+21,Tensorflow MNIST using csv: low accuracy,2,431
+22,Dataset of Russian handwriting characters,2,414
+23,Spyder Proxy Settings,2,5941
+24,Python - Converting PNG/JPG image to best form for MNIST digit classification,2,1284
+25,Tensorflow: assign multiple variable values in single run without recomputation of other expressions,2,2759
+26,Create Alexnet for mnist in tensorflow,2,2375
+27,Error in neural network processing MNIST not descending,2,92
+28,Tensorflow with MNIST trained model always prints the wrong number,2,132
+29,Tensorflow: Reading MNIST Data in Python 3.5,2,1118

@@ -1,0 +1,630 @@
+,Unnamed: 0,title,score,view_count,answer_count,Date,Unnamed: 0.1
+0,0,Why binary_crossentropy and categorical_crossentropy give different performances for the same problem?,152,169684,11,2017-02-07,
+1,1,"Keras, How to get the output of each layer?",146,161274,10,2017-01-18,
+2,2,How do I use the Tensorboard callback of Keras?,142,109634,10,2017-02-08,
+3,3,Many to one and many to many LSTM examples in Keras,106,40875,2,2017-03-26,
+4,4,Loading a trained Keras model and continue training,92,68936,6,2017-03-08,
+5,5,How to save final model using keras?,58,88493,5,2017-03-13,
+6,6,Keras split train test set when using ImageDataGenerator,58,38460,5,2017-02-24,
+7,7,What&#39;s the difference between a bidirectional LSTM and an LSTM?,58,41258,5,2017-03-26,
+8,8,"Error when checking model input: expected convolution2d_input_1 to have 4 dimensions, but got array with shape (32, 32, 3)",58,127850,8,2017-01-10,
+9,9,Why plt.imshow() doesn&#39;t display the image?,52,119284,4,2017-03-15,
+10,10,How to switch Backend with Keras (from TensorFlow to Theano),50,68177,8,2017-02-11,
+11,11,Keras model.summary() object to string,48,19500,8,2017-01-15,
+12,12,Negative dimension size caused by subtracting 3 from 1 for &#39;Conv2D&#39;,46,46754,7,2017-01-14,
+13,13,How to calculate precision and recall in Keras,46,46709,5,2017-03-28,
+14,14,How to add and remove new layers in keras after loading weights?,46,46702,3,2017-01-16,
+15,15,What does Keras.io.preprocessing.sequence.pad_sequences do?,39,26140,1,2017-03-22,
+16,16,How to use return_sequences option and TimeDistributed layer in Keras?,39,17298,2,2017-03-13,
+17,17,How does keras define &quot;accuracy&quot; and &quot;loss&quot;?,39,36366,1,2017-01-08,
+18,18,Keras + Tensorflow and Multiprocessing in Python,34,24648,3,2017-02-28,
+19,19,Difference between Keras model.save() and model.save_weights()?,34,15267,3,2017-03-06,
+20,20,Add dropout layers between pretrained dense layers in keras,32,8972,2,2017-02-26,
+21,21,Restore original text from Keras’s imdb dataset,32,9997,8,2017-03-15,
+22,22,Why is my GPU slower than CPU when training LSTM/RNN models?,29,23623,4,2017-01-31,
+23,23,How to insert Keras model into scikit-learn pipeline?,28,10930,2,2017-02-23,
+24,24,Keras error : Expected to see 1 array,26,28616,2,2017-03-04,
+25,25,How to work with multiple inputs for LSTM in Keras?,26,25192,3,2017-03-01,
+26,26,TensorFlow/Keras multi-threaded model fitting,26,10908,1,2017-02-19,
+27,27,Using sparse matrices with Keras and Tensorflow,26,21344,2,2017-01-08,
+28,28,"Keras - Plot training, validation and test set accuracy",25,49258,3,2017-01-28,
+29,29,balancing an imbalanced dataset with keras image generator,25,11023,1,2017-01-14,
+0,0,What is the role of &quot;Flatten&quot; in Keras?,106,83292,4,2017-04-05,
+1,1,Which parameters should be used for early stopping?,96,63801,1,2017-05-11,
+2,2,How to concatenate two layers in keras?,89,110241,3,2017-04-04,
+3,3,How does Keras handle multilabel classification?,63,29146,1,2017-05-24,
+4,4,Dimension of shape in conv1D,57,45165,5,2017-04-13,
+5,5,Custom loss function in Keras,48,47917,1,2017-05-06,
+6,6,What is the difference between Keras&#39; MaxPooling1D and GlobalMaxPooling1D functions?,45,28246,2,2017-05-02,
+7,7,"In Keras, what exactly am I configuring when I create a stateful `LSTM` layer with N `units`?",45,17584,4,2017-05-30,
+8,8,How to predict input image using trained model in Keras?,41,80213,5,2017-04-18,
+9,9,How to calculate prediction uncertainty using Keras?,39,10994,4,2017-04-20,
+10,10,AttributeError: &#39;module&#39; object has no attribute &#39;computation&#39;,37,26313,5,2017-05-07,
+11,11,"Higher validation accuracy, than training accurracy using Tensorflow and Keras",37,26758,5,2017-05-15,
+12,12,How do you create a custom activation function with Keras?,36,25720,3,2017-05-11,
+13,13,Keras Conv2D and input channels,36,24717,3,2017-04-09,
+14,14,What is the difference between Keras and tf.keras in TensorFlow 1.1+?,36,10216,4,2017-05-19,
+15,15,When does keras reset an LSTM state?,33,15977,5,2017-05-10,
+16,16,How to calculate F1 Macro in Keras?,32,43148,6,2017-04-21,
+17,17,What&#39;s the difference between &quot;samples_per_epoch&quot; and &quot;steps_per_epoch&quot; in fit_generator,32,35293,3,2017-04-17,
+18,18,"Received a label value of 1 which is outside the valid range of [0, 1) - Python, Keras",31,26253,5,2017-05-24,
+19,19,Multiple outputs in Keras,31,26968,1,2017-05-18,
+20,20,How can I print the values of Keras tensors?,31,21237,6,2017-04-17,
+21,21,What is the correct way to change image channel ordering between channels first and channels last?,29,32640,4,2017-05-07,
+22,22,How do I get the weights of a layer in Keras?,28,46062,3,2017-05-01,
+23,23,RMSE/ RMSLE loss function in Keras,28,33187,4,2017-05-08,
+24,24,Running Tensorflow in Jupyter Notebook,26,102997,10,2017-04-04,
+25,25,How to Implement the Conv1DTranspose in keras?,26,8178,4,2017-05-19,
+26,26,Where can I find the API documentation of the class Input?,25,10736,2,2017-05-03,
+27,27,Keras: How to get layer shapes in a Sequential model,23,40618,3,2017-05-02,
+28,28,Why does Keras LSTM batch size used for prediction have to be the same as fitting batch size?,23,18377,6,2017-04-30,
+29,29,How to display custom images in TensorBoard using Keras?,22,13089,7,2017-05-04,
+0,0,What is the use of verbose in Keras while validating the model?,73,83853,4,2017-12-20,
+1,1,How to check which version of Keras is installed?,67,136118,4,2017-09-07,
+2,2,What is the role of TimeDistributed layer in Keras?,66,30066,1,2017-11-15,
+3,3,Does model.compile() initialize all the weights and biases in Keras (tensorflow backend)?,64,26003,2,2017-12-27,
+4,4,What is the meaning of axis=-1 in keras.argmax?,60,29736,1,2017-11-22,
+5,5,What is validation data used for in a Keras Sequential model?,55,41168,3,2017-09-19,
+6,6,How to Properly Combine TensorFlow&#39;s Dataset API and Keras?,51,26599,6,2017-09-09,
+7,7,Save and load weights in keras,50,80698,3,2017-11-13,
+8,8,How to import keras from tf.keras in Tensorflow?,49,84161,8,2017-11-13,
+9,9,what is the default kernel_initializer in keras,49,25333,1,2017-10-23,
+10,10,keras tensorboard: plot train and validation scalars in a same figure,37,13731,2,2017-12-18,
+11,11,preprocess_input() method in keras,35,47691,3,2017-11-29,
+12,12,"ResNet: 100% accuracy during training, but 33% prediction accuracy with the same data",34,13111,2,2017-11-07,
+13,13,"Keras ValueError: Input 0 is incompatible with layer conv2d_1: expected ndim=4, found ndim=5",29,50494,5,2017-12-06,
+14,14,Keras conv1d layer parameters: filters and kernel_size,28,22813,1,2017-09-30,
+15,15,What is y_true and y_pred when creating a custom metric in Keras?,28,15660,3,2017-10-10,
+16,16,Is there an easy way to get something like Keras model.summary in Tensorflow?,27,20694,4,2017-10-04,
+17,17,Keras: weighted binary crossentropy,27,17906,4,2017-09-02,
+18,18,"Building a mutlivariate, multi-task LSTM with Keras",26,3100,2,2017-10-26,
+19,19,Create keras callback to save model predictions and targets for each batch during training,25,12394,4,2017-11-02,
+20,20,What is &quot;metrics&quot; in Keras?,24,8249,4,2017-11-15,
+21,21,How to understand loss acc val_loss val_acc in Keras model fitting,24,25966,2,2017-11-15,
+22,22,How do I mask a loss function in Keras with the TensorFlow backend?,24,14282,2,2017-11-01,
+23,23,What is the difference between an Embedding Layer and a Dense Layer?,23,5961,2,2017-12-18,
+24,24,Extremely slow model load with keras,23,11502,5,2017-11-23,
+25,25,"Early stopping with tf.estimator, how?",22,10431,4,2017-11-06,
+26,26,Limit number of cores used in Keras,22,14252,1,2017-09-26,
+27,27,Batch normalization instead of input normalization,22,3340,1,2017-10-16,
+28,28,How to set weights in Keras with a numpy array?,21,27219,3,2017-11-08,
+29,29,Difference between Conv2D and Convolution2D in Keras,21,8244,1,2017-11-21,
+0,0,"Keras input explanation: input_shape, units, batch_size, dim, etc",258,126068,2,2017-06-25,
+1,1,Can I run Keras model on gpu?,121,190028,5,2017-08-13,
+2,2,Keras: Difference between Kernel and Activity regularizers,83,33943,2,2017-06-12,
+3,3,Keras: the difference between LSTM dropout and LSTM recurrent dropout,60,21368,1,2017-07-05,
+4,4,How do I check if keras is using gpu version of tensorflow?,55,73465,3,2017-06-14,
+5,5,How to export Keras .h5 to tensorflow .pb?,53,66142,10,2017-08-02,
+6,6,How to check if keras tensorflow backend is GPU or CPU version?,53,112954,2,2017-07-12,
+7,7,Keras - Difference between categorical_accuracy and sparse_categorical_accuracy,47,33339,2,2017-06-10,
+8,8,Keras Text Preprocessing - Saving Tokenizer object to file for scoring,43,21143,4,2017-08-17,
+9,9,Make a custom loss function in keras,38,49784,1,2017-08-30,
+10,10,Keras: How to save model and continue training?,38,49450,7,2017-07-29,
+11,11,LSTM Autoencoder,38,20456,3,2017-06-20,
+12,12,ImportError: cannot import name np_utils,33,57602,11,2017-07-17,
+13,13,Tensorflow not running on GPU,33,33738,3,2017-06-29,
+14,14,Feature Importance Chart in neural network using Keras in Python,33,23415,3,2017-07-27,
+15,15,Meaning of validation_steps in Keras Sequential fit_generator parameter list,30,28157,1,2017-08-29,
+16,16,"Error when checking model input: expected lstm_1_input to have 3 dimensions, but got array with shape (339732, 29)",30,58446,3,2017-06-22,
+17,17,What is &quot;epoch&quot; in keras.models.Model.fit?,30,19287,1,2017-07-04,
+18,18,Keras confusion about number of layers,29,10532,2,2017-07-26,
+19,19,Shuffling training data with LSTM RNN,28,8419,1,2017-06-27,
+20,20,What are the differences between all these cross-entropy losses in Keras and TensorFlow?,26,2717,2,2017-06-21,
+21,21,TimeDistributed(Dense) vs Dense in Keras - Same number of parameters,26,7921,2,2017-06-18,
+22,22,Why is the accuracy for my Keras model always 0 when training?,24,21234,4,2017-08-11,
+23,23,What is the difference between model.fit() an model.evaluate() in Keras?,24,14419,4,2017-06-30,
+24,24,How to save model.summary() to file in Keras?,23,8632,1,2017-07-19,
+25,25,How can I use the Keras OCR example?,23,9381,3,2017-06-30,
+26,26,Layer called with an input that isn&#39;t a symbolic tensor keras,22,50124,3,2017-06-30,
+27,27,How can I convert a trained Tensorflow model to Keras?,22,24533,4,2017-06-09,
+28,28,Keras: model.evaluate vs model.predict accuracy difference in multi-class NLP task,21,19886,1,2017-08-21,
+29,29,Keras: How to use predict_generator with ImageDataGenerator?,20,42079,3,2017-08-21,
+0,0,ImportError(&#39;Could not import PIL.Image. &#39; working with keras-ternsorflow,43,48998,5,2018-01-12,
+1,1,What is the difference between loss function and metric in Keras?,39,13440,3,2018-01-16,
+2,2,ImportError: libcublas.so.9.0: cannot open shared object file,37,60475,10,2018-01-24,
+3,3,What&#39;s the difference between LSTM() and LSTMCell()?,29,9215,1,2018-01-10,
+4,4,What&#39;s the purpose of keras.backend.function(),29,9535,3,2018-01-07,
+5,5,Saving best model in keras,24,34847,3,2018-01-16,
+6,6,"Sklearn StratifiedKFold: ValueError: Supported target types are: (&#39;binary&#39;, &#39;multiclass&#39;). Got &#39;multilabel-indicator&#39; instead",24,25005,4,2018-01-29,
+7,7,Early stopping with Keras and sklearn GridSearchCV cross-validation,24,5950,4,2018-01-06,
+8,8,How To Determine the &#39;filter&#39; Parameter in the Keras Conv2D Function,23,10864,2,2018-01-13,
+9,9,What is the difference between performing upsampling together with strided transpose convolution and transpose convolution with stride 1 only?,21,6312,1,2018-01-12,
+10,10,Keras: find out the number of layers,20,9068,1,2018-01-15,
+11,11,Understanding Keras LSTMs: Role of Batch-size and Statefulness,20,6602,1,2018-01-28,
+12,12,Keras AttributeError: &#39;list&#39; object has no attribute &#39;ndim&#39;,18,41491,3,2018-01-29,
+13,13,How to add variables to progress bar in Keras?,16,4122,2,2018-01-11,
+14,14,Loading model with custom loss + keras,16,7675,2,2018-01-22,
+15,15,"Keras, append to logs from callback",16,5192,1,2018-01-28,
+16,16,How to pickle Keras model?,14,18706,4,2018-01-17,
+17,17,Custom weighted loss function in Keras for weighing each element,14,13667,1,2018-01-03,
+18,18,Using keras tokenizer for new words not in training set,14,4344,2,2018-01-24,
+19,19,"Keras, tensorflow: Initializer for variable... is from inside a control-flow construct, a loop or conditional",13,8163,2,2018-01-30,
+20,20,Multi-label classification with class weights in Keras,12,8126,1,2018-01-28,
+21,21,Training Resnet deep neural network from scratch,12,3875,1,2018-01-01,
+22,22,How to fix AttributeError: module &#39;numpy&#39; has no attribute &#39;square&#39;,12,45061,1,2018-01-12,
+23,23,Cross Validation in Keras,11,17083,5,2018-01-03,
+24,24,Why should we normalize data for deep learning in Keras?,10,16430,2,2018-01-16,
+25,25,Keras class_weight in multi-label binary classification,10,4534,3,2018-01-14,
+26,26,Regularization strategy in Keras,10,18626,1,2018-01-11,
+27,27,Converting state-parameters of Pytorch LSTM to Keras LSTM,10,1209,1,2018-01-20,
+28,28,Keras LSTM input dimension setting,9,10338,1,2018-01-07,
+29,29,Using sample_weight in Keras for sequence labelling,9,12236,1,2018-01-18,
+0,0,How do you use Keras LeakyReLU in Python?,35,38191,2,2018-02-16,
+1,1,keras vs. tensorflow.python.keras - which one to use?,29,4702,2,2018-02-20,
+2,2,What function defines accuracy in Keras when the loss is mean squared error (MSE)?,17,12183,3,2018-02-13,
+3,3,How to use a Keras RNN model to forecast for future dates or events?,14,7162,1,2018-02-13,
+4,4,Plot multiple graphs in one plot using Tensorboard,14,14167,3,2018-02-23,
+5,5,Why is TF Keras inference way slower than Numpy operations?,13,2548,3,2018-02-14,
+6,6,How to make keras in R use the tensorflow installed by Python,13,704,2,2018-02-01,
+7,7,StopIteration: generator_output = next(output_generator),11,6977,2,2018-02-09,
+8,8,RNN Regularization: Which Component to Regularize?,11,5149,1,2018-02-09,
+9,9,What is the right way to preprocess images in Keras while fine-tuning pre-trained models,11,3858,1,2018-02-08,
+10,10,Train only some word embeddings (Keras),10,1949,2,2018-02-27,
+11,11,"Keras: Expected 3 dimensions, but got array with shape - dense model",10,22225,1,2018-02-07,
+12,12,Is there a keras method to split data?,10,4079,2,2018-02-01,
+13,13,How to measure overfitting when train and validation sample is small in Keras model,9,737,4,2018-02-08,
+14,14,Xavier and he_normal initialization difference,9,6942,1,2018-02-06,
+15,15,How to train keras model using Google Cloud TPU,9,5325,1,2018-02-13,
+16,16,How to add Dropout in Keras functional model?,8,6264,1,2018-02-07,
+17,17,How can I download and skip VGG weights that have no counterpart with my CNN in Keras?,8,3634,2,2018-02-10,
+18,18,How can I use the output of intermediate layer of one model as input to another model?,8,12717,1,2018-02-17,
+19,19,Reproducible results using Keras with TensorFlow backend,8,4484,3,2018-02-05,
+20,20,Classification: skewed data within a class,8,693,2,2018-02-20,
+21,21,Keras - Loss and Metric calculated differently?,7,1087,1,2018-02-10,
+22,22,"expected input to have 4 dimensions, but got array with shape",7,13268,1,2018-02-14,
+23,23,Word-level Seq2Seq with Keras,7,2246,1,2018-02-11,
+24,24,How to create a neural network for regression?,6,9660,1,2018-02-27,
+25,25,Keras : AttributeError: &#39;int&#39; object has no attribute &#39;ndim&#39; when using model.fit,6,8796,1,2018-02-09,
+26,26,Tensorflow error: Using a `tf.Tensor` as a Python `bool` is not allowed,6,7714,2,2018-02-01,
+27,27,Heroku: deploying Deep Learning model,6,2870,5,2018-02-17,
+28,28,1d CNN audio in keras,6,1760,2,2018-02-04,
+29,29,Keras - .flow_from_directory(directory),6,11094,1,2018-02-27,
+0,0,"Error when checking target: expected dense_3 to have shape (3,) but got array with shape (1,)",45,64098,8,2018-03-20,
+1,1,How does keras handle multiple losses?,39,18619,2,2018-03-21,
+2,2,What is the use of train_on_batch() in keras?,28,29753,4,2018-03-04,
+3,3,ImportError: cannot import name &#39;_obtain_input_shape&#39; from keras,26,20391,4,2018-03-05,
+4,4,How to replace (or insert) intermediate layer in Keras model?,24,10406,4,2018-03-26,
+5,5,Keras replacing input layer,21,15721,6,2018-03-29,
+6,6,Keras: How to use fit_generator with multiple inputs,21,13322,2,2018-03-21,
+7,7,Keras: how to output learning rate onto tensorboard,16,5278,3,2018-03-06,
+8,8,Keras rename model and layers,15,12988,5,2018-03-29,
+9,9,How to get the output shape of a layer in Keras?,15,24288,1,2018-03-28,
+10,10,How can I speed up this Keras Attention computation?,15,882,2,2018-03-08,
+11,11,Memory error when using Keras ImageDataGenerator,14,5885,5,2018-03-23,
+12,12,what is the difference between Flatten() and GlobalAveragePooling2D() in keras,13,9138,2,2018-03-15,
+13,13,Keras custom loss implementation : ValueError: An operation has `None` for gradient,13,9990,1,2018-03-11,
+14,14,Save and load model optimizer state,12,7512,2,2018-03-27,
+15,15,Resnet network doesn&#39;t work as expected,12,1804,2,2018-03-12,
+16,16,Keras Binary Classification - Sigmoid activation function,12,8167,1,2018-03-06,
+17,17,How to use additional features along with word embeddings in Keras ?,10,4621,3,2018-03-08,
+18,18,Deep neural network skip connection implemented as summation vs concatenation?,9,5924,1,2018-03-08,
+19,19,how could i get both the final hidden state and sequence in a LSTM layer when using a bidirectional wrapper,9,4268,1,2018-03-16,
+20,20,How to profile CPU usage of a Python script?,9,4272,1,2018-03-09,
+21,21,ImportError: No module named &#39;tensorflow.python&#39; with tensorflow-gpu,9,9739,1,2018-03-22,
+22,22,How do I change the default download directory for pre-trained model in Keras?,9,5399,3,2018-03-01,
+23,23,set_model() missing 1 required positional argument: &#39;model&#39;,8,5991,3,2018-03-28,
+24,24,UserWarning: Discrepancy between trainable weights and collected trainable weights error,8,5948,1,2018-03-04,
+25,25,Why val_loss is different from training loss when use the same training data as validation data?,8,1839,4,2018-03-08,
+26,26,keras-js &quot;Error: [Model] Model configuration does not contain any layers.&quot;,8,439,1,2018-03-09,
+27,27,Getting Keras (with Theano) to work with Celery,8,855,0,2018-03-08,
+28,28,Usage of &#39;learning_phase&#39; in keras for tensorflow backend?,8,3118,1,2018-03-07,
+29,29,keras RNN w/ local support and shared weights,8,370,0,2018-03-06,
+0,0,What is the difference between CuDNNLSTM and LSTM in Keras?,37,17637,3,2018-04-23,
+1,1,What is the purpose of the add_loss function in Keras?,34,15110,4,2018-04-27,
+2,2,&quot;Could not interpret optimizer identifier&quot; error in Keras,29,37025,12,2018-04-27,
+3,3,Pytorch vs. Keras: Pytorch model overfits heavily,28,2444,1,2018-04-28,
+4,4,Get learning rate of keras model,21,19890,5,2018-04-11,
+5,5,Convolution2D + LSTM versus ConvLSTM2D,21,6718,2,2018-04-01,
+6,6,Float16 slower than float32 in keras,19,5102,2,2018-04-11,
+7,7,Keras lstm with masking layer for variable-length inputs,15,8892,1,2018-04-05,
+8,8,How to add report_tensor_allocations_upon_oom to RunOptions in Keras,15,12179,2,2018-04-05,
+9,9,How do I print inside the loss function during training in Keras?,13,6209,1,2018-04-13,
+10,10,Choosing number of Steps per Epoch,10,14879,2,2018-04-19,
+11,11,How to monitor gradient vanish and explosion in keras with tensorboard?,10,4322,1,2018-04-26,
+12,12,save and load keras.callbacks.History,10,8434,3,2018-04-22,
+13,13,"K.gradients(loss, input_img)[0] return &quot;None&quot;. (Keras CNN visualization with tensorflow backend)",10,8175,3,2018-04-14,
+14,14,Reshaping Keras layers,10,19262,2,2018-04-03,
+15,15,How do I keep track of the time the CPU is used vs the GPUs for deep learning?,9,339,1,2018-04-16,
+16,16,"CNN with keras, accuracy not improving",8,9020,2,2018-04-28,
+17,17,is it possible to implement dynamic class weights in keras?,8,1296,2,2018-04-26,
+18,18,how to install pydot &amp; graphviz on google colab?,8,5148,1,2018-04-16,
+19,19,Return number of epochs for EarlyStopping callback in Keras,8,2278,2,2018-04-16,
+20,20,Why is the Mean Average Percentage Error(mape) extremely high?,8,5297,1,2018-04-09,
+21,21,Does the TensorFlow backend of Keras rely on the eager execution?,8,6320,1,2018-04-22,
+22,22,"ValueError: Input 0 is incompatible with layer conv1d_1: expected ndim=3, found ndim=4",8,14242,1,2018-04-15,
+23,23,Reusing a group of Keras layers,8,2613,2,2018-04-12,
+24,24,0% accuracy with evaluate_generator but 75% accuracy during training with same data - what is going on?,8,1718,1,2018-04-25,
+25,25,&#39;Sequential&#39; object has no attribute &#39;_is_graph_network&#39; when exporting Keras model to TensorFlow,8,4908,2,2018-04-12,
+26,26,Keras / tensorflow - limit number of cores (intra_op_parallelism_threads not working),8,1764,1,2018-04-05,
+27,27,Test data predictions yield random results when making predictions from a saved model,7,828,2,2018-04-29,
+28,28,Keras LSTM Multiple Input Multiple Output,7,5283,1,2018-04-04,
+29,29,How to get results from custom loss function in Keras?,7,2294,2,2018-04-27,
+0,0,How to understand SpatialDropout1D and when to use it?,29,9743,2,2018-05-17,
+1,1,"In Keras, how to get the layer name associated with a &quot;Model&quot; object contained in my model?",21,37387,4,2018-05-11,
+2,2,shuffle in the model.fit of keras,14,8702,1,2018-05-04,
+3,3,What is a &quot;cell class&quot; in Keras?,13,1980,1,2018-05-30,
+4,4,Using a Tensorflow feature_column in a Keras model,13,992,2,2018-05-21,
+5,5,Keras Loss Function with Additional Dynamic Parameter,10,4229,1,2018-05-01,
+6,6,How to standard scale a 3D matrix?,9,9812,5,2018-05-02,
+7,7,Keras EarlyStopping: Which min_delta and patience to use?,9,7632,2,2018-05-11,
+8,8,Massive overfit during resnet50 transfer learning,9,5379,6,2018-05-16,
+9,9,How to run Keras.model() for prediction inside a tensorflow session?,9,10634,4,2018-05-10,
+10,10,"TypeError: write() argument must be str, not bytes while saving .npy file",8,5373,1,2018-05-26,
+11,11,Keras does not use GPU - how to troubleshoot?,8,4759,1,2018-05-15,
+12,12,Is there any way to stop training a model in Keras after a certain accuracy has been achieved?,8,2498,1,2018-05-02,
+13,13,Keras error &quot;You must feed a value for placeholder tensor&quot;,7,5468,2,2018-05-13,
+14,14,Same (?) neural network architecture in Tensorflow and Keras produces different accuracy on the same data,7,342,1,2018-05-08,
+15,15,How to change the batch size during training?,7,3968,3,2018-05-30,
+16,16,Reduce the size of Keras LSTM model,7,995,1,2018-05-07,
+17,17,How To Run Two Models In Parallel On Two Different GPUs In Keras,7,2077,3,2018-05-22,
+18,18,PyTorch: Add validation error in training,6,8226,1,2018-05-07,
+19,19,Custom Data Generator for Keras LSTM with TimeSeriesGenerator,6,3888,2,2018-05-14,
+20,20,How to predict from saved model in Keras ?,6,8371,1,2018-05-08,
+21,21,How to save training history on every epoch in Keras?,6,9481,3,2018-05-02,
+22,22,Feature selection on a keras model,5,5795,2,2018-05-06,
+23,23,Tensorflow flatten vs numpy flatten function effect on machine learning training,5,1592,4,2018-05-09,
+24,24,Nested while loop in tensorflow,5,1928,1,2018-05-08,
+25,25,Do programs continue execution after connection is lost on google-colaboratory?,5,4591,1,2018-05-05,
+26,26,Connecting Keras models / replacing input but keeping layers,5,1509,1,2018-05-04,
+27,27,Load images and annotations from CSV and use fit_generator with multi-output models,5,2050,3,2018-05-14,
+28,28,How to concatenate keras layers beyond the last axis,5,1751,3,2018-05-06,
+29,29,Crop the center of the image in Keras ImageDataGenerator or flow_from_directory,5,3722,1,2018-05-23,
+0,0,What do I need K.clear_session() and del model for (Keras with Tensorflow-gpu)?,39,30338,3,2018-06-17,
+1,1,Get Confusion Matrix From a Keras Multiclass Model,23,43737,1,2018-06-19,
+2,2,ValueError: Output tensors to a Model must be the output of a TensorFlow `Layer`,22,16320,2,2018-06-06,
+3,3,How to match cv2.imread to the keras image.img_load output,18,6140,3,2018-06-07,
+4,4,Keras: How is Accuracy Calculated for Multi-Label Classification?,17,9779,2,2018-06-04,
+5,5,Add class information to keras network,15,619,2,2018-06-18,
+6,6,Evaluate a function in a sliding window with Keras,14,2726,2,2018-06-22,
+7,7,Using Dropout with Keras and LSTM/GRU cell,14,5676,1,2018-06-06,
+8,8,Keras model.fit() with tf.dataset API + validation_data,14,9776,2,2018-06-20,
+9,9,Understanding Regularization in Keras,12,5270,1,2018-06-01,
+10,10,Integrating Keras model into TensorFlow,12,2042,2,2018-06-29,
+11,11,can&#39;t import keras.layers.Merge,11,21277,1,2018-06-25,
+12,12,How to get accuracy of model using keras?,11,25683,3,2018-06-26,
+13,13,Keras LSTM: a time-series multi-step multi-features forecasting - poor results,11,5997,3,2018-06-07,
+14,14,Multilayer Seq2Seq model with LSTM in Keras,11,2229,2,2018-06-18,
+15,15,TypeError: softmax() got an unexpected keyword argument &#39;axis&#39;,10,12624,6,2018-06-09,
+16,16,Specify either CPU or GPU for multiple models tensorflow java&#39;s job,10,644,3,2018-06-12,
+17,17,Keras with Tensorflow: Use memory as it&#39;s needed [ResourceExhaustedError],10,1528,3,2018-06-26,
+18,18,Single Thread Impacts Model Accuracy and Loss with TensorFlow Keras Backend,10,648,0,2018-06-25,
+19,19,Computing cosine similarity between two tensors in Keras,9,10720,2,2018-06-23,
+20,20,How training and test data is split - Keras on Tensorflow,9,36525,1,2018-06-24,
+21,21,Confusion matrix on images in CNN keras,9,17363,3,2018-06-12,
+22,22,Keras: release memory after finish training process,9,5374,1,2018-06-23,
+23,23,Conversion of a sequential model to a functional model with Keras 2.2.0,9,1963,2,2018-06-13,
+24,24,Difference between Dense(2) and Dense(1) as the final layer of a binary classification CNN?,9,4241,2,2018-06-12,
+25,25,What is the difference between tf.keras.layers versus tf.layers?,8,6122,3,2018-06-28,
+26,26,ValueError in Keras: How could I get the model fitted?,8,12750,1,2018-06-16,
+27,27,Why can&#39;t I get reproducible results in Keras even though I set the random seeds?,8,8298,2,2018-06-02,
+28,28,ValueError: Unknown layer: CapsuleLayer,8,5497,2,2018-06-13,
+29,29,Keras: Weighted Binary Crossentropy Implementation,8,1942,1,2018-06-19,
+0,0,What&#39;s the difference between a Tensorflow Keras Model and Estimator?,48,11542,2,2018-07-21,
+1,1,What values are returned from model.evaluate() in Keras?,33,48611,1,2018-07-12,
+2,2,Tensor is not an element of this graph; deploying Keras model,26,10904,6,2018-07-01,
+3,3,How to iterate through tensors in custom loss function?,19,4125,1,2018-07-18,
+4,4,How to obtain the gradients in keras?,18,9048,1,2018-07-02,
+5,5,What is the difference between the terms accuracy and validation accuracy,16,13680,2,2018-07-15,
+6,6,What is the difference between &quot;predict&quot; and &quot;predict_class&quot; functions in keras?,15,13139,2,2018-07-17,
+7,7,How to get word vectors from Keras Embedding Layer,14,8019,1,2018-07-08,
+8,8,Keras Conv2D: filters vs kernel_size,14,8082,1,2018-07-04,
+9,9,How to setup 1D-Convolution and LSTM in Keras,12,15388,2,2018-07-15,
+10,10,expected dense to have shape but got array with shape,11,24045,2,2018-07-19,
+11,11,Graph disconnected: cannot obtain value for tensor Tensor Input Keras Python,11,11318,2,2018-07-25,
+12,12,How to import keras.engine.topology in Tensorflow?,10,8525,2,2018-07-14,
+13,13,How to update weights manually with Keras,10,7727,2,2018-07-16,
+14,14,Buffered data was truncated after reaching the output size limit,10,12684,4,2018-07-22,
+15,15,Keras not using full CPU cores for training,10,4682,1,2018-07-30,
+16,16,Error &quot;You must compile your model before using it&quot; in case of LSTM and fit_generator in Keras,9,5630,2,2018-07-03,
+17,17,How to combine numerical and categorical values in a vector as input for LSTM?,9,4048,2,2018-07-16,
+18,18,AttributeError: &#39;Model&#39; object has no attribute &#39;name&#39;,8,8578,1,2018-07-09,
+19,19,"Strange behaviour of the loss function in keras model, with pretrained convolutional base",7,3949,2,2018-07-01,
+20,20,How to properly use get_keras_embedding() in Gensim’s Word2Vec?,7,3613,1,2018-07-24,
+21,21,Performance bottleneck on the CPU side,7,3406,3,2018-07-10,
+22,22,Keras: what does class_weight actually try to balance?,7,2436,1,2018-07-19,
+23,23,Keras: ValueError: Error when checking input,7,700,1,2018-07-03,
+24,24,In Keras code: Assign new values to certain tensor elements,7,2632,2,2018-07-23,
+25,25,How to install Keras if the required version of setuptools is older than default?,6,14968,2,2018-07-25,
+26,26,Tensorflow InvalidArgumentError (indices) while training with Keras,6,6646,1,2018-07-07,
+27,27,Custom Loss Function in R Keras,6,2123,2,2018-07-13,
+28,28,"In Keras, why must the loss function be computed based upon the output of the neural network?",6,625,1,2018-07-10,
+29,29,Is there R command(s) making Keras Tensorflow-GPU to run on CPU?,6,532,1,2018-07-01,
+0,0,"Failed to get convolution algorithm. This is probably because cuDNN failed to initialize,",26,36442,18,2018-12-10,
+1,1,Doubts regarding `Understanding Keras LSTMs`,14,1451,1,2018-12-28,
+2,2,Where is the tensorflow session in Keras,13,7846,1,2018-12-06,
+3,3,Custom combined hinge/kb-divergence loss function in siamese-net fails to generate meaningful speaker-embeddings,12,401,1,2018-12-02,
+4,4,Specifying CPUs for use in Keras Tensorflow Model Inference,10,310,1,2018-12-14,
+5,5,Full gradient descent in keras,9,2410,1,2018-12-13,
+6,6,Why do I get error while trying to build an architecture with multiple inputs in Keras?,7,2244,1,2018-12-02,
+7,7,How to visualize attention weights?,7,4387,1,2018-12-20,
+8,8,Cannot take the length of Shape with unknown rank,7,1685,3,2018-12-03,
+9,9,Training a Keras model from batches of .npy files using generator?,6,5032,1,2018-12-15,
+10,10,Element-wise multiplication with Keras,6,8747,2,2018-12-19,
+11,11,What does the &quot;[0][0]&quot; of the layers connected to in keras model.summary mean?,6,1432,1,2018-12-27,
+12,12,When to use GlobalAveragePooling1D and when to use GlobalMaxPooling1D while using Keras for an LSTM model?,6,2371,1,2018-12-12,
+13,13,keras: how to use learning rate decay with model.train_on_batch(),6,2240,1,2018-12-04,
+14,14,CuDNNLSTM: Failed to call ThenRnnForward,6,3743,1,2018-12-29,
+15,15,How to use TensorFlow tf.print with non capital p?,6,2611,2,2018-12-17,
+16,16,Is deep learning bad at fitting simple non linear functions outside training scope (extrapolating)?,6,518,1,2018-12-15,
+17,17,keras combining two losses with adjustable weights where the outputs do not have the same dimensionality,6,2898,2,2018-12-10,
+18,18,"Does Any one got &quot;AttributeError: &#39;str&#39; object has no attribute &#39;decode&#39; &quot; , while Loading a Keras Saved Model",6,2637,2,2018-12-12,
+19,19,Same function in Keras Loss and Metric give different values even without regularization,6,613,2,2018-12-17,
+20,20,Saving keras models with shared layers,6,127,0,2018-12-26,
+21,21,Variational Dropout in Keras,6,731,0,2018-12-06,
+22,22,Resolving differences between Keras and scikit-learn for simple fully-connected neural network,6,678,0,2018-12-05,
+23,23,Keras Estimator + tf.data API,6,1469,1,2018-12-01,
+24,24,Why does Tensorflow warn about AVX2 while I am using MKL?,5,1981,2,2018-12-30,
+25,25,Custom Hebbian Layer Implementation in Keras - input/output dims and lateral node connections,5,280,2,2018-12-28,
+26,26,"Keras Embedding ,where is the &quot;weights&quot; argument?",5,2126,1,2018-12-05,
+27,27,Multiple-input multiple-output CNN with custom loss function,5,983,2,2018-12-19,
+28,28,Keras occupies an indefinitely increasing amount of memory for each epoch,5,1555,3,2018-12-08,
+29,29,Optical Character Recognition Multiple Line Detection,5,1072,1,2018-12-26,
+0,0,What does Keras Tokenizer method exactly do?,51,34035,3,2018-08-21,
+1,1,Why Bother With Recurrent Neural Networks For Structured Data?,30,1216,1,2018-08-25,
+2,2,How can I use a pre-trained neural network with grayscale images?,29,19919,8,2018-08-24,
+3,3,Multivariate LSTM with missing values,24,4513,1,2018-09-29,
+4,4,Quantize a Keras neural network model,18,4499,3,2018-09-10,
+5,5,How to use TensorBoard with Keras in Python for visualizing embeddings,17,7714,4,2018-09-02,
+6,6,How can I clear a model created with Keras and Tensorflow(as backend)?,16,21354,1,2018-09-02,
+7,7,Keras ImageDataGenerator Fit causes memory leak,16,770,1,2018-09-02,
+8,8,Can&#39;t save custom subclassed model,15,7037,4,2018-08-12,
+9,9,Python: Neural Network - TypeError: &#39;History&#39; object is not subscriptable,15,9118,3,2018-08-07,
+10,10,Does ImageDataGenerator add more images to my dataset?,14,6987,5,2018-08-08,
+11,11,How to delete a locally uploaded file on google colab?,13,27636,5,2018-09-10,
+12,12,how is total loss calculated over multiple classes in Keras?,13,2299,2,2018-08-27,
+13,13,How use TPU in google colab,12,12847,1,2018-09-27,
+14,14,actor critic policy loss going to zero (with no improvement),12,2138,1,2018-08-08,
+15,15,"How to connect LSTM layers in Keras, RepeatVector or return_sequence=True?",11,6984,1,2018-08-08,
+16,16,How to use .predict_generator() on new Images - Keras,11,11965,4,2018-09-11,
+17,17,"What is the difference between Loss, accuracy, validation loss, Validation accuracy?",11,5658,3,2018-08-06,
+18,18,How does binary cross entropy loss work on autoencoders?,11,8320,1,2018-09-21,
+19,19,"Error when checking target: expected dense_1 to have 3 dimensions, but got array with shape (118, 1)",11,19760,3,2018-08-09,
+20,20,Is there an optimizer in keras based on precision or recall instead of loss?,11,3328,3,2018-08-27,
+21,21,Keras Concatenate Layers: Difference between different types of concatenate functions,11,7200,2,2018-08-01,
+22,22,Prepare Decoder of a Sequence to Sequence Network in PyTorch,11,818,1,2018-09-21,
+23,23,ValueError: Unknown metric function when using custom metric in Keras,10,6859,3,2018-08-06,
+24,24,Keras Model.fit Verbose Formatting,10,4239,2,2018-09-10,
+25,25,Tensorflow——keras model.save() raise NotImplementedError,10,7134,5,2018-09-28,
+26,26,Can&#39;t import frozen graph with BatchNorm layer,10,2949,3,2018-08-15,
+27,27,AttributeError: module &#39;tensorflow&#39; has no attribute &#39;name_scope&#39; with Keras,10,27884,6,2018-08-07,
+28,28,How to handle Shift in Forecasted value,10,1285,2,2018-09-10,
+29,29,Custom loss function for U-net in keras using class weights: `class_weight` not supported for 3+ dimensional targets,10,3219,1,2018-08-10,
+0,0,Make a deep copy of a keras model in python,19,7681,2,2020-03-18,0.0
+1,1,,1550711100,1150,17,2019-01-07,1.0
+2,2,,14,6584,3,2019-11-14,2.0
+3,3,,1588751547,5265,13,2019-01-26,3.0
+4,4,What is the default weight initializer in Keras?,12,16524,1,2019-10-14,4.0
+5,5,Convert sklearn.svm SVC classifier to Keras implementation,12,8319,1,2019-01-29,5.0
+6,6,Can a Tensorflow variable be trained using the Tensorflow Keras functional API model? Can a Tensorflow operation be used in the functional API Model?,11,1975,2,2019-01-16,6.0
+7,7,InvalidArgumentError: cannot compute MatMul as input #0(zero-based) was expected to be a float tensor but is a double tensor [Op:MatMul],10,12924,1,2020-01-09,7.0
+8,8,,10,3030,3,2019-12-16,8.0
+9,9,Keras network producing inverse predictions,8,1084,2,2019-01-21,9.0
+10,10,,7,4993,1,2019-01-23,10.0
+11,11,Should I use the standalone Keras library or tf.keras?,7,1401,1,2019-10-15,11.0
+12,12,,6,7028,4,2019-12-22,12.0
+13,13,,1553740029,1664,6,2019-01-20,13.0
+14,14,,1562149845,2359,6,2019-01-08,14.0
+15,15,,6,3038,1,2019-01-22,15.0
+16,16,,1548050893,138,6,2019-01-20,16.0
+17,17,Using TFRecords with keras,5,2760,2,2019-01-30,17.0
+18,18,,5,4170,2,2020-05-28,18.0
+19,19,"expected ndim=3, found ndim=2",5,8788,1,2019-01-29,19.0
+20,20,Why am I receive AlreadyExistsError?,5,1627,1,2019-11-14,20.0
+21,21,ValueError: You are trying to load a weight file containing 6 layers into a model with 0,5,4477,1,2019-01-01,21.0
+22,22,Tensorflow predict the class of output,5,1857,1,2019-01-18,22.0
+23,23,`Check failed: cudnnSetTensorNdDescriptor` when transfer learning with pretrained Keras model,5,1799,1,2019-09-26,23.0
+24,24,,1564346110,3425,5,2019-01-21,24.0
+25,25,,1547796585,1014,5,2019-01-18,25.0
+26,26,,1549957700,1436,5,2019-01-01,26.0
+27,27,Keras ImageDataGenerator: why are the outputs of my CNN reversed?,4,609,1,2019-01-27,27.0
+28,28,What if the sample size is not divisible by batch_size in Keras model,4,2837,2,2019-01-12,28.0
+29,29,,4,1140,1,2019-01-29,29.0
+30,0,WARNING from Tensorflow when creating VGG16,19,12871,3,2019-07-20,0.0
+31,1,Why is &quot;step&quot; argument necessary when predicting using data tensors? what does this error mean?,11,9070,5,2020-04-21,1.0
+32,2,I am not able to import resnet from keras.applications module,10,16216,4,2020-05-01,2.0
+33,3,,10,15295,3,2020-03-22,3.0
+34,4,Confusion about multiprocessing and workers in Keras fit_generator() with windows 10 in spyder,1,8502,54622603,1970-01-01,4.0
+35,5,Tensorflow: Integrate Keras Model in Estimator model_fn,8,616,0,2019-02-13,5.0
+36,6,Tensor object has no attribute keras_shape,2,4886,54628352,1970-01-01,6.0
+37,7,Assign indexed entry of Keras tensor,7,246,2,2019-02-25,7.0
+38,8,,7,389,1,2020-05-02,8.0
+39,9,,6,1125,2,2020-03-02,9.0
+40,10,Container localhost does not exist error when using Keras + Flask Blueprints,6,4068,1,2019-09-16,10.0
+41,11,How to feed LSTM when training data is in multiple csv files of time series of different length?,6,920,2,2019-04-29,11.0
+42,12,How to train Siamese network in Keras?,5,1352,1,2019-02-11,12.0
+43,13,What is the difference between return state and return sequence in a keras GRU layer?,5,1067,1,2019-02-26,13.0
+44,14,Combining Keras model.fit&#39;s `steps_per_epoch` with TensorFlow&#39;s Dataset API&#39;s `batch()`,1,510,54576279,1970-01-01,14.0
+45,15,understanding output shape of keras Conv2DTranspose,5,4536,2,2020-04-24,15.0
+46,16,Classifying images with very similar features belonging to different classes,5,175,0,2019-02-25,16.0
+47,0,Tensorflow 2.0 - AttributeError: module &#39;tensorflow&#39; has no attribute &#39;Session&#39;,73,110834,6,2020-05-25,0.0
+48,1,,18,11632,2,2019-05-22,1.0
+49,2,,1553765806,2692,17,2019-03-23,2.0
+50,3,"RNN in Tensorflow vs Keras, depreciation of tf.nn.dynamic_rnn()",16,2252,1,2019-05-01,3.0
+51,4,The added layer must be an instance of class Layer. Found: &lt;tensorflow.python.keras.engine.input_layer.InputLayer&gt;,15,23457,3,2019-12-02,4.0
+52,5,,1553266018,2771,12,2019-03-14,5.0
+53,6,,10,3730,3,2020-01-23,6.0
+54,7,Neural network for square (x^2) approximation,9,1156,2,2019-03-19,7.0
+55,8,,8,8773,2,2019-08-08,8.0
+56,9,,1585554302,3175,8,2019-03-19,9.0
+57,10,Keras: Custom layer without inputs,8,712,1,2020-01-07,10.0
+58,11,tf.loadModel is not a function,7,2807,2,2019-05-10,11.0
+59,12,,1552870950,1401,7,2019-03-06,12.0
+60,13,,1576881605,1360,7,2019-03-29,13.0
+61,14,Feature-wise scaling and shifting (FiLM layer) in Keras,7,513,1,2019-04-14,14.0
+62,15,What is the difference between keras and tf.keras?,6,5473,2,2020-04-23,15.0
+63,16,What exactly are the losses in Matterport Mask-R-CNN?,6,2972,1,2020-02-07,16.0
+64,17,Batch Normalization in tf.keras does not calculate average mean and average variance,6,3903,2,2019-09-05,17.0
+65,18,"Create a mixed data generator (images,csv) in keras",6,1015,2,2019-10-28,18.0
+66,19,,1552844572,574,6,2019-03-16,19.0
+67,20,,5,3712,1,2019-03-22,20.0
+68,21,Keras load_model with custom objects doesn&#39;t work properly,5,4601,1,2020-03-17,21.0
+69,22,Hierarchical Attention Network - model.fit generates error &#39;ValueError: Input dimension mis-match&#39;,5,321,1,2019-03-11,22.0
+70,23,,1556940208,758,5,2019-03-28,23.0
+71,24,,5,1744,1,2019-03-16,24.0
+72,25,Keras Custom Layer: ValueError: An operation has `None` for gradient,5,2713,2,2019-03-30,25.0
+73,26,,1554558915,288,5,2019-03-29,26.0
+74,27,,1552532252,60,5,2019-03-12,27.0
+75,28,,1551752719,1177,5,2019-03-05,28.0
+76,29,,1560354626,340,5,2019-03-11,29.0
+77,0,How to fix &#39;Object arrays cannot be loaded when allow_pickle=False&#39; for imdb.load_data() function?,107,115032,18,2020-06-01,0.0
+78,1,"How to define max_queue_size, workers and use_multiprocessing in keras fit_generator()?",35,9329,1,2019-04-16,1.0
+79,2,How to fix &quot;AttributeError: module &#39;tensorflow&#39; has no attribute &#39;get_default_graph&#39;&quot;?,19,30886,12,2020-03-01,2.0
+80,3,This model has not yet been built error on model.summary(),15,15266,4,2020-04-05,3.0
+81,4,Tensorflow 2.0 model using tf.function very slow and is recompiling every time the train count changes. Eager runs about 4x faster,10,2042,1,2019-06-25,4.0
+82,5,,1578770699,1160,9,2019-04-08,5.0
+83,6,Keras2 ImageDataGenerator or TensorFlow tf.data?,8,3828,3,2020-02-28,6.0
+84,7,Input images with dynamic dimensions in Tensorflow-lite,8,1958,1,2020-03-05,7.0
+85,8,,7,4838,1,2020-04-30,8.0
+86,9,,7,618,1,2019-12-26,9.0
+87,10,,7,463,3,2020-06-07,10.0
+88,11,,1577452871,702,7,2019-04-29,11.0
+89,12,,1555593916,724,7,2019-04-17,12.0
+90,13,,1588357452,4170,6,2019-04-05,13.0
+91,14,Why is accuracy from fit_generator different to that from evaluate_generator in Keras?,6,3415,3,2019-05-23,14.0
+92,15,Why is TimeDistributed not needed in my Keras LSTM?,6,245,1,2019-04-05,15.0
+93,16,How to debug Keras in TensorFlow 2.0?,6,1409,1,2020-01-14,16.0
+94,17,How to implement a custom keras layer that only keeps the top n values and zeros out all the rest?,6,448,1,2019-04-17,17.0
+95,18,,1578816804,1469,6,2019-04-10,18.0
+96,19,,5,1740,1,2019-04-24,19.0
+97,20,,5,566,1,2019-04-12,20.0
+98,21,Keras model.predict() slower on first iteration then gets faster,5,1746,1,2019-04-08,21.0
+99,22,ValueError: setting an array element with a sequence. On Keras model.fit,5,1669,1,2019-04-13,22.0
+100,23,,1555221346,1050,5,2019-04-13,23.0
+101,24,Setting Keras Variables in Generator,5,89,1,2019-04-12,24.0
+102,25,,1580852325,1685,5,2019-04-07,25.0
+103,26,,1575339360,450,5,2019-04-19,26.0
+104,27,,1556027684,154,5,2019-04-18,27.0
+105,28,,1556697731,874,4,2019-04-20,28.0
+106,29,"Can not squeeze dim[1], expected a dimension of 1, got 2",4,3794,2,2019-04-11,29.0
+107,0,Keras fit_generator() - How does batch for time series work?,14,1136,1,2019-10-07,0.0
+108,1,,14,479,1,2019-05-23,1.0
+109,2,,1566814844,860,13,2019-05-13,2.0
+110,3,,1559389099,1071,10,2019-05-22,3.0
+111,4,How can take advantage of multiprocessing and multithreading in Deep learning using Keras?,7,2078,1,2019-06-04,4.0
+112,5,,1558597492,198,7,2019-05-14,5.0
+113,6,,7,277,2,2020-05-29,6.0
+114,7,,1556940494,1553,7,2019-05-04,7.0
+115,8,Calculate recall for each class after each epoch in Tensorflow 2,6,2087,3,2019-07-04,8.0
+116,9,,5,2636,2,2019-05-20,9.0
+117,10,,5,751,2,2019-05-03,10.0
+118,11,,5,71,1,2019-05-17,11.0
+119,12,,1581108845,1323,5,2019-05-09,12.0
+120,13,,1558088036,86,5,2019-05-17,13.0
+121,14,Autofilter for Time Series in Python/Keras using Conv1d,4,235,1,2019-06-07,14.0
+122,15,,1558448181,894,4,2019-05-20,15.0
+123,16,,4,947,1,2019-05-10,16.0
+124,17,"Tensorflow, expected conv2d_input to have 4 dimensions",4,1905,1,2019-05-06,17.0
+125,18,,4,296,1,2019-05-05,18.0
+126,19,,1559036492,555,4,2019-05-22,19.0
+127,20,,1558398134,167,4,2019-05-20,20.0
+128,21,,1559554298,303,4,2019-05-22,21.0
+129,22,,1558384912,948,4,2019-05-20,22.0
+130,23,,1557208013,219,3,2019-05-03,23.0
+131,24,,1560242142,3238,3,2019-05-24,24.0
+132,25,,3,207,1,2019-05-28,25.0
+133,26,Visualizing a heatmap matrix on to an image in OpenCV,3,2299,1,2019-05-23,26.0
+134,27,,3,1651,2,2020-04-22,27.0
+135,28,Bigger batch size reduce training time,3,183,1,2019-05-22,28.0
+136,29,,3,2190,3,2019-12-31,29.0
+137,0,Keras difference between generator and sequence,36,1785,2,2020-06-01,0.0
+138,1,How to create a keras layer with a custom gradient in TF2.0?,1,2170,56658149,1970-01-01,1.0
+139,2,Input shape in keras (This loss expects targets to have the same shape as the output),1,12418,56598943,1970-01-01,2.0
+140,3,Saving a TF2 keras model with custom signature defs,7,1118,1,2020-05-28,3.0
+141,4,,7,2048,2,2019-08-01,4.0
+142,5,Keras: how to reset optimizer state?,6,1542,3,2020-04-22,5.0
+143,6,Difference between DepthwiseConv2D and SeparableConv2D,6,1414,1,2019-06-26,6.0
+144,7,Custom Datagenerator,3,91,56806059,1970-01-01,7.0
+145,8,Keras layer with int inputs cannot be built,5,1044,0,2019-12-26,8.0
+146,9,Tensorflow Keras model.summary() shows 0 trainable parameters on a layer,5,943,0,2019-06-10,9.0
+147,10,,4,9671,5,2020-05-10,10.0
+148,11,how to properly saving loaded h5 model to pb with TF2,4,2017,2,2019-12-24,11.0
+149,12,How to determine input shape in keras?,1,1581,56565674,1970-01-01,12.0
+150,13,What is the purpose of Keras custom objects when creating custom layers?,1,564,56768674,1970-01-01,13.0
+151,14,How to insert certain values at certain indices of a tensor in tensorflow?,1,636,56656216,1970-01-01,14.0
+152,15,Keras: MLP on CPU Reproducibility,4,860,2,2019-06-20,15.0
+153,16,Keras - On train end callback does not get any log,1,437,56511338,1970-01-01,16.0
+154,17,,4,47,0,2019-06-27,17.0
+155,18,Keras and AutoGraph,4,282,0,2019-06-23,18.0
+156,19,How to use Dropout and BatchNormalization in LSTM Networks (Keras),4,1531,0,2019-06-13,19.0
+157,20,tensorboard - error:Trace already enabled - How to solve?,3,2009,4,2020-04-28,20.0
+158,21,Exception with Callback in Keras - Tensorflow 2.0 - Python,3,955,5,2020-05-21,21.0
+159,0,Deploy Semantic Segmentation Network (U-Net) with TensorRT (no upsampling support),18,1853,3,2019-09-28,0.0
+160,1,How to write to TensorBoard in TensorFlow 2,1,2827,56961915,1970-01-01,1.0
+161,2,Function call stack: keras_scratch_graph Error,9,11989,4,2020-04-02,2.0
+162,3,,9,3629,2,2020-02-06,3.0
+163,4,,7,3341,2,2020-04-07,4.0
+164,5,Efficient allreduce is not supported for 2 IndexedSlices,7,411,0,2019-07-02,5.0
+165,6,Tensorboard AttributeError: &#39;ModelCheckpoint&#39; object has no attribute &#39;on_train_batch_begin&#39;,3,4957,57123200,1970-01-01,6.0
+166,7,Wasserstein loss can be negative?,6,1336,1,2019-11-20,7.0
+167,8,Tensorflow 2.0: Accessing a batch&#39;s tensors from a callback,6,126,0,2019-07-12,8.0
+168,9,Using Neural Networks in optimization problems,6,350,0,2019-07-13,9.0
+169,10,,5,495,0,2019-07-21,10.0
+170,11,,5,57,0,2019-07-04,11.0
+171,12,AttributeError when using callback Tensorboard on Keras: &#39;Model&#39; object has no attribute &#39;run_eagerly&#39;,4,3451,2,2020-05-10,12.0
+172,13,how to add custom Keras model in OpenCv in python,4,1234,2,2019-07-18,13.0
+173,14,Default Adam optimizer doesn&#39;t work in tf.keras but string `adam` does,2,486,56977650,1970-01-01,14.0
+174,15,ValueError: The model is not configured to compute accuracy,4,960,1,2019-10-26,15.0
+175,16,How to install plaidML / plaidML-keras,4,2707,4,2020-02-01,16.0
+176,0,exact model converges on keras-tf but not on keras,12,207,1,2019-09-03,0.0
+177,1,Tensorflow: device CUDA:0 not supported by XLA service while setting up XLA_GPU_JIT device number 0,9,6234,2,2020-01-26,1.0
+178,2,Validation loss and accuracy not changing from training,3,159,1,2020-02-05,2.0
+179,0,Why is TensorFlow 2 much slower than TensorFlow 1?,146,13907,2,2020-05-19,0.0
+180,1,Why does keras model predict slower after compile?,23,4106,2,2020-01-15,1.0
+181,2,,19,26312,2,2019-10-23,2.0
+182,3,Tensorflow Data Adapter Error: ValueError: Failed to find data adapter that can handle input,18,17982,4,2020-05-02,3.0
+183,4,Flask and Keras model Error &#39;&#39;_thread._local&#39; object has no attribute &#39;value&#39;&#39;?,17,7621,15,2020-04-26,4.0
+184,5,TypeError: Unexpected keyword argument passed to optimizer: learning_rate,12,18281,13,2020-05-31,5.0
+185,6,What is the difference between sparse_categorical_crossentropy and categorical_crossentropy?,9,5178,2,2020-01-18,6.0
+186,7,What is the difference between tf.keras and tf.python.keras?,9,1238,1,2019-10-17,7.0
+187,8,Proper way to feed time-series data to stateful LSTM?,8,1060,1,2019-10-08,8.0
+188,9,Unable to import Keras(from TensorFlow 2.0) in PyCharm,8,3571,2,2020-03-05,9.0
+189,10,,8,12763,1,2019-11-03,10.0
+190,11,,1568717013,395,8,2019-09-09,11.0
+191,12,GradienTape convergence much slower than Keras.model.fit,8,405,2,2019-11-03,12.0
+192,13,,1570784869,516,8,2019-09-23,13.0
+193,14,,1571897046,12246,7,2019-10-06,14.0
+194,15,,7,5424,3,2019-12-20,15.0
+195,16,How visualize attention LSTM using keras-self-attention package?,7,1738,1,2020-02-03,16.0
+196,17,Keras you are trying to load a weight file containing 2 layers into a model with 1 layers,7,326,1,2019-10-07,17.0
+197,18,,7,1814,1,2020-03-13,18.0
+198,19,,1568813001,876,7,2019-09-18,19.0
+199,20,Why are my results still not reproducible?,6,298,1,2019-11-02,20.0
+200,21,,1572997452,434,6,2019-10-29,21.0
+201,22,,6,313,3,2019-09-22,22.0
+202,23,,6,279,1,2019-09-07,23.0
+203,24,,1576826988,1262,5,2019-09-02,24.0
+204,25,"batch normalization, yes or no?",5,254,1,2019-10-30,25.0
+205,26,Keras sees my GPU but doesn&#39;t use it when training a neural network,5,2024,1,2019-10-18,26.0
+206,27,,1590262573,296,5,2019-09-27,27.0
+207,28,Installing Keras/Tensor Flow on R,5,247,1,2019-09-21,28.0
+208,29,TensorFlow 2.0 Keras layers with custom tensors as variables,5,1150,3,2020-05-08,29.0
+209,0,WARNING:tensorflow:sample_weight modes were coerced from ... to [&#39;...&#39;],51,10035,4,2020-04-04,0.0
+210,1,Unexpected keyword argument &#39;ragged&#39; in Keras,14,6739,1,2020-01-21,1.0
+211,2,,12,1165,1,2019-11-27,2.0
+212,3,Maximize the MSE of a keras model,11,298,2,2019-12-23,3.0
+213,4,,1591023502,2569,11,2019-11-20,4.0
+214,5,,10,4164,1,2020-02-26,5.0
+215,6,,1589974455,1696,10,2019-12-07,6.0
+216,7,,1589985713,20067,9,2019-11-28,7.0
+217,8,Tensorflow: `batch_size` or `steps` is required for `Tensor` or `NumPy` input data,9,1971,2,2020-03-30,8.0
+218,9,,8,3722,2,2020-04-13,9.0
+219,10,,1573811311,4317,6,2019-11-09,10.0
+220,11,,1591110926,491,6,2019-11-05,11.0
+221,12,,1576522043,173,6,2019-12-06,12.0
+222,13,,1574092361,221,6,2019-11-06,13.0
+223,14,,1577651975,71,5,2019-12-29,14.0
+224,15,,5,1016,1,2019-11-22,15.0
+225,16,Improve real-life results of neural network trained with mnist dataset,5,196,3,2020-01-02,16.0
+226,17,,1572866674,102,5,2019-11-01,17.0
+227,18,,1585805337,639,4,2019-11-30,18.0
+228,19,What is the best activation function to use for time series prediction,4,450,2,2020-04-11,19.0
+229,20,,1586871963,784,4,2019-12-23,20.0
+230,21,How to replace certain parts of a tensor on the condition in keras?,4,131,3,2019-11-19,21.0
+231,22,Batch normalization layer for CNN-LSTM,4,347,1,2020-02-04,22.0
+232,23,Tensorflow ResNet model loading uses **~5 GB of RAM** - while loading from weights uses only ~200 MB,4,161,1,2019-12-07,23.0
+233,24,,4,587,3,2019-11-09,24.0
+234,25,How to get reduced learning rate of SGD optimizer in TensorFlow 2.0?,4,1024,1,2019-11-07,25.0
+235,26,,4,100,1,2019-12-30,26.0
+236,27,,4,219,2,2019-12-25,27.0
+237,28,Discrepancy between R&#39;s Keras and Python&#39;s Keras -- Accuracy bug?,4,52,1,2020-01-03,28.0
+238,29,Accessing layer&#39;s input/output using Tensorflow 2.0 Model Sub-classing,4,401,1,2019-12-18,29.0

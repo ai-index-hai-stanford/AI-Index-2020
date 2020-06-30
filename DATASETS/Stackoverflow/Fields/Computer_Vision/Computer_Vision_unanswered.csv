@@ -1,0 +1,31 @@
+,title,score,view_count
+0,Apple Vision framework – Text extraction from image,21,11513
+1,Matlab VLFEAT -multiple matching,19,755
+2,How does MTCNN perform vs DLIB for face detection?,12,4136
+3,Implementing Photoshop High Pass Filter (HPF) in OpenCV,10,4586
+4,Why is the Vision framework unable to align two images?,10,636
+5,Jointly training custom model with Tensorflow Object Detection API,8,383
+6,how to improve keypoints detection and matching,8,1782
+7,attempt to convert SSE2 Fast Corner score code to ARM Neon,8,2976
+8,How to manually set exposure on a Facetime HD camera in Python opencv 3.2.0 OSX El Capitan,7,1549
+9,Is there a camera calibration matrix database?,7,1392
+10,Image registration algorithms / techniques used to enable extraction of fields from scanned document?,7,1440
+11,OpenCV: Tracking 3D objects moving in a 2D-plane,7,3698
+12,LSTM object detection tensorflow,6,1349
+13,ARCore Pose and Aruco estimatePoseSingleMarkers,6,697
+14,"Can Keras ImageDataGenerator transform label points (x,y) accordinlgy to performed augmentation?",6,363
+15,Capturing 15MP images from a Logitech c920 webcam,6,1447
+16,Stereo Camera calibration using different camera types,6,1026
+17,what is the range of RGB for a specific colour?,6,8194
+18,Detect markers in 2D Image [Python/OpenCV],6,1914
+19,GOCR not using training results,6,451
+20,Compare SURF descriptors in one image to a list of descriptors in other images,6,3418
+21,what is the relationship between spatial resolution of the image and size of the CNN architecture?,5,120
+22,Inference with TensorRT .engine file on python,5,255
+23,Configure Fast-Rcnn.config to use Adam optimizer and other parameters,5,451
+24,AttributeError: module &#39;tensorflow.estimator&#39; has no attribute &#39;SessionRunHook&#39;,5,531
+25,haarcascade mouth smile xml for EmguCV old version,5,120
+26,Classifying images with very similar features belonging to different classes,5,178
+27,How to scan room contour data from a floor plan using OpenCV or deep learning?,5,588
+28,Object detection using environment,5,115
+29,Memory Error using predict_generator and VGG16,5,591

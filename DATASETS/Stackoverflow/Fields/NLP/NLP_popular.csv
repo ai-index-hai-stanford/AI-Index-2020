@@ -1,0 +1,31 @@
+,title,score,view_count
+0,How does the Google &quot;Did you mean?&quot; Algorithm work?,436,87782
+1,How to compute the similarity between two text documents?,206,166293
+2,Java Stanford NLP: Part of Speech labels?,170,94373
+3,What does tf.nn.embedding_lookup function do?,157,66530
+4,Detecting syllables in a word,137,63272
+5,What is the difference between lemmatization vs stemming?,129,75717
+6,"How does Apple find dates, times and addresses in emails?",128,24818
+7,How to get rid of punctuation using NLTK tokenizer?,123,169233
+8,Difference between constituency parser and dependency parser,114,33310
+9,How do you implement a &quot;Did you mean&quot;?,114,25976
+10,Java or Python for Natural Language Processing,112,65548
+11,How do I do word Stemming or Lemmatization?,111,131917
+12,"How to compute precision, recall, accuracy and f1-score for the multiclass case with scikit learn?",106,151456
+13,How to train the Stanford Parser with Genia Corpus?,93,4284
+14,How can I correctly prefix a word with &quot;a&quot; and &quot;an&quot;?,92,12586
+15,Stanford Parser and NLTK,90,91033
+16,Is there a good natural language processing library,90,58809
+17,Sentiment analysis for Twitter in Python,87,50229
+18,Creating a new corpus with NLTK,83,70434
+19,How to config nltk data directory from code?,81,44780
+20,word2vec: negative sampling (in layman term)?,80,32788
+21,Practical examples of NLTK use,76,49754
+22,Stopword removal with NLTK,75,156570
+23,Stemmers vs Lemmatizers,74,21581
+24,Any tutorials for developing chatbots?,72,72255
+25,Calculate cosine similarity given 2 sentence strings,71,93419
+26,Fuzzy string search library in Java,70,58814
+27,Understanding min_df and max_df in scikit CountVectorizer,68,48619
+28,Where can I learn more about the Google search &quot;did you mean&quot; algorithm?,68,18328
+29,Natural Language Processing in Ruby,65,21829

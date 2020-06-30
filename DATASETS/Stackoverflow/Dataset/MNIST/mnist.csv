@@ -1,0 +1,990 @@
+Question,Votes,Views,Date
+MNIST classifier fails on non-MNIST digits,0,45,2020-06-12
+FID Score for Mnist Digits Crash in 25Gb RAM Google Colab,2,13,2020-06-11
+<class 'SystemError'> ..\Objects\listobject.c:189: bad argument to internal function,-2,12,2020-06-10
+Learning position of digit with conv net [closed],0,13,2020-06-08
+Why obs are labels in the model of a classification task in the Bayesian Neural Network using Pyro?,0,11,2020-06-07
+How to understand the output of a neural network? [closed],-2,17,2020-06-05
+What is the difference between 'DatasetV1Adapter' and 'BatchDataset' in TensorFlow 2?,1,12,2020-06-05
+Are there any source than I can use to detect handwritten digit on webcam?,0,21,2020-06-04
+Why I can't load mnist dataset with load_data() method?,0,24,2020-06-04
+Cost Function not converging CNN,-1,13,2020-06-03
+How can i put my own data in test_data section of MNIST dataset in neural network,0,8,2020-06-02
+"ValueError: Dimension 1 in both shapes must be equal, but are 10 and 1",-1,26,2020-06-02
+How to load my own dataset to make a DCGAN in tensorflow?,0,15,2020-06-02
+Keras hierarchical classification,0,10,2020-06-01
+How to use MNIST via running python code in virtual machine?,0,9,2020-06-01
+MNIST GAN generator loss increasing,0,29,2020-05-30
+Significantly higher testing accuracy on mnist with keras than tensorflow.keras,6,62,2020-05-26
+Why the accuracy of TF-lite is not correct after quantization,3,56,2020-05-26
+visualize 10x10 grid of each digit using MNIST samples,0,28,2020-05-22
+Using trained model (on 1 label images) to predict captcha-styled images (multiple labels per image),0,16,2020-05-22
+Subsetting Handwritten Digits for Visualization (MNIST),-1,28,2020-05-21
+Why are alphabets less accurate in mnist data?(neural network),0,21,2020-05-21
+Tensorflow Keras Shape mismatch,2,25,2020-05-21
+Data Handling for MNIST data set using C++,-1,14,2020-05-19
+How to extract a digit from an image with numbered grid opencv,0,29,2020-05-19
+FileNotFoundError: [Error2] No such file or directory: 'mnist/train-image-idx3-ubyte',-1,23,2020-05-19
+Cannot get output of OpenCV image segmentation into a numpy array similar to the data in the MNIST data,0,14,2020-05-17
+"NameError: name 'transforms' is not defined, while using google colab",-2,88,2020-05-17
+Classes Issue in EMNIST Dataset,2,27,2020-05-16
+"How to replace the softmax layer with sigmoid layer? (Theano, MNIST classification)",-1,27,2020-05-16
+Just loaded tfds dataset but throwing unable to unpack error,0,12,2020-05-16
+ValueError: unpack: when trying to split fashion_mnist into 3 splits,0,23,2020-05-16
+how to solve the IndexError: too many indices for array in python?,0,30,2020-05-14
+How to convert .jpg to npz like moving mnist,0,9,2020-05-13
+torchvision mnist RemoteDisconnected: Remote end closed connection without response,0,17,2020-05-11
+MNIST dataset boosting,0,15,2020-05-09
+"showing mnist digits using python, numpy and matplot",1,54,2020-05-07
+"TF1 code does not work with TF2, could someone convert this TF1 code",0,49,2020-05-06
+tensorflow: applying calculated weights on a single mnist image,0,38,2020-05-05
+"Is it possible to train a lossless autoencoder for small images (MNIST, CIFAR) by overfitting?",0,12,2020-05-05
+Pytorch | I don't know why it is throwing an error? (Beginner),0,20,2020-05-04
+What is x_train.reshape() and What it Does?,-3,49,2020-05-02
+"If image has (28,28,3) shape, how do i convert it to (28.28,1)?",0,67,2020-05-01
+How to select a desired training sample from mnist.load_data(),0,42,2020-05-01
+Low accuracy when training MNIST data on a custom neural network,0,51,2020-04-29
+Interpreting training loss/accuracy vs validation loss/accuracy,2,33,2020-04-25
+how should I fix input size in keras model,0,12,2020-04-24
+Finding and resizing pixel data from segmented images using skimage,1,30,2020-04-21
+How to append numpy ndarray (images) to get similar dataset like mnist,0,25,2020-04-17
+Improving MNIST classification using PSO trained Neural network,0,24,2020-04-15
+Is it possible to use vector methods to shift images stored in a numpy ndarray for data augmentation?,1,45,2020-04-12
+How to sum up and interpret epoch loss while using binary crossentropy?,0,28,2020-04-10
+Backpropagation example,1,59,2020-04-09
+batch structure in tensorflow,0,20,2020-04-09
+Extended MNIST with Addition (+) Operator and XY Letters,0,25,2020-04-07
+How to use own image to predict handwritten digits using MNIST Dataset and neural netwrok,0,51,2020-04-06
+"Why the eminst data is converted from (28*28) to [-1, 784] instead of [0,784] in image classification problem?",-1,36,2020-04-04
+Split data into batches,0,39,2020-04-03
+Error when loading mnist and other datasets in R using tensorflow and keras package,0,43,2020-04-02
+CNN has ValueError: Error when checking target,0,18,2020-03-31
+Is there any way to convert the screen of a pygame gui into an image somehow?,1,24,2020-03-27
+error: OpenCV(4.1.2) (-215:Assertion failed) image.channels() == 1 || image.channels() == 3 || image.channels() == 4 in function 'cv::imwrite_' [duplicate],-3,69,2020-03-25
+Confusion in MNIST dataset visualization using Matplotlib,0,10,2020-03-24
+"Error when checking input: expected flatten_1_input to have 3 dimensions, but got array with shape (28, 28)",1,49,2020-03-20
+How do I fix in alexNet invalid index of a 0-dim tensor. Use tensor.item() to convert a 0-dim tensor to a Python number,0,27,2020-03-18
+CNN to solve MNIST shows no learning in Pytorch,0,38,2020-03-18
+4-layer perceptron neural network classifying the MNIST digit dataset not working correctly,0,41,2020-03-17
+Why did my factor levels get reversed in logistic regression? (MNIST data),1,36,2020-03-14
+Tensorflow Keras Dataset Filepath within PyCharm,0,37,2020-03-13
+How to make your own data in mnist,0,12,2020-03-12
+Why does normalizing MNIST images reduce accuracy?,0,41,2020-03-10
+my tensorflow model gets stuck before the first epoch,0,142,2020-03-10
+Unable to open file mnist.h5,0,74,2020-03-08
+Exception has occurred: KeyError (numpy list),0,72,2020-03-07
+How to implement GRNN Algorithm with MNIST Dataset (Python),0,51,2020-03-05
+Problem during preprocessing of data in Tensorflow,0,29,2020-03-04
+Data-augmentation giving me worse results,0,57,2020-03-03
+Predicting Different Classes by the Size of Test data,0,26,2020-03-02
+Do I have to redownload MNIST with fetch_openml every time I run my Jupyter Notebook?,0,42,2020-03-01
+MNIST Tensorflow - ValueError: Input arrays should have the same number of samples as target arrays,0,41,2020-02-29
+tensorflow-ValueError: Only call `sparse_softmax_cross_entropy_with_logits`,0,38,2020-02-27
+How to freeze Encoder weight exctracted from CNN AutoEncoder and add few trainable fully connected layers?,0,27,2020-02-25
+"XGBoost python: Bad input shape, features name mismatch error",0,29,2020-02-25
+EM algorithm python on MNIST image data,0,212,2020-02-25
+"CNN for MNIST with efficient sliding windows, to detect in realtime",1,80,2020-02-24
+"probleme with CNN, MNIST",0,33,2020-02-24
+dataset not 'callable' in a for loop,0,22,2020-02-20
+explaination for what tensorflow.keras.dataset.minst.load_data() returns,2,44,2020-02-20
+Load custom dataset like Mnist ( Tensorflow Python ),0,79,2020-02-19
+"Same data split into training, dev and test set",0,49,2020-02-18
+ERROR:root:Internal Python error in the inspect module. Below is the traceback from this internal error,0,284,2020-02-16
+"Using tf.estimator for custom inference, following approach of Overfeat",0,17,2020-02-14
+Calculate the covariance matrix with numpy,0,29,2020-02-14
+Predicting own image with pretrained weights and biases doesn't work correctly,1,38,2020-02-10
+Selecting a specific element from a list dataset,0,20,2020-02-10
+Use custom dataset instead of MNIST for GAN,1,85,2020-02-10
+python MNIST dataset “no attribute train_images”,0,270,2020-02-06
+Where can I download a Python3 pickled version mnist.pkl of the MNIST dataset?,0,24,2020-02-05
+pytorch train function Varibles and Tensors (read my introduction i dont know my problem as well it just dont work ),-1,29,2020-02-02
+Neural network does poorly on larger training sets MNIST,0,17,2020-02-01
+"Using MNIST to load a dataset but getting file not found error, Windows 10, Python 3",0,135,2020-02-01
+Why do i have to convert “uint8” into “float32”,1,106,2020-01-30
+Pytorch-1.2.0 Error on CrossEntropyLoss: only batches of spatial targets supported (3D tensors) but got targets of dimension,1,438,2020-01-30
+Where and how should I enter the loss function for my Neural Networks,0,35,2020-01-26
+where could I find training.pt/test.pt,-1,159,2020-01-26
+Why does very simple port of the official Keras mnist example to tensorflow 2.x result in massive drop in accuracy?,0,34,2020-01-25
+Matplotlib hist method,0,49,2020-01-24
+"Pytorch: ValueError: Too many dimensions: 3 > 2. 9/opt/anaconda3/envs/pytorch/lib/python3.7/site-packages/PIL/Image.py in fromarray(obj, mode)",0,156,2020-01-23
+Accuracy decreases when I don't use tensorflow mnist.train.next_batch function,0,18,2020-01-23
+"ValueError: Trying to share variable Discriminator/dense/kernel, but specified shape (512, 21) and found shape (21632, 21)",0,36,2020-01-22
+"MNIST data set neural network, why is the network failing to classify images?",1,130,2020-01-20
+How do I implement keras mnist model with video camera,-2,18,2020-01-18
+Loss curve saturates at 1.0 for MNIST dataset using Tensorflow.js,0,37,2020-01-17
+Converting MNIST specific code to work on a custom database,0,17,2020-01-15
+Polynomial neural network features MNIST,-1,29,2020-01-13
+How to implement keras auto-encoder on an image dataset such as OXFORD5k for information retrieval?,0,16,2020-01-11
+How many nodes in input and output layers of sklearn's MLPClassifier for MNIST digits classification task,0,119,2020-01-11
+Problem with anaconda environments not recognising packages,1,37,2020-01-07
+Convert a TFDS dataset to tensorflow.examples.tutorials.mnist,0,75,2020-01-02
+"Problem loading model on tensorflowJS, out-of-bounds typedArray on arrayBuffer",0,66,2020-01-02
+Implementing Neural Nets with Keras,3,126,2020-01-01
+Improve real-life results of neural network trained with mnist dataset,5,198,2019-12-30
+keras neural network predicts the same number for every handwritten digit,3,227,2019-12-28
+"Self made neural network failing detecting hand written digits, however works fine for other benchmark datasets",0,29,2019-12-27
+Why is every prediction for my MNSIT digit project wrong?,1,56,2019-12-25
+Understanding the role of layers and activation functions in Keras neural network,1,58,2019-12-23
+Compute loss for for multi-class classification when using cross validation,0,41,2019-12-16
+Uncentered digit for an MNIST dataset trained recognition,0,64,2019-12-16
+Training with an input size of 1 causes NaN in subsequent predictions,1,74,2019-12-14
+Low accuracy after training a CNN,3,85,2019-12-13
+Retraining a TensorFlow MNIST model results in NaN in predictions,0,33,2019-12-12
+"Neural network works on XOR, but not on MNIST dataset",1,41,2019-12-10
+CUDA_ERROR_OUT_OF_MEMORY: out of memory on GPU,0,436,2019-12-10
+Quantized input and output with TFLite in TensorFlow 2.0.0,1,135,2019-12-09
+subrandomsapler dataloader pytorch lengh does not seems right,0,18,2019-12-09
+How to select a specific number of each class from the MNIST dataset,0,153,2019-12-08
+IndexError: index 5 is out of bounds for dimension 0 with size 1 when i do training with Gradient Descent,0,92,2019-12-08
+how to convert mnist images to variables images and labels,2,77,2019-12-07
+"RuntimeError: output with shape [1, 224, 224] doesn't match the broadcast shape [3, 224, 224]",3,862,2019-12-06
+"Value Error : Only 2 class/es in training fold, but 1 in overall dataset. This is not supported for decision_function with imbalanced folds",0,114,2019-12-06
+MNIST - ValueError: too many values to unpack (expected 2),0,165,2019-12-06
+How to save augmented MNIST dataset to file?,0,78,2019-12-05
+How to load local MNIST files from computer,0,17,2019-12-05
+Wrong value of standard deviation,2,106,2019-12-04
+Receptive fields nerual network [duplicate],0,14,2019-12-03
+Error in downloading mnist data unknown url type: HTTPS,0,100,2019-12-01
+tensorflow mnist dataset not downloaded,0,50,2019-11-30
+How long does it take to train over the fashion-MNIST database?,0,104,2019-11-28
+Error when trying to load MNIST data with Tensorflow,0,271,2019-11-28
+pytorch: index out of bound for index bigger than batch size,0,93,2019-11-27
+mnist raising an error even after i've already installed it's module,0,28,2019-11-27
+Is it possible to Split MNIST dataset to odd and even numbers?,1,73,2019-11-25
+Inconsistent results when running the same neural network in TensorFlow vs Keras,1,96,2019-11-22
+Cross validation for MNIST dataset with pytorch and sklearn,3,"1,562",2019-11-22
+Python: What does it mean to “expose” the buffer interface? [duplicate],0,10,2019-11-21
+Output of a neural network,-2,43,2019-11-20
+Is the MNIST dataset in Keras little endian or big endian?,0,36,2019-11-17
+MNIST dataset with Sklearn,0,31,2019-11-17
+"Python MNIST dataset using sklearn, select specific digits",1,195,2019-11-16
+this following code is not run by GPU but my original code with mnist run with gpu?,0,25,2019-11-15
+SVC not resolving on MNIST,2,183,2019-11-14
+How can I visualize the filters of a specific layer in a feed forward network?,0,14,2019-11-14
+ModuleNotFoundError: No module named 'mnist',0,316,2019-11-12
+Why there is no explicit ordering in handwritten digit classification?,0,43,2019-11-09
+"TypeError: Value passed to parameter 'input' has DataType int64 not in list of allowed values: float16, bfloat16, float32, float64",0,89,2019-11-08
+How to save images properly classified with CNN?,1,46,2019-11-08
+Neural Network Cost Function Not Minimizing,0,30,2019-11-03
+How can I remove a specific digit from the MNIST dataset imported from keras?,0,173,2019-11-02
+How to fix EOFError while coding mnist keras,0,57,2019-10-31
+Reshaping arrays from MNIST with Keras,0,51,2019-10-31
+How to use increase dimension for MNIST dataset?,0,202,2019-10-30
+tf 2.0 AttributeError: module 'tensorflow' has no attribute 'get_default_session',0,593,2019-10-29
+How does the ReverseInt fucntion work when reading the mnist dataset using c++? [duplicate],0,20,2019-10-29
+Tensorflow - Value Error in model.fit - How to fix,1,"2,324",2019-10-29
+How can I change my data to make it work with loss: mean squared error?,0,87,2019-10-27
+How can I shuffle the labels of a dataset?,1,246,2019-10-23
+How can I preprocess my image so it can be processed by a SVM in the same way it processes the MNIST dataset,-1,47,2019-10-22
+Python 3.5 Tensorflow model ValueError,0,65,2019-10-21
+PIL Image.open display image reversely rotated,0,40,2019-10-21
+"ValueError: Error when checking input: expected flatten_input to have 3 dimensions, but got array with shape (50000, 32, 32, 3)",0,136,2019-10-20
+Convert MNIST database to .csv : ord() error occurred,1,70,2019-10-17
+How to improve digit recognition of a model trained on MNIST?,12,481,2019-10-15
+"MNIST Dataset, difference of grid search and not, about accuracy",0,37,2019-10-13
+Theano RNN training fails due to missing file in directory “/ais/gobi3/u/nitish/mnist/mnist.h5”,0,30,2019-10-12
+"error rgba = _colors_full_map.cache[c, alpha] except (KeyError, TypeError): # Not in cache, or unhashable",0,97,2019-10-06
+How to detect if a region of the image is empty? or How to detect the presence of a character or number in a squared image?,0,72,2019-10-06
+My python/sklearn/SVM is running endlessly,0,38,2019-10-05
+Deep learning for computer vision: What after MNIST stage?,0,71,2019-10-03
+Matconvnet vl_nnconvt does not increase of input size,0,10,2019-10-02
+How can I try real image to tensor flow CNN (train is done),0,19,2019-10-01
+Why is my neural network stagnating around a certain cost?,-3,86,2019-09-29
+Display Predicted Segmentation Output Data in Pyplot,0,75,2019-09-28
+What is the next step when having completed first neural network? [closed],-1,69,2019-09-28
+TensorFlow EOFError: Compressed file ended before the end-of-stream marker was reached,1,184,2019-09-28
+Unexpected dimensions with TensorFlow dataset,1,49,2019-09-28
+Converting Mnist array data to one-hot encoded arrays for each pixel value,1,76,2019-09-27
+Tensorrt wit MNIST sample proyect do not fails inference validation,0,78,2019-09-25
+Beginners MNIST sample form Tensorflow 2.0 tutorial,0,98,2019-09-24
+How Can I Load My Own Images Instead Of Mnist Dataset Images?,0,287,2019-09-23
+“cannot unpack non-iterable function object” : trying to run a code through tensorflow,0,151,2019-09-17
+Printing image from fashion_MNIST data gives colored image?,2,236,2019-09-15
+How to fix “ConnectionResetError: [Errno 104] Connection reset by peer” error?,0,"1,266",2019-09-13
+How do I create this numpy tensor?,0,31,2019-09-12
+AttributeError : 'Conv2D' object has no attribute 'get_config',0,183,2019-09-09
+Creating a dummy MNIST dataset,1,46,2019-09-09
+How to display all images from a single a multidimensional-array at once?,0,33,2019-09-08
+Image display after applying trained model to image in MNIST dataset,0,13,2019-09-05
+How to insert an array into existing multi-dimensional array by index? [Python],1,26,2019-09-05
+Is there an MNIST dataset where the digits are in colour?,1,458,2019-09-04
+Reshaping MNIST image to load in foolbox,0,21,2019-09-04
+How to fix “numpy.core._exceptions.MemoryError” while performing MNIST digit classifier?,0,337,2019-09-01
+Error when checking input: expected dense_8_input to have 2 dimensions,1,85,2019-08-31
+How to provide training data to TF_SessionRun from [c_api.h],2,260,2019-08-30
+dataset=fetch_mldata('MNIST original'),0,20,2019-08-29
+Pipeline for using Yolo for License Plate Recognition,0,49,2019-08-27
+Images not standardizing in Keras,1,111,2019-08-26
+my neural network is not learning cost is not changing,-1,60,2019-08-26
+How can I resize an image in python to gray scale low resolution like MNIST fashion data?,1,471,2019-08-25
+lack of understanding cnn result and utility,0,30,2019-08-22
+How to reshape input data correctly for training after it has been manipulated?,0,26,2019-08-21
+How to properly index the Accord.Datasets.MNIST namespace? [Nuget Package],0,16,2019-08-15
+MNIST model predicting test images incorrectly even though it had high training and testing accuracy,0,56,2019-08-14
+Neural Network's loss not reducing,0,35,2019-08-09
+Visualizing Manifold Learning MNIST digit data fails,2,74,2019-08-09
+Errno 13 - Permission denied from Jupyter Notebook on Windows 10,2,872,2019-08-08
+"How to select random MNIST digits of random quantity, whose labels do not repeat, while excluding a certain digit?",0,448,2019-08-01
+Extreme Overfitting CNN for MNIST,1,163,2019-07-30
+I need help to create mnist.pkl.gz from my own set of images,0,229,2019-07-29
+How to split MNIST dataset into multiple subsets for distributed nodes using Pytorch?,0,183,2019-07-26
+How to handle non-digit images in digit classifier using neural networks,1,210,2019-07-25
+Restricting the size of MNIST training data,1,58,2019-07-23
+Simple classification neural network outputting choosing same class for all,0,47,2019-07-22
+"Matlab neural network handwritten digit recognition, output going to indifference",0,59,2019-07-22
+How do I unroll this matrix into a vector?,1,60,2019-07-20
+how to properly convert my own image to MNIST test data,0,33,2019-07-19
+ValueError when trying to use MNIST/EMNIST letters dataset in machine learning program,-1,193,2019-07-16
+Why am I getting the following connectionreseterror for mnist = fetch_mldata?,0,130,2019-07-16
+How to import EMNIST letters to Keras from file,0,"1,010",2019-07-15
+Getting “InvalidArgumentError” in TensorFlow when working on MNIST data,1,96,2019-07-15
+How do you “import” image data for MNIST?,1,226,2019-07-14
+How to clean images to use with a MNIST trained model?,1,304,2019-07-12
+Getting AttributeError: __exit__ when working with Tensorflow and MNIST data,1,125,2019-07-11
+How to pass data from the MNIST database files to a C++ std::vector?,0,29,2019-07-09
+Importing dataset.mnist,0,186,2019-07-07
+Unusual difference in results of Keras model and my model built from scratch using numpy,0,27,2019-07-05
+"ValueError: Error when checking target: expected block5_pool to have 4 dimensions, but got array with shape (60000, 10)",0,695,2019-07-03
+Keras CNN Incompatible with Convolution2D,0,94,2019-07-01
+PyTorch - BCELoss: ValueError: Target and input must have the same number of elements,1,660,2019-06-30
+How to fix 'expected dense_2 to have 2 dimensions',0,90,2019-06-25
+How do I use an imported MNIST dataset?,1,246,2019-06-24
+Tensorflow : next_batch use without for loops,0,20,2019-06-24
+Issue when trying to read MNIST data set,0,68,2019-06-23
+What does matrix[x] for different x indicate?,-1,37,2019-06-20
+"TensorFlow Error: No gradients provided for any variable, check your graph for ops that do not support gradients",0,74,2019-06-18
+"How to create a similar image dataset of mnist with shape (12500, 50,50)",1,135,2019-06-16
+What is the best approach to rescale an image with a non-integer factor?,0,34,2019-06-14
+How to integrate own images into this machine learning code by Dr. Martin?,0,25,2019-06-14
+MNIST object has no attribute data,0,501,2019-06-08
+AttributeError: 'module' object has no attribute ' SeparableConv1D' while converting Keras to Core ML Model,0,325,2019-06-07
+Reasoning about MNIST database,1,23,2019-06-06
+Using proxy to download MNIST in python,0,650,2019-06-06
+Do I need to extract feature vectors from MNIST before using Kmeans,0,65,2019-06-04
+"How to resolve error “ValueError: Error when checking input: expected input_1 to have 4 dimensions, but got array with shape (12, 1)”",0,74,2019-06-01
+Suggestions for matching spoken and written digits with Machine Learning,-1,33,2019-05-30
+"Error defining an input shape in keras for (60000, 28, 28) array",0,699,2019-05-28
+why the confusion_matrix is different when I execute it again?,0,45,2019-05-27
+Opening .gz file for MNIST dataset,0,87,2019-05-22
+MNIST hand digits recognition task on Mac but not outputting the photos of the hand written numbers,1,34,2019-05-18
+"MLP model AI with Tensorflow outputs random stuff, need some code verification",0,24,2019-05-17
+Why does readBin() return different values even with the same parameters?,0,36,2019-05-16
+How do you open extracted images from the MNIST database,0,168,2019-05-15
+Fine tunning deep autoencoder model for mnist,1,414,2019-05-14
+Tuning number of hidden layers in Keras,1,"1,173",2019-05-14
+How to convert new images to fashion-mnist data set images format?,-1,375,2019-05-12
+MNIST training time in CPU,0,447,2019-05-12
+Trouble plotting MNIST digits,3,67,2019-05-06
+"My python code for MNIST dataset shows gigantic error values, what I am missing?",0,62,2019-05-01
+Why doesn't the Discriminator's and Generators' loss change?,-1,540,2019-05-01
+Why would large mini batches take longer to run?,0,330,2019-04-30
+"how to creat a subset of sample from original size of mnist data, while keeping all 10 classes",0,339,2019-04-30
+How to change the number of images to use for training and evaluating in tensorflow2.0?,3,451,2019-04-28
+MNIST generalisation to european digit handwriting,0,75,2019-04-22
+How can I convert the sigmoid activation function outputs to 0s and 1s?,-1,460,2019-04-21
+"Can I use cv2.cvtColor(image,cv2.COLOR_GRAY2RGB) on a batch of data?",0,509,2019-04-21
+Size mismatch for DNN for the MNIST dataset in pytorch,0,80,2019-04-20
+"what happens if i set input size to 32,32 mnist",0,260,2019-04-20
+Python - How to apply “bounding-box normalization and centering” algorithm for an image matrix?,1,193,2019-04-19
+Tensorflow MNIST dataloader giving interlinked numpy array,0,28,2019-04-18
+How to create a Pytorch Dataset from .pt files?,0,"1,271",2019-04-15
+MNIST: gets lower accuracy than the results I see on the internet,-3,48,2019-04-15
+Should I use softmax as output when using cross entropy loss in pytorch?,8,"3,133",2019-04-14
+Split handwritten number touching each other with openCV in Python for MNIST preprocessing,0,201,2019-04-11
+Is there any Capsnet Implementation on CIFAR10 that achieve better accuracy than common CNN?,3,257,2019-04-08
+Problems with float overflow in backpropagation,1,44,2019-04-08
+Neural Network MNIST number recognition,-3,40,2019-04-07
+Reading Mnist Data,0,49,2019-04-07
+Is SVM with the mnist dataset 100% accurate?,1,214,2019-04-06
+I want to build a multi-number classifier,0,39,2019-04-04
+How do i get the value of the neural network predicted for a single image? [closed],-3,61,2019-04-04
+"cannot reshape array of size 64 into shape (28,28)",1,"2,768",2019-04-01
+"ValueError: Error when checking target: expected dense_8 to have 4 dimensions, but got array with shape (37800, 10, 10)",0,133,2019-04-01
+tf.keras predictions are bad while evaluation is good,2,"1,114",2019-03-31
+How to convert 1D flattened MNIST Keras to LSTM model without unflattening?,0,259,2019-03-25
+tf.keras loss becomes NaN,4,"1,191",2019-03-24
+K-means clustering MNIST dataset,0,270,2019-03-22
+not able to predict using pytorch [MNIST],1,72,2019-03-21
+How to calculate FLOPS(floating point operation per seconds) of a standard neural network,2,299,2019-03-14
+Generate random 28 × 28 grayscale images drawing a digit,0,60,2019-03-13
+how to make my logistic regression faster,0,54,2019-03-13
+"Output and Broadcast shape mismatch in MNIST, torchvision",6,"4,887",2019-03-12
+how to save tensorflow model with tf.estimator,1,249,2019-03-11
+PyTorch Fashion-MNIST (ETL),1,251,2019-03-11
+jupyter notebook's kernel keeps dying when I run the code,2,"7,263",2019-03-10
+R-Image Plot/Visualization-MNIST dataset,0,189,2019-03-09
+tensorflow feature_column tries to reshape features,0,213,2019-03-09
+How to view the complete multidimensional array in Jupyter Notebook,0,125,2019-03-09
+How to freeze weights in certain layer with Keras?,4,"9,312",2019-03-08
+How to download MNIST images as PNGs,3,"3,050",2019-03-07
+How to write summary log using tensorflow for logistic regression on MNIST data?,1,90,2019-03-07
+tf.estimator - how to print accuracy on test set after every epoch?,0,"1,160",2019-03-04
+Trouble feeding data into tensorflow graph,0,22,2019-03-03
+Average image of MNIST,0,509,2019-03-03
+How to sort a dataset in pytorch,0,361,2019-03-03
+Reading MNIST database in java very slow,0,90,2019-03-02
+Pytorch torchvision MNIST download,0,691,2019-03-01
+Using REST with mnist to pull images,1,84,2019-03-01
+MNIST missing training labels,0,232,2019-02-24
+PyTorch why does the forward function run multiple times and can I change the input shape?,-1,735,2019-02-23
+How to prepare image dataset in MNIST format,1,89,2019-02-21
+Add channel to MNIST via transform?,0,310,2019-02-15
+Invalid dimension for image data in plt.imshow(),5,"5,344",2019-02-13
+How to fix 'No such file or directory' error while loading MNIST dataset,1,"3,089",2019-02-08
+autoencoder with tensorflow,0,79,2019-02-08
+Have I implemented implemenation of learning rate finder correctly?,0,946,2019-02-06
+MNIST - tf.estimator.DNNClassifier,0,152,2019-02-05
+Keras + mnist + test own images. Bad prediction,3,"1,130",2019-02-04
+How to select a subset of mnist training set,0,240,2019-02-02
+Scikit-learn - Cannot load MNIST Original dataset using fetch_openml in Python,3,"7,502",2019-01-25
+Logistic regression not converging in R,2,813,2019-01-24
+The choice of the optimal solver for logistic regression fitted to MNIST,1,930,2019-01-24
+Modification to Caffe VGG 16 to handle 1 channel images on PyTorch,2,341,2019-01-23
+Looking for input on an accuracy rate that is different than the exact deep learning compiled code,0,21,2019-01-22
+Change size of train and test set from MNIST Dataset,3,"2,152",2019-01-22
+Keras Neural Network accuracy only 10%,0,296,2019-01-20
+predicting my own image in cnn using keras,0,697,2019-01-19
+"How to fix “ValueError: Found input variables with inconsistent numbers of samples: [10000, 60000]”?",0,260,2019-01-18
+MNIST handwritten digit,0,148,2019-01-15
+How do I load MNIST data into a Google Colab Jupyter Notebook? [closed],2,"2,729",2019-01-13
+I am trying to replicate a code to run lda on my mnist data and get an error on using apply function,0,68,2019-01-12
+Unbelievably low accuracy on the validation set by Keras-Python on the mnist dataset,0,78,2019-01-07
+Error at visualization of mnist NN with keras,0,195,2019-01-04
+Why does the loss of this multi-layered perceptron not go below 1,0,31,2019-01-02
+What's the difference between keras.datasets.mnist and tensorflow.examples.tutorials.mnist?,1,247,2018-12-31
+Downloading only certain MNIST digits,1,164,2018-12-30
+How to improve the accuracy on this ios app that uses a coreml model,0,30,2018-12-27
+Bin zc.buildout,0,73,2018-12-19
+plotting MNIST samples,2,"1,397",2018-12-18
+Error in loading mnist dataset in Python 3,0,155,2018-12-17
+MNIST Dataset Structure,-3,639,2018-12-13
+"How to display single MNIST digits, each in one row?",0,408,2018-12-07
+Why should the input range of the MNIST dataset be between 0 and 1?,1,79,2018-12-07
+How to Obtain Top Errors from MNIST?,0,84,2018-12-06
+Unexpected increase in validation error in MNIST Pytorch,1,215,2018-12-06
+Machine Learning Classification with MNIST DATA FORMAT?,0,34,2018-12-05
+Can someone help me with writing a piece of code in Python regarding neural networks and the MNIST dataset?,0,93,2018-12-03
+Train SqueezeNet model using MNIST dataset Pytorch,1,666,2018-12-03
+tensorflow multi label classification mnist,-2,84,2018-12-01
+My keras neural network does not predict handwritten numbers,0,203,2018-11-29
+Cannot reproduce Michael Nielsen's neural network results with MNIST handwritten digits data,0,221,2018-11-29
+mnist train and test accuracy only 0.49,1,51,2018-11-26
+using tanh as activation function in MNIST dataset in tensorflow,0,234,2018-11-23
+Strange Loss function behaviour when training CNN,1,73,2018-11-17
+Downloading Fashion MNIST file in TensorFlow tutorial is taking forever,3,129,2018-11-15
+Input numerical arrays instead of images into Keras/TF CNN,1,177,2018-11-12
+How to use a different CNN without losing accuracy,1,51,2018-11-12
+How to combine Keras MNIST dataset with my own MNIST images?,-2,188,2018-11-11
+recognise misaligned pictures of handwritten digits with CNN,0,16,2018-11-08
+Getting different accuracy on test data in MNIST digit recognition in Keras,-1,181,2018-11-08
+Extract classes from MNIST dataset,0,683,2018-11-07
+Tensorflow cannot load mnist,0,141,2018-11-07
+Loss for classification using MNIST data stays around the same through every epoch,0,33,2018-11-06
+Cannot load MNIST data with the python-mnist package on Windows,0,"1,353",2018-11-04
+MNIST data download from sklearn datasets gives Timeout error,4,"6,027",2018-11-01
+Why does TensorFlow give me an error that I am feeding the incorrect shape and type into a placeholder?,0,38,2018-10-30
+mnist dataset. not predicting correctly on real life handwriting,1,296,2018-10-27
+Can't get accuracy in own digit image dataset for mnist,-1,155,2018-10-25
+Where are the images in the MNIST data array?,0,535,2018-10-23
+how to add more data with mnist data to train keras model,-1,281,2018-10-22
+MNIST dataset missing classes,-1,71,2018-10-21
+"How to get two tf.dataset from tf.data.Dataset.zip((images, labels))",3,"2,463",2018-10-21
+How to project each 28×28 image to a 7 × 7 image by averaging the grey tone in each 4 × 4 subsquare in MNIST data (R)?,1,129,2018-10-21
+MNIST GAN generators white area in middle surrounded by black,0,101,2018-10-15
+What does keras normalize axis argument does?,2,"4,256",2018-10-15
+Why do we use the name 'x' in the tensorflow-serving example?,0,57,2018-10-15
+Split mnist dataset with tf.data,1,752,2018-10-13
+loading fashion_mnist data takes too much time,1,740,2018-10-07
+TensorFlow IOError: No route to host,0,97,2018-10-03
+How to sort MNIST digits into each class label?,2,"1,122",2018-10-03
+How to calculate negative log-likelihoog on MNIST dataset?,1,"2,162",2018-09-25
+MNIST and SVHN resize,1,211,2018-09-23
+"Why is my neural network handwritten digital test set cross entropy correct, the output rate is always 10% correct compared to the label?",1,56,2018-09-19
+MNIST data denormalising does not give me back the same,0,160,2018-09-19
+Why does softmax provide always a probability of 1.0?,1,626,2018-09-18
+Performing MNIST example with mlpack,0,350,2018-09-18
+How to load custom dataset for feeding to CNN?,2,"1,172",2018-09-18
+Google Machine Learning Crash Course MNIST example training diverge on local PC,0,164,2018-09-15
+"C#, Accord, FileNotFoundException when try to download MNIST",1,93,2018-09-13
+ioutil ReadFile adds extra bytes,0,49,2018-09-09
+Periodic pattern in loss when training neural networks using pytorch,1,237,2018-09-07
+Simple LSTM training with return_sequences=True in Keras,0,870,2018-09-05
+Keras Sequential Dense input layer - and MNIST: why do images need to be reshaped?,4,"1,324",2018-09-05
+Understanding Weights shape of an LSTM cell with 2-D input tensor,1,291,2018-09-04
+keras error : Mnist on keras isnt working for me,0,57,2018-09-03
+"I was trying to run the demo provided in github, but none of them were working. failed to get the assembly reference",-1,223,2018-09-03
+implementing vectorized backpropagation not converging,0,115,2018-09-03
+Keras Accuracy not changing for MNIST Dataset,0,426,2018-09-02
+Handwritten digits recognition with keras,0,183,2018-09-02
+Is it possible to only load part of mnist or other tuples,-1,736,2018-08-31
+Accuracy on 1st epoch - MNIST Deep Learning example,-4,156,2018-08-28
+TensorFlow serving with mnist - python client with own image,1,171,2018-08-28
+Newbie: Keras with TensorFlow MNIST code sample: wrong predictions,1,405,2018-08-28
+Why the loss of NN doesn't change?,0,132,2018-08-26
+Exploding Gradient on fully connected layer,-1,139,2018-08-26
+Appropriate dimensions for the MaxPooling layer?,0,52,2018-08-24
+What is 'filename' in the code of Transfer Learning using MNIST dataset?,0,155,2018-08-23
+Logistic regression 100% test accuracy: What am I doing wrong?,0,938,2018-08-23
+Connection error while loading mnist dataset from keras Python,2,604,2018-08-21
+Handwriting neural network weights don't change,1,36,2018-08-16
+What does each number represents in MNIST?,0,47,2018-08-11
+Error while downloading MNIST data,1,190,2018-08-11
+ModuleNotFoundError: No module named 'official' error when running Tensorflow Official MNIST Model in a Colaboratory notebook?,1,470,2018-08-10
+"Python \ Tensorflow - Input to reshape is a tensor with 876500 values, but the requested shape requires a multiple of 3075",1,258,2018-08-09
+The fit() function in class ImageClassifier in Auto-Keras didn't run well,0,699,2018-08-03
+Keras: Error when downloading Fashion_MNIST Data,3,"1,733",2018-08-03
+How to represent image label as a vector for MNIST classification with tanh() activator?,-1,135,2018-08-02
+How to normalize training data for different activation functions?,0,"1,176",2018-08-02
+Tensorflow Loss and accuracy error Neural Network,0,183,2018-07-31
+Why does performance suffer when fitting a Random Forest model after reducing with PCA?,1,507,2018-07-29
+Error while loading MNIST in Jupyter -> ConnectionResetError: [Errno 104] Connection reset by peer [duplicate],1,947,2018-07-28
+TypeError: bad operand type for unary +: 'Variable' Tensorflow MNIST,0,366,2018-07-28
+"ValueError: Error when checking input: expected dense_16_input to have 2 dimensions, but got array with shape (60000, 28, 28)",0,609,2018-07-27
+Simple keras autoencoder with MNIST sample data not working,0,224,2018-07-25
+TensorFlow - Recognize specific number from MNIST (such as a 7),0,131,2018-07-23
+Why does this simple CNN suddenly fail?,0,47,2018-07-22
+"Keras : Error when checking target: expected dense_1 to have shape (10,) but got array with shape (1,) - MNIST",0,"1,422",2018-07-21
+How do I use tf.reshape()?,5,"8,705",2018-07-20
+Loss Not changing: Backpropagation in Python 3.6 with MNIST Dataset,1,108,2018-07-16
+Cannot get MNIST dataset through Tensorflow on Anaconda,0,691,2018-07-14
+Gradient vanishiment in a simple fashion MNIST classification task,0,56,2018-07-13
+Getting error in Keras while loading the model from load_model(),0,414,2018-07-11
+Python: Error when loading MNIST data,2,"3,989",2018-07-09
+Artificial Neural Network fails to recognize the image made by Paint,0,74,2018-07-09
+Deskewing MNIST dataset images using minAreaRect() of opencv,4,451,2018-07-09
+How do I select only a specific digit from the MNIST dataset provided by Keras?,5,"4,847",2018-07-06
+unsigned int overflow error in converting image to MNIST format,0,126,2018-07-05
+Importing MNIST dataset with Fortran,0,85,2018-07-04
+Increasing Cost Value at end of each epoch,0,254,2018-07-02
+loading EMNIST-letters dataset,2,"3,770",2018-07-01
+keras mnist.load_data() is superslow and throw an error after some times,1,753,2018-06-29
+Error is halting to a constant value in neural net for MNIST data,1,49,2018-06-28
+"Different behavior with torch.mean(data, 0) and torch.mean(data) for vector",1,"2,037",2018-06-28
+Extracting MNIST in tensorflow: zlib.error: Error -3 while decompressing data: invalid distance too far back,0,182,2018-06-27
+shape not as expected for my array,0,25,2018-06-22
+Low Accuracy On MNIST CNN with multiple GPUs,1,232,2018-06-21
+AttributeError: 'builtin_function_or_method' object has no attribute 'requires_grad',3,"2,995",2018-06-20
+TENSOR FLOW CNN MNIST EXAMPLE: HOW BATCH SIZE WORKS IN THE MODEL,0,487,2018-06-19
+Tensorflow - NaN loss for handwriting recognition,0,238,2018-06-19
+Tensorflow tutorial + How to extract classes and probability from generator object,0,224,2018-06-14
+ResourceExhaustedError when trying to train with MNIST,-2,447,2018-06-13
+Sharing GPU to multiple containers in Kubernetes or Fractional GPU Resource Request,0,"1,505",2018-06-13
+Difference between training and testing accuracy+ Tensorflow tutorial,0,633,2018-06-12
+How to print the value of the output Tensor in TensorFlow?,0,263,2018-06-11
+Error: from tensorflow.examples.tutorials.mnist import input_data,6,"7,344",2018-06-11
+Why my back propagation doesn't work ? (Trying to code a neural net with 2 layers from scratch for digit recognition),0,113,2018-06-11
+Extend mnist database,1,403,2018-06-04
+How to load MNIST via TensorFlow (including download)?,0,"10,242",2018-06-03
+Neural Network With One Hidden Layer Cannot Be Trained,2,56,2018-06-03
+how to show every class accuracy for every epoch in keras,2,612,2018-05-31
+Tensorflow export estimators for prediction,1,693,2018-05-30
+Changing shape of MNIST for tensorflow CNN,2,222,2018-05-27
+Differing results for MNIST autoencoder due to different placement of activation function,2,139,2018-05-23
+How to make prediction from a trained model of mnist using keras?,0,235,2018-05-22
+Keras TF can't get score up on MNIST,0,31,2018-05-14
+Splitting up digits in images,1,"1,387",2018-05-14
+Tensorflow can't reconcile manually created model with the one using layers api,3,52,2018-05-13
+How to use a portion of the data?,-1,115,2018-05-13
+ModuleNotFoundError: No module named 'tensorflow.examples',5,"18,276",2018-05-13
+Unable to get accuracy beyond 30% for MNIST expert example Tensorflow,0,23,2018-05-12
+How to estimate the learning time of ML algorithms?,0,102,2018-05-10
+Tensorflow save and load model/estimator,0,423,2018-05-06
+Tensorflow - how to import MNIST database,2,353,2018-05-06
+I'm getting a 0% accuracy for this keras neural network,0,773,2018-05-06
+Tflearns .fit() method with numpy.ndarrays causing TypeError,0,20,2018-04-30
+Downscale image for MNIST,3,448,2018-04-30
+Pillow: How to show MNIST data?,2,658,2018-04-28
+Restoring saved model,0,40,2018-04-28
+How do I merge two trained neural network weight matrices into one?,8,"1,852",2018-04-23
+MNIST - Vanilla Neural Network - Why Cost Function is Increasing?,0,112,2018-04-23
+tf.argmax() returning unexpected results,1,264,2018-04-19
+Training of Conv2D model stuck [MNIST dataset],0,59,2018-04-18
+Trouble with fine tuning my neural network for digit recognition with SGD. I can't seem to get better than 87% on the test data,1,35,2018-04-17
+Couldn't import input_data for 'MNIST' data set,0,688,2018-04-17
+Understanding next step after saving TensorFlow model,0,64,2018-04-16
+How can we import MNIST images instead of dataframe.?,1,929,2018-04-15
+Tensorflow MNIST Sample: Code to Predict from SavedModel,0,111,2018-04-13
+Preprocessing an image for MNIST OCR,5,"1,306",2018-04-12
+MNIST Matplotlib: showing color,2,630,2018-04-12
+Tensorflow MNIST Estimator: batch size affects the graph expected input?,6,554,2018-04-09
+Python 3 - FileNotFoundError: [Errno 2] No such file or directory: '../data/mnist.pkl',1,"4,298",2018-04-09
+Cannot print confusion matrix for model,0,784,2018-04-08
+augment mnsit dataset tensorflow,0,96,2018-04-07
+MNIST: Trying to obtain high accuracy,1,845,2018-04-06
+TensorFlow freeze_graph: required positional argument ‘unused_args’,4,"2,032",2018-04-06
+"MNIST IOerror, Datasets aren't loading using Tensorflow without GPU support",0,66,2018-04-04
+Define variables to load MNIST images app,0,50,2018-04-02
+Tensorflow returns too many predictions,2,105,2018-04-02
+why does my Neural network not work with MNIST dataset?,1,108,2018-04-02
+select random images from MNIST dataset,0,"1,803",2018-04-01
+Where can I download the larger resolution MNIST database?,-1,267,2018-04-01
+"Predictions using Tensorflow, MNIST",1,50,2018-03-31
+Mnist data image and label mismatch,1,334,2018-03-31
+Error importing mnist dataset from tensorflow and ssl certificate error anaconda,0,"3,728",2018-03-30
+Test loss seems to be increased after 20 epochs,0,"1,505",2018-03-27
+calculating gradient over biases in neural network backpropagation,1,157,2018-03-23
+Dataset of MNIST not found from Tensorflow,0,266,2018-03-23
+Reading MNIST Database,5,"2,416",2018-03-21
+Feature and time steps in LSTM MNIST dataset,1,515,2018-03-19
+Train MNIST with AlexNet,0,549,2018-03-15
+how do i get probabilities for image recognition,1,97,2018-03-15
+How to train a CNN properly to predict well on unseen data?,2,195,2018-03-12
+Index Error - Python - EMNIST dataset,1,151,2018-03-12
+Gradient Descent optimizer TensorFlow,0,465,2018-03-10
+Tensorflow: Batching whole dataset (MNIST Tutorial),0,916,2018-03-09
+Tensorflow download_and_convert_mnist_m.py No such file or directory: '~/dsn_data/mnist_m/mnist_m_train',-2,150,2018-03-08
+Keras conv2d input shape error,0,922,2018-03-07
+'rnd' error - scikit learn tutorial for multioutput classification,0,113,2018-03-05
+Tensorflow data processing using UCI Dataset,0,362,2018-03-04
+"expected conv2d_1_input to have shape (28, 28, 1) but got array with shape (1, 28, 28)",3,"7,415",2018-03-01
+Why my ConvLSTM model can not predict?,1,566,2018-03-01
+Error with tensorflow mnist.py code,0,257,2018-03-01
+How could I feed a custom image into this model?,0,92,2018-03-01
+How can I capture whats on the canvas on Tkinter to use on a Neural Network?,0,96,2018-02-28
+I get the same wrong output every time I try to make single image predictions in the example tf.layers. What am I doing wrong?,0,516,2018-02-27
+First training epoch is very slow,3,876,2018-02-27
+Loading own dataset like MNIST images,-1,871,2018-02-26
+Importing images like MNIST,0,138,2018-02-26
+"ValueError: cannot reshape array of size 2322118 into shape (60000,784)",0,918,2018-02-25
+How to get predictions for one image from the MNIST with TensorFlow?,2,"1,244",2018-02-25
+"MNIST data - Cannot feed value of shape (1000, 784) for Tensor 'Placeholder:0', which has shape '(5500, 784)'",0,298,2018-02-25
+Labeling Dataset for deep machine learning,0,"1,793",2018-02-24
+Load the MNIST digit recognition dataset with R and see any results,0,587,2018-02-22
+How to solve: “ValueError: Validation size should be between 0 and 0. Received: 5000.”?,2,379,2018-02-21
+Error in the first step of running this example: TensorFlowOnSpark on a Spark Standalone cluster,1,181,2018-02-20
+"MNIST with Tensorflow, ValueError",0,309,2018-02-19
+Concatenate 2d list in python,-3,"1,861",2018-02-19
+"expected dense_218_input to have 2 dimensions, but got array with shape (512, 28, 28, 1)",0,169,2018-02-18
+classification mnist binary class,0,"1,011",2018-02-17
+High training accuracy but low prediction performance for Tensorflow's official MNIST model,0,472,2018-02-17
+Problems with high/low-endian integers while reading the MNIST dataset in java,0,120,2018-02-16
+How to test a single image on tensorflow MNIST model?,-1,"1,037",2018-02-16
+how to add another input to MNIST dataset [closed],-1,175,2018-02-15
+GradientDescentOptimizer is giving less accuracy (~0.10) compared to AdamOptimizer(0.95) in convolutional neural net in Tensorflow,1,55,2018-02-07
+MNIST-like issue. Convolutional Neural Network,1,91,2018-02-07
+"MNIST dataset, what is this condition?",1,41,2018-02-03
+Predicting self draw number with keras,1,112,2018-01-28
+Show image from fetched data using openCV,-1,164,2018-01-28
+Problems with PyTorch MLP when training the MNIST dataset retrieved from Keras,1,711,2018-01-27
+ID3 classifier to classify MNIST handwritten digits dataset,1,87,2018-01-25
+How MNIST really work?,2,349,2018-01-25
+Simple Keras neural network isn't learning,3,"1,649",2018-01-22
+Data type conversion error when running test on MNIST in Tensorflow,1,236,2018-01-21
+Ran out of GPU memory when allocating 0 bytes,1,391,2018-01-20
+Tensorflow model for OCR arabic,2,"3,722",2018-01-20
+How to import pre-downloaded MNIST dataset from a specific directory or folder?,12,"26,600",2018-01-15
+"ValueError: Cannot feed value of shape (100, 1) for Tensor 'Placeholder_1:0', which has shape '(?, 10)'",1,382,2018-01-14
+Not understanding code used in TensorFlow MNIST guide,1,89,2018-01-14
+Convolutional neural network outputting equal probabilities for all labels,1,522,2018-01-12
+Predicting value for mnist data set on your own test images,0,264,2018-01-11
+Unable to import data in matlab from a unlabelled file format,0,156,2018-01-10
+i have trained MNIST with accuracy 99.2% but with wrong predictions,1,639,2018-01-09
+Dense layer dimension error even after using flatten,1,142,2018-01-08
+How to exclude a class from MNIST in TensorFlow?,1,752,2018-01-05
+TensorFlow estimator number of classes does not change,3,929,2018-01-05
+determine the Keras's Mnist input shape,2,"2,214",2017-12-31
+Speed of Logistic Regression on MNIST with Tensorflow,0,459,2017-12-30
+How to install 'mnistdigits' module?,0,56,2017-12-28
+How to reduce weight's bit or change to lower bit's type in tensorflow by using MNIST?,3,"1,193",2017-12-27
+Python MNIST Digit Data Testing Failure,2,118,2017-12-26
+how to user tensorflow MNIST mode for inference,0,332,2017-12-22
+Use mnist with tensorflow input_data but without downloading the dataset,0,736,2017-12-18
+1-hidden layer neural network with rectified linear units,1,335,2017-12-17
+How to do transfer learning for MNIST dataset?,6,"3,624",2017-12-17
+How can i use my mnist trained model to predict an image,1,297,2017-12-16
+"How can I get mnist data from DataSetlterator, DL4J in Android?",0,160,2017-12-15
+index 11513 is out of bounds for axis 0 with size 10000,-1,"3,852",2017-12-15
+Wrong predictions with own MNIST-like image data in trained CNN model,1,"1,629",2017-12-14
+Why doesn't model.predict() work well on novel MNIST-like input?,0,62,2017-12-13
+Reshape arrays from MNIST,0,"1,889",2017-12-08
+Change number of classes of MNIST Tensorflow,1,535,2017-12-07
+Python deep learning with theano the basic program of mnist,0,262,2017-12-06
+"when using CNN ,to_categorical()wrong [closed]",-2,83,2017-12-06
+CUDA_ERROR_LAUNCH_FAILED when running TensorFlow examples,0,678,2017-12-02
+Using arrays as labels on MNIST data in chainer,1,109,2017-12-01
+Tensorflow MNIST using csv: low accuracy,2,431,2017-12-01
+Tensorflow gradients causing contractive autoencoder cost doesn't converge,0,650,2017-11-30
+Structural idea for CNN with MNIST dataset,1,138,2017-11-29
+Using my own data in tensorflow for neuralnetwork implementation,0,498,2017-11-29
+Why do i get so bad accuracy in mnist digits recognition,0,196,2017-11-29
+What is the difference between load_digits() and fetch_mldata(“MNIST Original”),3,"1,112",2017-11-29
+Error ord() in python [closed],-1,154,2017-11-29
+Implementing momentum weight update for neural network,0,633,2017-11-27
+Implementing a tutorial for Tensorflow and SaaK Transform: Handwritten Digits Recognition,0,201,2017-11-26
+"You must feed a value for placeholder tensor 'Placeholder' with dtype float and shape [?,784] for MNIST dataset",6,"5,428",2017-11-26
+The performance of operation fusion using TensorFlow XLA-JIT on CPU backend,4,491,2017-11-24
+Image of Mnist data Python - Error when displaying the image,0,503,2017-11-22
+NotImplementedError: invalid type in assignment,0,172,2017-11-22
+could not broadcast input array,0,657,2017-11-21
+KeyError: “The name 'predictions/accuracy/Mean:0' refers to a Tensor which does not exist…”,2,668,2017-11-20
+Can't load 'mnist-original' dataset using sklearn,4,"10,184",2017-11-16
+MNIST Classification: low accuracy (10%) and no change in loss,0,418,2017-11-16
+"ERROR: LoadError: Tensorflow error: Status: Incompatible shapes: [16] vs. [16,9]",1,27,2017-11-15
+What is the key feature in MNIST Dataset that is used to classify images,-1,773,2017-11-14
+MethodError: no method matching reduce_sum(::TensorFlow.Tensor{Float32}; reduction_indices=[2]),1,58,2017-11-13
+python How to split train set by group subset each group dataset by %,-2,385,2017-11-13
+SVM on MNIST data with PCA using tensorflow,1,"1,545",2017-11-10
+Dataset of Russian handwriting characters,2,414,2017-11-08
+Tensorflow MNIST tutorial code error,0,263,2017-11-08
+Tensorflow MNIST classification on a trained model,0,256,2017-10-28
+How to extract only characters from image?,5,"2,855",2017-10-27
+Logistic regression in apache spark mllib - mnist,0,269,2017-10-25
+Meaning of training loss and validation loss,1,339,2017-10-24
+Tensorflow tf.matmul in MNIST tutorial,0,188,2017-10-23
+run() got an unexpected keyword argument 'feed',0,658,2017-10-22
+TensorFlow MNIST for Experts low accuracy,0,144,2017-10-21
+Python SSL Certification Problems in Tensorflow,4,"1,505",2017-10-20
+How to correctly implement backpropagation for machine learning the MNIST dataset?,4,"1,474",2017-10-20
+how to change the format of the return value of 'mnist.load_data()' to 'mnist_train.csv' in Keras?,0,429,2017-10-20
+Read emnist database in C#,1,448,2017-10-20
+Aggregating output classes into one category in Theano/Keras,0,35,2017-10-18
+Tensor Flow - using saved model won't return correct results,0,283,2017-10-17
+TensorFlow Training CNN on Custom Images,0,940,2017-10-16
+Is the torchvision MNIST loader not working properly or am I doing something wrong?,0,91,2017-10-15
+TensorFlow: why use fp result y rather than ExponentialMovingAverage fp result average_y as cross_entropy's parameter?,1,38,2017-10-15
+Best DNNClassifier Configuration for MNIST study in TensorFlow,0,"1,121",2017-10-13
+(MNIST - GAN) Discriminator and Generator error dropping close to zero after first iteration,0,517,2017-10-13
+"URLError<urlopen error [WinError 10054] in Tensorflow when run “mnist = input_data.read_data_sets(”MNIST_data/“, one_hot=True)”",0,457,2017-10-12
+Neural Network MNIST,2,418,2017-10-09
+NIST19: convert images into .csv (Python),1,405,2017-10-09
+Spyder Proxy Settings,2,"5,945",2017-10-05
+Why do I get “nan” for Loss when I implement MNIST tensorflow code to my dataset,0,307,2017-10-04
+How to remove borders from images taken from document (like MNIST handwritten chars)?,2,681,2017-10-04
+Making your own set of MNIST data (identical to MNIST format),5,"3,151",2017-10-03
+fail to run program on anaconda prompt,0,75,2017-10-01
+Handwriting Recognition of Floats using Convolutional Neural Network,1,131,2017-09-29
+'Cannot interpret feed_dict key as Tensor: Can not convert a int into a Tensor' when using probabilities.eval?,1,"1,150",2017-09-24
+"In TensorFlow, why a m*n matrix can add n * 1 matrix?",0,415,2017-09-21
+"Python - TensorFlow/tf ValueError: Cannot feed value of shape (100, 784) for Tensor 'Placeholder:0', which has shape '(?, 28, 28, 1)'",0,891,2017-09-20
+'ImportError: DLL load failed' when fetching MNIST original via sklearn,1,384,2017-09-18
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Incompatible shapes: [10] vs. [10000],0,385,2017-09-17
+MNIST saving images from CSV using matplotlib,0,873,2017-09-17
+Randomly augmenting images using Keras,4,593,2017-09-15
+"Training on MNIST, detecting sequences of numbers?",0,864,2017-09-13
+neural network for mnist keep guessing 1 digit,1,43,2017-09-13
+Test a MNIST number,0,107,2017-09-12
+I use CNN to classification MNIST with TensorFlow. But I want to read the dataset with TFRecordrs. However I only get 10% accuracy,-3,137,2017-09-07
+python - Cropping an image of handwritten digit,2,951,2017-09-06
+In tflearn how can I add bias at start for mnist based model,0,23,2017-09-05
+modifying softmax function in tensorflow,0,467,2017-09-03
+Logistic Regression implementation with MNIST - not converging?,2,"2,394",2017-08-30
+InvalidArgumentError while coding MNIST tutorial,0,95,2017-08-29
+Keras encoder - decoder for MNIST ->new images,0,284,2017-08-26
+Reshaping and applying rotations to the MNIST dataset,1,"1,154",2017-08-25
+Failed to get the value of tensor,2,54,2017-08-25
+how to output loss variable of model in tensorflow?,0,52,2017-08-25
+Session object not specified in Tensorflow MNIST tutorial,0,129,2017-08-25
+All weights are all zero (not changing) in MNIST sample,1,499,2017-08-25
+neural network - Predict MNIST digits only with one neuron in the output layer,1,294,2017-08-24
+Failed to unpack MNIST data set using python3,0,500,2017-08-24
+What image format are MNIST images?,0,"1,175",2017-08-22
+Where do Tensorflow in Python store the MNIST data for its tutorial?,0,410,2017-08-22
+Testing image on Tensorflow Mnist Model using checkpoints,2,815,2017-08-20
+How to reshape csv file into matrix form for Digit Recognition Machine Learning,0,390,2017-08-19
+Issues with implementing TensorFlow's MNIST example without feed_dict using a queue,0,91,2017-08-17
+"How can I merge the train, test and validation set of mnist in tensorflow for AutoEncoder training?",0,688,2017-08-17
+"When running “ python mnist_with_summaries.py ”, it has occurred the error",1,217,2017-08-17
+Why (MNIST trained) model is not good at digits which not in the center of the picture,1,402,2017-08-08
+prediction of MNIST hand-written digit classifier,3,533,2017-08-07
+Tensorflow - Incompatible Shape,1,788,2017-08-03
+How can I test the Deep MNIST for Experts code on a single image?,1,100,2017-08-02
+Why does recognition rate drop after multiple online training epochs?,3,93,2017-08-01
+MNIST tensorflow tutorial,0,168,2017-07-28
+How can I improve this neural net over MNIST?,0,127,2017-07-28
+What am I doing wrong reading in the MNIST data set?,1,"1,177",2017-07-27
+Model in Tensorflow is not Working need review of the code not sure whats going Wrong,0,24,2017-07-26
+Usage of SGDClassifier on MNIST,0,576,2017-07-24
+Keras - Save image embedding of the mnist data set,10,"5,209",2017-07-23
+"when I use tensorflow to implement a GAN, some value error",0,544,2017-07-22
+tf.nn.conv2d does not work on my code. but tf.layer.conv2d does. want to know difference,-1,207,2017-07-21
+my MNIST model gives me accuracy under 15%. It does not work well,0,113,2017-07-21
+Tensorflow MNIST - accuracy of particular test image,0,378,2017-07-20
+How can I invert BLACK and WHITE (or grayscale) images in tensorflow? (black <->white change),0,"1,803",2017-07-20
+Pickle EOFError .pkl keras with python,1,324,2017-07-18
+What's the purpose of “FLAGS” in tensorflow,4,"4,676",2017-07-18
+Batch training uses sum of updates? or average of updates?,5,"1,169",2017-07-18
+All Outputs Going to Zero MNIST NumPy Solution with Simple Neural Net,0,165,2017-07-15
+Keras: Chance-level performance,0,80,2017-07-14
+neural network for classification - generalization,0,47,2017-07-14
+"tensorflow multi-gpu mnist example, loss does not decrease",0,426,2017-07-14
+Read multiple integers (and save them in a file) with TensorFlow (Python),1,191,2017-07-12
+Resize MNIST in Tensorflow,1,"2,973",2017-07-11
+Tensorflow ValueError: Too many vaues to unpack (expected 2),2,"2,382",2017-07-10
+TensorFlow Model Restore ValueError - At least two variables have the same name,2,"3,422",2017-07-08
+TensorFlow example but with middle layer,0,124,2017-07-07
+Python - Converting PNG/JPG image to best form for MNIST digit classification,2,"1,286",2017-07-07
+"MNIST: x is just a placeholder , How is data from MNIST going into the placeholder x?",1,333,2017-07-06
+How to centralize and resize digits using opencv?,2,"1,140",2017-07-04
+How to get the value from each output-node during eval MNIST testdata in TensorFlow?,1,193,2017-07-03
+"Testing image on MNIST model , Python TensorFlow",0,"1,484",2017-07-03
+Loading MNIST dataset from Keras JS in node,0,279,2017-07-01
+Classifying non-MNIST image after learning MNIST,3,879,2017-06-29
+"How to get the same loss value, every time training a CNN (MNIST data set), with TensorFlow?",2,531,2017-06-27
+Load MNIST Dataset in Sklearn-Friendly Format,0,667,2017-06-27
+How to analyse and interpret features learned by a RBM?,1,33,2017-06-26
+Error when reading data from TFRecord file using string_input_producer,0,492,2017-06-26
+Tensorflow: assign multiple variable values in single run without recomputation of other expressions,2,"2,764",2017-06-24
+How to define a fix sequence of MNIST training images with TensorFlow?,0,104,2017-06-23
+Unable to generate accurate result from mnist dataset,0,80,2017-06-22
+MNIST ValueError when checking target in Keras,0,538,2017-06-21
+How to subset a MNIST dataset?,0,"1,400",2017-06-19
+How to use neural nets to recognize handwritten digits,3,"2,646",2017-06-18
+Why do we flatten the data before we feed it into tensorflow?,4,"2,138",2017-06-15
+How to implement next_batch() function for custom data in python,0,"3,070",2017-06-15
+Create Alexnet for mnist in tensorflow,2,"2,375",2017-06-14
+How can I achieve better than 80% on the test set,-1,107,2017-06-09
+"tensorflow, how to do tf.Print in mnist for ml beginners",0,317,2017-06-09
+Cannot run keras,1,"1,038",2017-06-08
+How to use a pretrained model with Tensorflow?,0,723,2017-06-02
+Using MNIST TensorFlow example code for training a network with my own image dataset,2,732,2017-06-01
+FailedPreconditionError when saving the model in Tensorflow,1,269,2017-05-31
+ValueError: Can't handle mix of multilabel-indicator and binary Issue with GridSearchCV and KerasClassifier,1,584,2017-05-27
+How to visualize loss and accuracy the best?,1,"1,988",2017-05-26
+How to save trained model in tensorflow?,4,"4,848",2017-05-26
+Does work Batch normalization when Batchnormalization=false to true in Matconvnet,0,101,2017-05-25
+MNIST hidden layer intuitive understanding,0,195,2017-05-25
+Tensorflow Slim restore model and predict,2,"3,562",2017-05-23
+MNIST training error in for loop,-1,523,2017-05-22
+MNIST attribute-error while loading dataset,1,"2,590",2017-05-22
+Declaring a function to calculate activation of a layer | How does Tensorflow version work and mine doesn't?,-1,81,2017-05-21
+Tensorflow - building a CNN model as described in the tutorial,0,151,2017-05-13
+Tensorflow: Visualizing trained weights for linear classifier on MNIST dataset,1,481,2017-05-13
+Tensorflow argmax() for TFLearn?,0,139,2017-05-11
+MNIST handwritten digits dataset - an already decoded version?,3,382,2017-05-10
+UnboundLocalError happened,0,135,2017-05-08
+Tensorflow linear classifier not training,1,348,2017-05-07
+Missing 1 required positional argument: 'test_y',0,"1,110",2017-05-07
+"Dimensions must be equal, but are 64 and 32 for 'Conv2D_2' (op: 'Conv2D') with input shapes: [?,7,7,64], [5,5,32,64]",0,"2,791",2017-05-06
+ImportError: No module named examples.tutorials.mnist,2,"11,045",2017-05-05
+use tensorflow mnist can't recognize my number,1,190,2017-05-03
+Having problems in loading MNIST database,0,962,2017-05-03
+"ValueError: Cannot feed value of shape (64,) for Tensor 'Placeholder_1:0', which has shape '(?, 10)'",1,"9,396",2017-04-28
+TensorFlow - Training accuracy not improving in MNIST data,1,734,2017-04-26
+Tensorflow - assigning placeholders values into variables,1,"3,058",2017-04-26
+Deploy and use LeNet on Matlab using MatCaffe,0,308,2017-04-26
+TensorFlow MNIST DCGAN: how to set up the loss function?,0,"1,258",2017-04-25
+Poor accuracy at mnist csv data in tensorflow,0,541,2017-04-25
+Tensorflow model for OCR,16,"29,864",2017-04-25
+Cannot set output dim of Conv2D in keras,0,666,2017-04-25
+Tensorflow MNIST tutorial - Test Accuracy very low,3,906,2017-04-24
+Deskew MNIST images,0,"1,556",2017-04-23
+Adding more layers with TensorFlow Error,0,131,2017-04-22
+Can't load mnist dataset on google cloud ml,0,369,2017-04-22
+Getting terribly low accuracy when building my CNN for the mnist dataset,2,"1,132",2017-04-22
+Error in neural network processing MNIST not descending,2,92,2017-04-21
+Tensorflow weight initialization,13,"19,065",2017-04-19
+Code error using MNIST example of deeplearning4j,0,433,2017-04-19
+Tensorflow passing image to simple MNIST Data Model,1,615,2017-04-18
+Reshaping Target Array size for 3DCNN on MNIST dataset - ValueError,0,"1,066",2017-04-17
+Using a subset of the training data to find parameters,1,96,2017-04-15
+convert 2D data.frame into 3D Array,0,"1,547",2017-04-09
+Keras the simplest NN model: error in training.py with indices,1,766,2017-04-08
+How to resize 28x28 pixels image to 20x20 pixels?,0,767,2017-04-07
+MNIST handwritten digit recognition with Keras,2,421,2017-04-06
+IOError for import MNIST datasets,1,819,2017-04-06
+tensorflow mnist example accuracy does not increase,3,677,2017-04-05
+Mnist recognition using keras,12,"1,220",2017-04-05
+"TensorFlow ValueError: Variable does not exist, or was not created with tf.get_variable()",5,"8,462",2017-04-03
+Getting weird values on predicting MNIST dataset,1,293,2017-04-02
+What is the difference between image classification and image recognition (in the context of face recognition)?,0,"2,549",2017-04-01
+How to concatenate numpy arrays into a specific shape?,0,402,2017-04-01
+MNIST Tensorflow example,0,157,2017-03-31
+Representing the learned weights of MNIST using Tensorflow graphically,3,"1,561",2017-03-27
+why I can't get mnist datasets using scikit learn in python,0,772,2017-03-27
+How do I test my own hand written digits or one of data from MNIST dataset using CLI,3,740,2017-03-26
+Tensorflow with MNIST trained model always prints the wrong number,2,132,2017-03-25
+Predict numbers with end-to-end system on concatenated MNIST images using Tensorflow,0,116,2017-03-24
+Tensorflow - How to use my own image file after training,1,765,2017-03-23
+Loss of Accuracy when adding a second hidden layer on MNIST dataset using Back propagation,0,121,2017-03-21
+Trouble reading mnist with tensorflow,1,400,2017-03-21
+What is the correct way to calculate error for MNIST,0,449,2017-03-21
+Tensorflow - About mnist.train.next_batch(),2,"10,147",2017-03-20
+"Tensorflow - Visualizing MNIST convolutional neural network, kernels never change",1,275,2017-03-20
+Why does this line produce an error?,1,"1,567",2017-03-19
+Handwritten mathematical operators Database,0,946,2017-03-18
+Image normalization,0,551,2017-03-16
+TensorFlow get accuracy of a single prediction,0,974,2017-03-16
+Resize MNIST Data on Tensorflow,1,"2,047",2017-03-14
+svm.SVC predict giving different results for digit recognition,0,169,2017-03-11
+Error with tensorflow 1.0 mnist code,5,"3,220",2017-03-09
+How can I generate a proper MNIST image?,0,"1,697",2017-02-26
+Is there any way to only import the MNIST images with 0's and 1's?,0,78,2017-02-25
+Where is the working directory?,0,888,2017-02-24
+Tensorflow: Reading MNIST Data in Python 3.5,2,"1,119",2017-02-22
+Display MNIST image using matplotlib [duplicate],8,"32,396",2017-02-20
+"Same code on mnist from two different data sources, but very different results",1,69,2017-02-20
+Vectorizing MNIST KNN in Matlab,1,280,2017-02-19
+Select specific MNIST classes to train a neural network in TensorFlow,0,"1,282",2017-02-18
+Keras custom accuracy metric for list output,1,629,2017-02-18
+TensorFlow LSTM to classify MNIST - understanding changing number of timesteps,2,"1,329",2017-02-17
+"TensorFlow, Implementing Solution",0,89,2017-02-14
+Converting Mnist dataset in image format,1,"3,025",2017-02-13
+Debugging a Neural Network,12,"1,188",2017-02-09
+TypeError: only integer scalar arrays can be converted to a scalar index,20,"92,808",2017-02-09
+Entropy of a MNIST image with Tensorflow,2,"1,706",2017-02-08
+Keras for multiple digit recognition,3,"1,186",2017-02-07
+Adding more layers to tensorflow MNIST tutorial makes accuracy drop,1,"1,236",2017-02-02
+Understand the example for Simple 3-layer MLP using MXNet in Julia,1,164,2017-02-01
+Tensor Flow MNIST Evaluating predictions,1,667,2017-01-30
+How to convert an arbitrary dataset to the siamese network dataset format in caffe?,1,882,2017-01-27
+how to use MNIST datast on linux using tensorflow,0,277,2017-01-26
+Python - How to use MNIST to predict a np.darray with different shape,0,82,2017-01-25
+Data changing between calls in Tensorflow,2,72,2017-01-24
+Tensor Flow - low accuracy on CNN Mnist Data set / How to batch accuracy calculations,0,"1,079",2017-01-18
+Python can't import existing TensorFlow module,0,"1,729",2017-01-17
+Splitting MNIST data tensorflow,0,"1,276",2017-01-15
+What is the use of a rectified linear function in a basic neural network,1,74,2017-01-14
+What is the replace for softmax layer in case more than one output can be activated?,4,"3,288",2017-01-11
+How can I use Mnist dataset in MapReduce project?,1,94,2017-01-04
+how to change softmaxlayer with regression in matconvnet,1,450,2016-12-23
+Feeding image into tensorflow,1,373,2016-12-20
+"Dimensions of this neural network i.e (4 inputs, 2 hidden layer with X neurons each, etc)",-1,622,2016-12-19
+Error in building mean image file(Caffe),2,212,2016-12-19
+"Why we need `int64` for MNIST labels in a loss function , from tensorflow?",2,259,2016-12-15
+Tensorflow crashes with CUBLAS_STATUS_ALLOC_FAILED,20,"19,899",2016-12-13
+Windows Tensorflow with Python unable to read mnist data due to permissions,1,728,2016-12-10
+How to fix tensorflow tutorial (mnist for beginner) error?,0,456,2016-12-09
+Unable to download MNIST data - tensorflow tutorial,0,451,2016-12-09
+Understanding the Tensorflow MNIST tutorial - Is the input x a column matrix or an array of column matrices?,3,683,2016-12-06
+Going from a 3-Layered NN to Deep Learning with ReLU,0,30,2016-12-06
+Layer probability always 1,0,402,2016-12-05
+the definition of decoder layer in autoencoder model for mnist case,2,343,2016-12-03
+tensorflow memory MNIST tutorial,3,"1,247",2016-11-29
+Why does CNN with constant initialization learn at all?,1,365,2016-11-27
+How to get integer labels from MNIST examples after specifying one_hot=True?,0,"4,108",2016-11-27
+Training MNIST dataset with Sigmoid Activation function,0,797,2016-11-26
+How to make a Flatten filter by using MPS (MetalPerformanceShaders)?,6,216,2016-11-26
+Apply one input to tensorflow session and get output,0,586,2016-11-24
+How to convert a grayscale image into a list of pixel values?,2,"19,367",2016-11-21
+Poor performance on digit recognition with CNN trained on MNIST dataset,2,903,2016-11-16
+Why doesn't the TF MNIST example work with original data?,0,191,2016-11-14
+How to put my dataset in a .pkl file in the exact format and data structure used in “mnist.pkl”?,2,"1,683",2016-11-09
+python pickle UnicodeDecodeError,14,"10,679",2016-11-08
+Reading MNIST by byte with python,0,"1,244",2016-11-07
+Extract images from .idx3-ubyte file or GZIP via Python,24,"60,878",2016-11-04
+Neural Networks : Padding Numpy array to match largest shape,1,114,2016-11-02
+Understanding the learned weight for MNIST in TensorFlow,1,458,2016-11-01
+"Keras ,Tensorflow Couldn't open CUDA library libcudnn.so. LD_LIBRARY_PATH:?",4,"5,330",2016-10-26
+Tensorflow - Testing a mnist neural net with my own images,10,"3,970",2016-10-21
+Oscillating accuracy of CNN training with Tensor Flow for MNIST handwritten digits,5,"2,306",2016-10-20
+Tensorflow: Error rate doesn't improve even with more iterations or changing learning rate,1,794,2016-10-20
+statsmodel.api fit() throws overflow error,1,697,2016-10-17
+How can I make a matrix same as MNIST image dataset.,0,153,2016-10-12
+Parsing Yann LeCun's MNIST IDX file format,7,"6,037",2016-10-11
+Mnist dataset pattern recognition accuracy,1,631,2016-10-06
+TensorFlow and the MNIST data set,0,250,2016-10-02
+Neural Network doesn't work with large datasets,0,57,2016-10-01
+How to put my dataset in a .pkl file with many images whose size are different?,1,267,2016-09-28
+How do I load in the MNIST digits and label data in MATLAB?,2,"11,819",2016-09-19
+My own data to tensorflow MNIST pipeline gives ValueError: input elements number isn't divisible by 65536,1,442,2016-09-18
+tensorflow mnist (change image size),0,"1,041",2016-09-17
+tensorflow CNN mnist example training accuracy drops to 0.06 from 1 unexpectedly with large iteration,3,731,2016-08-26
+"Tensorflow Deep MNIST: Resource exhausted: OOM when allocating tensor with shape[10000,32,28,28]",17,"32,393",2016-08-22
+caffe test error no field named “net” on testing MNIST,1,307,2016-08-20
+Error with TensorFlow MNIST [duplicate],0,117,2016-08-12
+How many iterations a needed to train tensorflow with the entire MNIST data set (60000 images)?,4,"3,170",2016-08-11
+Reference for digit dataset on scikit learn,0,346,2016-08-10
+"invalid type, must be a string or Tensor [TensorFlow]",1,"8,331",2016-08-04
+Generating Grayscale Values Of An Image,0,327,2016-07-28
+TensorFlow MNIST example feeding own images,0,633,2016-07-27
+Tensorflow: Convert Tensor to numpy array then pass into a feed_dict,1,"8,579",2016-07-25
+Simple Neural Network with MNIST stuck at 17% missclasification error,0,140,2016-07-21
+Tensorflow Serving bazel build Error: mnist_inference_2.cc - Signatures' has not been declared,0,329,2016-07-15
+TensorFlow - Show image from MNIST DataSet,18,"26,859",2016-07-11
+"How to convert (samesize, categoriezed) images into dataset for TensorFlow",1,"2,408",2016-07-11
+how does mnist file is read through following code.,0,144,2016-07-10
+How to create 2-layers neural network using TensorFlow and python on MNIST data,5,"8,808",2016-07-01
+R - Image Plot MNIST dataset,8,"4,177",2016-06-21
+MNIST Tensorflow vs code from Michael Nielsen,0,563,2016-06-18
+"MNIST Tensorflow: How to manipulate a tensor of the form [i] to a tensor of a form […0,0,0,1,0,0…] where 1 is at ith position?",0,433,2016-06-17
+Mnist pixel borders,2,187,2016-06-09
+How do I Locate/Specify the Size of Pooling Layers in Caffe,2,197,2016-06-08
+What is the structure of torch dataset?,4,"4,239",2016-06-06
+MatConvNet MNIST network for two classes,0,243,2016-06-04
+Array List of Lists Python,2,417,2016-05-30
+center of mass of pixels in grayscale image,4,"4,335",2016-05-25
+Visualize MNIST dataset using OpenCV or Matplotlib/Pyplot,12,"31,039",2016-05-14
+Handwritten digit recognition pre-processing (Rotation),2,821,2016-05-07
+type matching error in theano [ Cannot convert Type Generic (of Variable <Generic>) into Type TensorType],1,193,2016-05-05
+Torch7 with CUDA (CUnn and CUtorch) - Torch Demos with MNIST,1,"2,457",2016-05-02
+How image is reduced to 7x7 by TensorFlow?,2,548,2016-05-02
+How can I improve numpy's broadcast,0,44,2016-05-01
+TensorFlow: Shape error,1,"1,352",2016-04-30
+Uninitialized value error while using Adadelta optimizer in Tensorflow,0,"1,606",2016-04-26
+Placeholder missing error in Tensor flow for CNN,1,"1,088",2016-04-26
+How to prepare my own data for tensorflow?,8,"3,313",2016-04-24
+PyBrain mnist classification,0,249,2016-04-18
+Which cmap (colormap) to use with matplotlib imshow() to diplay the MNIST dataset images as black characters on white background,1,"1,825",2016-04-15
+java.lang.OutOfMemoryError when running the DeepLearning4J MNIST sample,4,"8,212",2016-04-09
+How to save weights of training data from MNIST testing on tensorflow for future use?,5,"1,099",2016-03-17
+Channel swap needs to have the same number of dimensions as the input channels error in caffe,1,"1,515",2016-03-15
+python memory error when loading MNIST.pkl.gz,1,978,2016-03-13
+mnist dataset Lenet training,3,"1,689",2016-02-25
+Hard to understand Caffe MNIST example,4,"3,014",2016-02-21
+How to use opencv_dnn module for digit classification by using LeNet?,3,"2,461",2016-02-17
+Why is the number of features in the 1st layer of CNN for MNIST 32?,2,134,2016-02-16
+Caffe vs Theano MNIST example,2,"1,261",2016-02-16
+how to extract (plot) the hidden units/softmax (features) from a autoencoder using Tensorflow,0,344,2016-02-10
+import input_data MNIST tensorflow gives NoneType object (Attribute error),1,"1,060",2016-02-09
+Lua/Torch: Split MNIST dataset into training and test with equal number of labels in each set,1,759,2016-02-03
+How to use pickled file as dataset for keras,1,"1,211",2016-01-21
+how to make a dataset of handwritten arithmetic operators like MNIST dataset,2,307,2016-01-15
+Wrong dtype for a feed to the placeholder x-input TensorFlow,0,266,2016-01-14
+Tensorflow MNIST beginners need some understanding evaluation step,0,536,2016-01-07
+How to use the network trained using cnn_mnist example in MatConvNet?,2,"2,568",2016-01-06
+Why Caffe's Accuracy layer's bottoms consist of InnerProduct and Label?,0,657,2016-01-02
+Recognize Non-Digits,0,174,2015-12-24
+"Viewing all the values from MNIST dataset, on terminal after unpickling",0,"1,599",2015-12-22
+TensorFlow create dataset from numpy array,16,"15,837",2015-12-18
+MNIST - Training stuck,2,748,2015-12-16
+Loss CaffeNet vs LeNet on MNIST dataset,-4,354,2015-12-15
+mnist database parsing c,0,598,2015-12-13
+Why InfMnist (MNIST) size of 8M examples is calculated as 8 109 999 examples?,-2,577,2015-12-09
+Theano CUDA exception,8,"1,600",2015-12-02
+tensorflow beginner tutorial - read_data_sets fails,1,"10,154",2015-12-01
+neural network training using back propagation issue,2,106,2015-11-18
+Tensorflow - Does data adjancency matter ? - MNIST example,3,338,2015-11-14
+import input_data MNIST tensorflow not working,32,"88,277",2015-11-12
+Bayesian Neural Network: Computation of Hessian,2,598,2015-11-06
+How to stack Autoencoder/ Create Deep Autoencoder with Theano class,0,445,2015-11-06
+get mnist data as input for my program (RBMs),0,74,2015-10-28
+Error while loading MNIST database in Python,1,"1,039",2015-09-30
+Why does my neural network trained on MNIST data set not predict 7 and 9 correctly?,2,"1,117",2015-09-14
+What do P letters mean in neural network layer scheme?,2,71,2015-09-07
+How do I use a trained Theano artificial neural network on single examples?,0,614,2015-08-20
+"cPickle.UnpicklingError: invalid load key, ' '.?",6,"14,762",2015-08-02
+Torch: luajit out of memory on simple task,2,"1,150",2015-07-08
+Why I got unsatisfactory result when I use svm model in scikit-learner to recognize handwriting figures in MNIST?,0,90,2015-06-30
+Recommended values for OpenCV RTrees parameters,3,"1,000",2015-06-28
+What is the image type in MNIST dataset?,1,217,2015-06-22
+Python Numpy Error: ValueError: setting an array element with a sequence,3,"12,042",2015-05-29
+"Error in system(cmd, input = filelist, intern = TRUE) : 'zip' not found",0,"1,301",2015-05-21
+How to convert .txt to .idx3-ubyte format?,1,"4,564",2015-05-09
+Issue with neuralnetwork_turial.lua with data preprocessing,2,468,2015-02-02
+SOMLearning() & GetWinner() function in AFroge.Net (Neural Nerworks),1,292,2015-01-23
+Pre-processing before digit recognition for NN & CNN trained with MNIST dataset,8,"9,445",2015-01-13
+R:open mnist label file,0,257,2014-12-10
+How to create a file like the MNIST dataset,6,"2,693",2014-11-12
+NuPIC on MNIST Dataset,1,582,2014-10-07
+How to put my dataset in a .pkl file in the exact format and data structure used in “mnist.pkl.gz”?,10,"26,226",2014-09-29
+Reading MNIST dataset with javascript/node.js,4,"1,755",2014-07-29
+How to unpack pkl file?,69,"161,850",2014-07-23
+Poor performance on MNIST digit recognition data set,2,"2,283",2014-06-12
+Reading MNIST Image Database binary file in MATLAB,4,"4,572",2014-06-09
+Low accurracy on handwritten images when using MNIST as a training set,3,662,2014-05-20
+Little Endian Reading MNIST File. Numbers out of range,0,438,2014-04-23
+How to find why a RBM does not work correctly?,2,855,2014-01-22
+Matio performance,0,255,2014-01-17
+What did I do wrong with parsing MNIST dataset with BinaryReader in C#?,3,"1,578",2014-01-07
+Accessing Data of a Theano Shared Variable,4,"7,029",2013-10-21
+Reading the MNIST dataset using F#,3,476,2013-10-14
+MNIST and SGDClassifier classifer,1,"3,653",2013-09-19
+Using MNIST DATABASE for digits recognition.,1,"7,620",2013-08-07
+PyDev can't find machine learning data,1,"1,513",2013-07-14
+My 2 layer neural network gets only 2.05% test error rate on MNIST. Too low to be correct?,0,"1,870",2013-05-14
+Are there similar datasets to MNIST?,5,"3,083",2013-03-23
+Deskewing MNIST dateset,3,"1,511",2013-02-14
+Strange Neural Network Classification phenomenon,2,351,2012-10-23
+How can I read the MNIST dataset with C++?,2,"5,245",2012-10-21
+handwritten digit dataset with already extracted features,2,"1,801",2012-02-03
+Scatter plot of handwritten digits,1,803,2012-01-20
