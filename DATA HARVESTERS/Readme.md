@@ -85,3 +85,15 @@ Here we define the data members of the class:<br>
   * We use GRID - Global Research Identifier Database.
   * Here, first we merge address.csv and grid.csv to get the Latitude and longitude data with affiliation and country data into one dataframe and then we merge it with our dataframe.
 
+##### Stackoverflow Harvester
+Here, we are scrapping <a href="https://stackoverflow.com/">Stackoverflow</a> to get the data.<br>
+- Input
+  * Tags: The tag for which we need data. Ex: pytorch, nlp, etc.
+  * Page Start: The first page you need to scrape.
+  * Page End: The last page you need to scrape.
+- Output
+  * Questions
+  * Votes on each questions
+  * Views on each questions
+  * Date 
+ 
