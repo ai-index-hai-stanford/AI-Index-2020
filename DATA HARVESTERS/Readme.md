@@ -7,14 +7,15 @@
 
 ##### MAG Harvester
 
-This is a harvester for getting research data from MAG, i.e., https://msr-apis.portal.azure-api.net/products/project-academic-knowledge. It consists of two scripts:
-MAG_Conference_harvester -  https://colab.research.google.com/drive/1NfV8ahz39ylm5DkM3ZQQw07JullsAf9a?usp=sharing 
+The Microsoft Academic Graph is a heterogeneous graph containing scientific publication records, citation relationships between those publications, as well as authors, institutions, journals, conferences, and fields of study. We use <a href="https://msr-apis.portal.azure-api.net/products/project-academic-knowledge">Project Academic Knowledge API</a> to access MAG data.
+
+MAG_Conference_harvester - <a href="https://colab.research.google.com/drive/1NfV8ahz39ylm5DkM3ZQQw07JullsAf9a?usp=sharing">MAG Conference Harvester - colab</a>
 
 - Class MAG():<br>
         Arguments:<br>
         -----------<br>
         - conference: Name of the conference we need to fetch data.<br>
-        - data_fetch: What kind of Data to fetch from MAG (We have three    options right now Publication data, Field of Study data and Author data )<br>
+        - data_fetch: What kind of Data to fetch from MAG (We have three options right now Publication data, Field of Study data and Author data)<br>
         - start_date: start date of data<br>
         - end_date: end date of data<br>
         - retry: Number of attempts to connect to MAG<br>
