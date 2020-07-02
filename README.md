@@ -10,7 +10,7 @@
   a. Stackoverflow scrapes the data for the given tags.<br>
   
 #### 2. Datasets
-- MAG : Download data <a href="https://drive.google.com/drive/folders/1bxkBU_eGI_ZJ4AAmyVh12PRYSKxr4xc2?usp=sharing">here</a>.<br>
+- MAG : Download data <a href="https://drive.google.com/drive/folders/1bvo1Ot0GPs-ggMP65K-eAgXmBIw73OZ9?usp=sharing">here</a>.<br>
   a. Conference data <br>
     * Publication Count: It provides the data for publication count of each year of a given conference.<br>
     * Author: It provides the data for authors who have published in the particular conference.<br>
