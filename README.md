@@ -1,7 +1,7 @@
 # AI-Index-2020
 
 #### 1. Data Harvesters
-- MAG harvester<br>
+- MAG harvester <a href="https://colab.research.google.com/drive/1NfV8ahz39ylm5DkM3ZQQw07JullsAf9a?usp=sharing">Colab</a><br>
   a. Conference harvester<br>
   b. MAG Author Lifecycle<br>
   c. Publication/patent harvester<br>
