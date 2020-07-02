@@ -2,7 +2,7 @@
 
 ### Data Harvesters
 
-- Microsoft Academic Graph (MAG) harvester
+- Microsoft Academic Graph <a href="https://colab.research.google.com/drive/1NfV8ahz39ylm5DkM3ZQQw07JullsAf9a?usp=sharing">MAG</a> harvester 
 - Stackoverflow Harvester
 
 ##### MAG Harvester
