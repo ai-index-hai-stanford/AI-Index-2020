@@ -6,9 +6,14 @@
   b. MAG Author Lifecycle<br>
   c. Publication/patent harvester<br>
   
+### Potential Measurement Uncertainties in MAG Conference data
+
+- MAG Conference data measurement questions and Work in Progress <a href="https://drive.google.com/file/d/1HBr2BQFt_e_gvmPqRZlIuHOjj9ZM67A4/view?usp=sharing">here</a>.<br>
+
 - Stackoverflow Scrapper<br>
   a. Stackoverflow scrapes the data for the given tags.<br>
   
+ 
 #### 2. Datasets
 - MAG : Download data <a href="https://drive.google.com/drive/folders/1bvo1Ot0GPs-ggMP65K-eAgXmBIw73OZ9?usp=sharing">here</a>.<br>
   a. Conference data <br>
@@ -53,8 +58,5 @@ Download data <a href="https://drive.google.com/drive/folders/1fwRruAnBNYIisQFbS
   * Top Unanswered Question on the topic.<br>
   * The Number of questions over the years.<br>
   * Growth rate of the popularity of the topic.<br>
-  
-### Potential Measurement Uncertainties 
 
-- MAG Conference data measurement questions and Work in Progress <a href="https://drive.google.com/file/d/1HBr2BQFt_e_gvmPqRZlIuHOjj9ZM67A4/view?usp=sharing">here</a>.<br>
 
