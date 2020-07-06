@@ -2,14 +2,14 @@
 
 ### Data Harvesters
 
-- Microsoft Academic Graph <a href="https://drive.google.com/file/d/1BYaHElI_-cftwtPjM8OcJJ7mzAKwTIq1/view?usp=sharing">MAG</a> harvester 
+- Microsoft Academic Graph <a href="https://drive.google.com/file/d/1Bdk-hhs6RYlZUJt4EBhFt_l4uPpx-uE-/view?usp=sharing">MAG</a> harvester 
 - Stackoverflow Harvester
 
 ##### MAG Harvester
 
 The Microsoft Academic Graph is a heterogeneous graph containing scientific publication records, citation relationships between those publications, as well as authors, institutions, journals, conferences, and fields of study. We use <a href="https://msr-apis.portal.azure-api.net/products/project-academic-knowledge">Project Academic Knowledge API</a> to access MAG data.
 
-MAG_Conference_harvester - <a href="https://drive.google.com/file/d/1BYaHElI_-cftwtPjM8OcJJ7mzAKwTIq1/view?usp=sharing">MAG Conference Harvester - colab</a>
+MAG_Conference_harvester - <a href="https://drive.google.com/file/d/1Bdk-hhs6RYlZUJt4EBhFt_l4uPpx-uE-/view?usp=sharing">MAG Conference Harvester - colab</a>
 
 - Class MAG():<br>
         Arguments:<br>
