@@ -9,7 +9,7 @@
 
 The Microsoft Academic Graph is a heterogeneous graph containing scientific publication records, citation relationships between those publications, as well as authors, institutions, journals, conferences, and fields of study. We use <a href="https://msr-apis.portal.azure-api.net/products/project-academic-knowledge">Project Academic Knowledge API</a> to access MAG data.
 
-MAG_Conference_harvester - <a href="https://colab.research.google.com/drive/1NfV8ahz39ylm5DkM3ZQQw07JullsAf9a?usp=sharing">MAG Conference Harvester - colab</a>
+MAG_Conference_harvester - <a href="https://drive.google.com/file/d/1BYaHElI_-cftwtPjM8OcJJ7mzAKwTIq1/view?usp=sharing">MAG Conference Harvester - colab</a>
 
 - Class MAG():<br>
         Arguments:<br>
