@@ -48,7 +48,7 @@ Here we define the data members of the class:<br>
     * Attributes: Attributes are the values we need to fetch based on the queries. Each attribute in an entity has a particular name <a href="https://docs.microsoft.com/en-us/academic-services/project-academic-knowledge/reference-entity-attributes">Entity Attributes</a>. <br>
     * URL: It is the request url.<br>
   * Publication Count<br>
-    * We use Conference Instance Entity of MAG to get the publication count of each year of any of the conference listed in <a href="https://drive.google.com/file/d/1lqLp8UUqSmdDaXQ6begbRFpct3Q3uXNh/view?usp=sharing">Conferences ID</a>. <br>
+    * We use Conference Instance Entity of MAG to get the publication count of each year of any of the conference listed in <a href="https://drive.google.com/file/d/1co5raz5LZdmmPKBriRHTOR4MqEJsKnbA/view?usp=sharing">Conferences ID</a>. <br>
     * Searchstring = And(Composite(PCS.CN==self.conference),CISD=['self.start_date','self.end_date'])
     * Attributes are CISD,PC,CIL,PCS.CN.
     * Here, PCS.CN is the conference name and CISD is the Start date of the conference instance, PC is the publication count, CIL Location of the conference instance.
