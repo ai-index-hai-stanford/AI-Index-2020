@@ -53,3 +53,8 @@ Download data <a href="https://drive.google.com/drive/folders/1fwRruAnBNYIisQFbS
   * Top Unanswered Question on the topic.<br>
   * The Number of questions over the years.<br>
   * Growth rate of the popularity of the topic.<br>
+  
+### Potential Measurement Uncertainties 
+
+- MAG Conference data measurement questions and Work in Progress <a href="https://drive.google.com/file/d/1HBr2BQFt_e_gvmPqRZlIuHOjj9ZM67A4/view?usp=sharing">here</a>.<br>
+
