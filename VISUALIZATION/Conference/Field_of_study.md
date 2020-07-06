@@ -25,3 +25,93 @@ paper will be tagged with computer science, Machine learning, artficial intellig
 - In MAG the package, called Language Similarity, provides a function with which the semantic similarity of two text paragraphs can be quantified using the embedding models trained from the publications in the corresponding MAG version. This function in turn serves as a mixture component for another function that, for any paragraph, returns a collection of top concepts detected in the paragraph that exceed a given threshold. Details: ( https://www.aclweb.org/anthology/P18-4015.pdf )
 
 Example: https://academic.microsoft.com/home
+
+Level wise fields:
+MAG has 6 Levels in Fields of study hierarchy. So we should create a dataframe just like shown below:
+<table>
+  <tr>
+  <th>Level 0</th>
+  <th>Level 1</th>
+  <th>Level 2</th>
+  <th>Level 3</th> 
+  <th>Level 4</th>
+  <th>Level 5</th>
+  </tr>
+  <tr>
+    <td>Computer Science</td>
+    <td>Artificial Intelligence</td>
+    <td>Artificial Neural network</td> 
+    <td>Deep Learning</td>
+    <td>Deep neural networks</td>
+    <td>Quantized neural networks</td>
+  </tr>
+  <tr> 
+  <td>Computer Science</td>
+  <td>Artificial Intelligence</td>
+  <td>Artificial Neural network</td> 
+  <td>Deep Learning</td>
+  <td>Deep neural networks</td>
+  <td>Ideal ratio mask</td>
+  </tr>
+  <tr>
+  <td>Computer Science</td>
+  <td>Artificial Intelligence</td>
+  <td>Artificial Neural network</td> 
+  <td>Deep Learning</td>
+  <td>Deep belief network</td>
+  <td>Convolutional Deep Belief Networks</td>
+  </tr>
+  <tr>
+  <td>Computer Science</td>
+  <td>Artificial Intelligence</td>
+  <td>Artificial Neural network</td> 
+  <td>Deep Learning</td>
+  <td>Deep belief network</td>
+  <td>Restrict boltzmann machine</td>
+  </tr>
+</table
+
+
+#### Queries: (visit: Microsoft Research API )
+
+- Get level data:
+  * Expr: FL= 0 (or any number between 0-5 these are levels)
+  * Attributes: DFN,FL,PC,CC,FC.FN,FP.FN 
+  * Result: The Fields of each levels
+- Get the Fields based on Field level and parent Field.
+  * Expr: AND(FL=1,Composite(FP.FN='Computer science'))
+  * Attributes: DFN,FL,PC,CC,FC.FN,FP.FN
+  * Result: We get all the fields that are at level 1 and whose parent is computer science.
+  * NOTE: In case we are using FN in a query then the name should be in all lower and if FP.FN the first letter should be capital. 
+  * EX: expr: FP=’artificial intelligence’
+  * Expr: FP.FN=’Artificial intelligence’
+ 
+- Aggregating Field of study:
+  * We assign a higher aggregate to the lower levels. Like in aggregation it will be Level 5 > 4 > 3 > 2 > 1. Because Level 1 like you told is covering max count and there might be very few papers which have been assigned tags of lower level. 
+For example: Take 1st row of the above table:
+<table>
+  <tr>
+  <th>Level 0</th>
+  <th>Level 1</th>
+  <th>Level 2</th>
+  <th>Level 3</th> 
+  <th>Level 4</th>
+  <th>Level 5</th>
+  </tr>
+  <tr>
+    <td>Computer Science</td>
+    <td>Artificial Intelligence</td>
+    <td>Artificial Neural network</td> 
+    <td>Deep Learning</td>
+    <td>Deep neural networks</td>
+    <td>Quantized neural networks</td>
+  </tr>
+</table>
+
+- So, we assign values in ratio 1:2:3:4:5:6 so,
+  * level 5 = 6/21
+  * level 4 = 5/21
+  * level 3 = 4/21
+  * level 3 = 3/21
+  * level 1 = 2/21
+  * level 0 = 1/21 
