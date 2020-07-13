@@ -51,9 +51,9 @@ Download data <a href="https://drive.google.com/drive/folders/1fwRruAnBNYIisQFbS
   * Meta Analysis<br>
  
 - Stackoverflow<br>
-  * Most Popular Question on the topic.<br>
-  * Top Unanswered Question on the topic.<br>
-  * The Number of questions over the years.<br>
-  * Growth rate of the popularity of the topic.<br>
+  * Most Popular Question on a given topic.<br>
+  * Top Unanswered Question on a given topic.<br>
+  *  Number of questions over the years.<br>
+  * Growth rate of the popularity of a given topic.<br>
 
 
