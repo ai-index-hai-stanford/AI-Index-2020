@@ -5,10 +5,7 @@
   a. Conference harvester<br>
   b. MAG Author Lifecycle<br>
   c. Publication/patent harvester<br>
-  
-### Potential Measurement Uncertainties in MAG Conference data
-
-- MAG Conference data measurement questions and Work in Progress <a href="https://drive.google.com/file/d/1HBr2BQFt_e_gvmPqRZlIuHOjj9ZM67A4/view?usp=sharing">here</a>.<br>
+ 
 
 - Stackoverflow Scrapper<br>
   a. Stackoverflow scrapes the data for the given tags.<br>
