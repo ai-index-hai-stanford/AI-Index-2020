@@ -1,5 +1,5 @@
-Our data collection is inspired from people hard work in maintaining the valuable information to track progress humans in the field of Artificial intelligence. We got data from data archives, Github repositories, website, blogs, research paper publication and articles which compares their newly published models with the past created models and generates its performance metrics. 
-The data sources are Paperswithcode, nuScenes, MSCOCO, Kaggle and PASCAL VOC official site.
+Our data collection is inspired from the hard work of people maintaining data to track progress the Artificial intelligence. We curate data from data archives, Github repositories, website, blogs, research paper publication and articles which compares their newly published models with the past created models and generates its performance metrics. 
+The data sources include Paperswithcode, nuScenes, MSCOCO, Kaggle and PASCAL VOC official site.
 
 Hierarchy of domain and its related datasets: 
 (Domain>Dataset – Link to the data source)
