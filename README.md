@@ -4,7 +4,7 @@ All the AI Index data is available  <a href="https://drive.google.com/drive/fold
 
 
 #### 1. Data Harvesters
-- MAG harvester <a href="https://drive.google.com/file/d/1Bdk-hhs6RYlZUJt4EBhFt_l4uPpx-uE-/view?usp=sharing">Colab</a><br>
+- MAG harvester <a href="https://drive.google.com/drive/folders/1u-sV05_80HNZ8v5iG4u5UZT8kZyRBJET?usp=sharing">Colab</a><br>
   a. Conference harvester<br>
   b. MAG Author Lifecycle<br>
   c. Publication/patent harvester<br>
