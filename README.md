@@ -4,7 +4,7 @@ All the AI Index data is available  <a href="https://drive.google.com/drive/fold
 
 
 #### 1. Data Harvesters
-- MAG harvester <a href="https://drive.google.com/drive/folders/1u-sV05_80HNZ8v5iG4u5UZT8kZyRBJET?usp=sharing">Colab</a><br>
+- MAG harvester <a href="https://colab.research.google.com/github/ai-index-hai-stanford/AI-Index-2020/blob/master/DATA%20HARVESTERS/2.%20Conference/MAG/Conferences/MAG_Conference_harvester.ipynb">Colab</a><br>
   a. Conference harvester<br>
   b. MAG Author Lifecycle<br>
   c. Publication/patent harvester<br>
@@ -15,7 +15,7 @@ All the AI Index data is available  <a href="https://drive.google.com/drive/fold
   
  
 #### 2. Datasets
-- MAG : Download data <a href="https://drive.google.com/drive/folders/1bvo1Ot0GPs-ggMP65K-eAgXmBIw73OZ9?usp=sharing">here</a>.<br>
+- MAG : Download data <a href="https://drive.google.com/drive/folders/1u-sV05_80HNZ8v5iG4u5UZT8kZyRBJET?usp=sharing">here</a>.<br>
   a. Conference data <br>
     * Publication Count: It provides the data for publication count of each year of a given conference.<br>
     * Author: It provides the data for authors who have published in the particular conference.<br>
@@ -24,7 +24,7 @@ All the AI Index data is available  <a href="https://drive.google.com/drive/fold
     * Affiliation: It provides the aggregation of each affiliation over the years at a conference.<br>
     
 - Stackoverflow<br>
-Download data <a href="https://drive.google.com/drive/folders/1fwRruAnBNYIisQFbSTUOV1wPaLALWQhV?usp=sharing">here</a>.<br>
+Download data <a href="https://drive.google.com/drive/folders/1u-sV05_80HNZ8v5iG4u5UZT8kZyRBJET?usp=sharing">here</a>.<br>
 	a. Frameworks<br>
 	* Pytorch<br>
 	* Tensorflow<br>
